@@ -69,5 +69,6 @@ I'm very conflicted and in a dilemma in rating this book. It's a good story if i
 | **Pages** | 704 |
 | **Published Year** | 10/08/2010 (Original Published Date: 01/01/1986) |
 | **Date Read** | 16/05/2023 - 26/05/2023 |
+| **Rating** | 3.5 / 5 |
 | **Genre** | Literary Fiction, Classics, Book to Movie |
 | **Notes / Themes** | domestic violence, alcoholism, rape, mental illness, racial discrimination, sexism, suicidal attempt, suicidal thought, antisemitism, schizophrenia / psychosis | 
