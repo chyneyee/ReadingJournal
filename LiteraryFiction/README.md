@@ -13,8 +13,11 @@
 
 # P - R
 <details>
+  
   <summary>Author - Title</summary>
-  [Pat Conroy - The Prince of Tides](https://github.com/chyneyee/ReadingJournal/blob/main/LiteraryFiction/The_Prince_of_Tides-PatConroy.md)
+  
+  * [Pat Conroy - The Prince of Tides](The_Prince_of_Tides-PatConroy.md)
+
 </details>  
 
 # S - U
