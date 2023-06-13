@@ -134,6 +134,7 @@
 
 <details>
   <summary>Additional Notes</summary>
+  
 - The campaign 'hidden counter-revolutionaries' had been triggered by Mao's reaction to the behaviour of some Communist writers, notably the famous author Hu Feng. Mao feared that independent thinking might lead to less than total obedience to him. Several leading writers were arrested and labelled as 'counter-revolutionary conspiracy'. This indicates the beginning of the end of individual expression in China. The Party had taken over all the media when the Communists came to power.
 - All officials were living on a comprehensive allowance system called gong-ji-zhi. They received no salary, but the state provided them housing, food, clothing, daily necessities, and a small amount of pocket money - as in an army. Everyone had to eat in canteens where the food was meagre and unappetising. You were not allowed to cook at home, even if you had cash from another source.
 - The Party's intrusion into people's lives was the process known as 'thought reform'. Mao wanted external discipline and total subjection of all thoughts. Weekly meeting for 'thought examination' was held, and everyone had to criticise themselves for incorrect views and be subjected to the criticism of others. The idea was that people should be reformed to be more like peasants. 
