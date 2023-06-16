@@ -15,3 +15,17 @@ Although I didn't like Chang's father (Wang Yu), especially how he treated his w
 I sensed the transition of phases in Chang, changing tone from a loyalist to experiencing a dilemma between loyalty from what she had seen and heard to someone frustrated and tired of propaganda after the truth and her parents' experience.
 
 Chang detailed her family's story, and the narration was written chronologically, which makes it easy to read.
+<br>
+
+***
+## Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | 9780007379873 |
+| **Pages** | 713 |
+| **Published Year** | 27/10/2011 (Original Published Date: 01/01/1991) |
+| **Date Read** | 30/05/2023 - 08/06/2023 |
+| **Rating** | 5 / 5 |
+| **Genre** | Biography |
+| **Country** | China |
+| **Notes / Themes** | torture, death, violence, mental illness, suicidal attempt, miscarriage, hate crime, communism | 
