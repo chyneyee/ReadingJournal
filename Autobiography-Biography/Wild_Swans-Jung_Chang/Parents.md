@@ -1,0 +1,189 @@
+
+# Mother
+## Bao Qin / Xia De-hong (1931) 
+- Daughter of Yu-fang and General Xue Zhi-heng, and mother of Chang.
+- Moved to Dr Xia's house at age four. 
+- Given a new name with 'De Hong'. Hong means 'wild swan', and De means 'virtue'. Her family name changed to Xia.
+- Bullied by the younger members of Dr Xia's family. She tried to hide her bruises and cuts from her mother, but her mother knew.
+- When she was young, her closest friends were her pets. She had an owl, a black myna bird, a hawk, a cat, white mice, grasshoppers, and crickets in glass bottles. Her close human friend was Dr Xia's coachman, 'Big Old Lee'.
+- Fell into a well after being pushed by Dr Xia's grandchildren. She had a broken hip bone and became dislocated for a few years. The accident left her with a permanent slight limp.
+- She was a bright child that keen to study. She began school in 1938 when she was nearly seven.
+- On 11 September 1939, she was chosen to present flowers to the empress when Emperor Pu Yi and his wife visited Jinzhou. She was chosen not only because she was a star pupil but also always filled in 'Manchu' in her nationality on the registration form.
+- During the Japanese invasion, she was conscripted to work in a textile factory due to a labour shortage when still in school.
+- She loved sports and was a good runner. The coach told her to avoid winning the race as the Japanese didn't like to be beaten by the Chinese at anything.
+- After the Japanese surrendered, she asked her parents whether they could hide Miss Tanaka in their house because she was the only teacher at her school who never slapped the pupils and showed distress when her friend got executed.
+- She rejected all proposals from Kuomintang officers and decided to choose her own husband. She was disappointed with the treatment of women and hated the whole system of concubinage.
+- She was introduced to her teacher's brother, Miss Liu, but later decided to end the relationship with him due to his immoral behaviour.
+- In 1946, she argued with her stepfather (Dr Xia) due to her insistence not to attend Senior Liu's funeral, which led the stepfather to disown her. She packed her things and left the house. She joined the teacher training, which offered free board and tuition for girls who had completed three years in the school. She later reconciled with the family but preferred to keep her bed on campus so she could be dependent, and it was free.
+- She was firmly against the Kuomintang and was attracted to the Communists, that promised to put an end to injustice against women.
+- At fifteen, she decided to join the Communist after Cousin Hu's death. Her first job in Communist was distributing literature like Mao Zedong's 'On Coalition Government' and pamphlets on land reform and other Communist policies, smuggled into the city by hiding in big bundles of sorghum stalks.
+- Became president of the students' union. She Organised a campaign to get people to donate money for the teaching staff to win over the students and teachers for the Communist party.
+- Her ambition was to be a doctor because of the independence opportunity and Dr Xia's influence. She enrolled in the medical college at Exile University on a part-time basis in February 1948.
+- Elected as a chair for the Jinzhou Federation of Student Unions set up by the student unions from seven high and technical schools. They marched to the martial law headquarters to present a petition to General Chiu. She spent several days at the torture chamber to write a confession and give the names of Communists, but she didn't budge.
+- Organised a memorial service for the dead students in Tianjin.
+- She had good feelings for Hui-ge but worried that he might have political motives behind his actions. She smuggled detonators into one of the ammunition depots using Hui-ge without his knowledge.
+***
+- After the siege, she was approached by a Party representative to meet the man in charge of youth work in Jinzhou, Comrade Wang Yu. The first time she saw Wang Yu was on the 'Wanted' posters.
+- Her impression of Wang Yu was he laughed a lot and had shiny white teeth, which was unusual from most other guerrillas. She felt he was a knowledgeable person. The first present from Wang Yu was a romantic Russian novel called 'It's Only Love'.
+- She worked full-time for an organisation called the Women's Federation.
+- Her wedding day was on 4 May, also her eighteenth birthday. She packed her bedroll and moved to Wang Yu's quarter. She and her husband eliminate traditional rituals as love is more important. She returned to her house after the Provincial Party Committee said they couldn't marry yet. The Provincial Party Committee was suspicious of her because of her family's connection with Kuomintang, and she had to explain in detail in court.
+- She received approval for her wedding from the Party in late May.
+- She taught reading and writing to the women in the textile factory where she had worked under the Japanese and educated them about women's equality with men.
+- Being criticised by the Women's Federation for not knowing how to make shoes. She wasn't favoured to join the Party by older, conservative, peasant women in the Women's Federation.
+- Refused to write a verbal self-criticism for spending the night with her husband but was admonished by her husband to obey the Party.
+- Ostracised within the Federation, her character and commitment were being questioned. She had doubts about herself for the first time, confused and isolated after recently married at just 18.
+***
+- She found Jinzhou unbearable and asked her husband to leave. Her husband agreed as he received a promotion and wanted to return to his hometown, Yibin. Two months after the marriage, less than a year after Liberation, they left Jinzhou on 27 July 1949.
+- Granted provisional membership in the Party and could become a full member in one year. 
+- She sought understanding and sympathy from her husband, who put the Party first than everything. She experienced tough road conditions, harsh climates and a dangerous journey by foot to Sichuan.
+- At Nanjing, she experienced a miscarriage which almost cost her life. She had to have a blood transfusion, and her womb scraped. After the operation, the first thing she said was, 'I want a divorce'.
+- She wanted to return to Manchuria to resume medical studies because she felt she could never please the Party no matter how hard she tried. Her husband stopped her because there was an unbreakable ban on opting out of the system, which was unwritten.
+- She recuperated in a magnificent mansion belonging to the prominent financier of the Kuomintang, Chiang Kai-shek's brother-in-law. She stayed in Nanjing for nearly two more months. Towards the end of December, she left Nanjing with a steamer.
+- In the middle of January, she reached Chongqing. The husband sent a sampan that could bring her directly to Yibin, and she arrived there the next afternoon, the eve of Chinese New Year.
+- She gave respect by kowtowing the mother-in-law when they first met, ignoring the Communist rule, which wanted to get rid of the tradition. She loved her husband's family, and they loved her.
+- In Yibin, she was assigned a job in the Public Affairs Department of the government of Yibin County, which prioritises feeding the population.
+- Five months after the miscarriage, she was pregnant again while on a series of expeditions to collect food and daily battles with the bandits. Her boss, Mrs Mi, who had lost her baby during her guerrilla life, wanted her to go to the countryside and continue working. Her husband agreed with her boss, putting his loyalty first to the revolution instead of her safety. After several horrible incidents occurred to women by bandits, the women were no longer involved in food-collecting expeditions.
+- She drifted apart from her husband during the bandit threat as the husband worked more and saw lesser.
+- Her mother (Yu-fang) was unqualified to stay with them because it was only for officials in certain ranks. She received complaints from Mrs Mi, and her husband (Wang Yu) agreed. She has bitter resentment toward her husband, who followed the rules without rationality and never prioritised her safety.
+- In July 1950, one-year provisional membership in the Party was due to end. She received intensive grilling from her comrades and more self-criticism. In the end, two comrades voted against full Party membership for her, which caused her to go into a deep depression. However, she knew getting into the Party was essential to avoid being stigmatised and ostracised. She even had suicidal thoughts of punishing her husband after being rejected by the Party.
+- She gave birth to her first child (Xiao-hong) on 8 November 1950. She felt grief and remorse that she hit her eldest daughter as a baby during her depression.
+- After recovering from depression and statutory leave, she moved to a new job in the Communist Youth League of Yibin City. She was promoted to head of the Youth League when she was under twenty. Later she became a full Party member in July under a new cell. The new colleagues were similar in age and more carefree. Her promotion allowed her to bring her mother to Yibin permanently.
+- She had TB in March, four cavities had developed in her lung, and she was pregnant with her second daughter (the narrator, Chang or Er-hong). She fainted in late November and was well cared for by Chinese Catholics in a foreign missionary hospital.
+- She gave birth to a second daughter on 25 March 1952.
+- Her job or position grades were upgraded only twice - in 1962 and 1982 and still Grade 15 by 1990.
+- Her third child was born on 23 May 1953. A boy called Jin-ming.
+- She was promoted to head of the Public Affairs Department for Yibin.
+***
+- She left Yibin for Chengdu with her mother, eldest and second daughter, Er Hong's wet nurse and the bodyguard at the end of June at age 22.
+- In Chengdu, she was made head of the Public Affairs Department for the city's Eastern District.
+- The fourth child was born on 15 September 1954. A second son named Xiao-hei.
+- She was treated as a prime suspect during the 'counter-revolutionary' campaign due to her past that had connections with Kuomintang. Her vague past required her to be confined and sleep in a room in a different part of the office building. She was detained for six months to be interrogated and monitored by various women companions who followed her everywhere.
+- She separated all four children into different nurseries after their wet nurses left due to the new campaign.
+- Released from detention in January but still need to report every night. In the summer of 1956, 'parole' restrictions were lifted.
+- She faced a dilemma and couldn't produce 100 anti-Communists or rightists in the organisation under her. She was labelled as having 'right-wing tendencies' by her boss Guo because she failed to state her attitude towards Marshall Peng's criticism letter on Great Leap Forward.
+- In 1961, she was pregnant again but couldn't get an abortion as it required a minimum three-year gap between abortions. She had aborted her baby in 1959.
+- In 1962, she was raised to Grade 16 as compensation as she had received a warning for her 'right-wing tendencies'.
+- She didn't like dancing because she couldn't get the rhythm right.
+- She went to Peking to send her husband's letter to Chairman Mao. She pleaded the Vice-Premier Tao Zhu to order the Sichuan authorities to release her husband.
+- Returned with her mother and Xiao-fang (fifth child) in the second week of October when the Party convinced her mother to go to Peking to bring her back to Sichuan. The authority regarded her as anti-Party, ignoring their advice not to go to Peking.
+- People refused to turn on her or denounce her because she helped many people and took the risk not to victimise anyone in previous campaigns.
+- She and her husband decided not to become officials after the Cultural Revolution. They plan to apply to be ordinary citizens and enjoy a normal family life.
+- She was attacked by ex-convicts, and they ordered her to kneel on broken glass. They had nothing against her personally but because she had been one of the top leaders in her district.
+- She was being paraded through the streets several times with a dunce cap on her head with a heavy placard hanging from her neck; her name was written with a big cross over it to show her humiliation and demise. She and her colleagues were forced to go down on their knees and kowtow to the crowds every few steps. They had to bang their foreheads loudly on the stone pavement.
+- Forced to kneel for 1.5 hours on the grit-covered ground in the open under the heavy rain. Later, she had a heavy blow on her head by a brothel owner who had been imprisoned when the Communists clamped down on prostitution. She almost lost her left eye when the brothel owner wanted to thrust an awl on her left eye, but luckily the Rebel guard struck the attacker.
+- Developed a haemorrhage from her womb for six years. She had a hysterectomy in 1973, and she bled most days. Doctors prescribed hormones to control the blood flow, and the two doctors gave her injections.
+- She went to Peking to appeal for her husband after he was taken by the Rebels from his department. She followed the Red Chengdu Rebel group, which was protesting to bring down the Tings and had secured a meeting with Premier Zhou. She got a note from Premier Zhou to release her husband from the accusation of being 'counter-revolutionary'.
+- She was almost totally deaf due to her left ear being permanently damaged from her husband's attack when her husband experienced mental illness. She moved to stay in her department with her family for their safety.
+- She went to the Red Chengdu headquarters to see Yan and Yong, who helped her during the Peking trip. She asked them for help to get her husband admitted to the hospital because the Sichuan Medical College was part of Red Chengdu, and they had a psychiatric hospital.
+- She asked Chen Mo (Tings' assistant) to stop her husband's beatings, but the Tings would only forgive her husband if he wrote praises about them. She received intense pressure from the Tings to denounce her husband and undergo many denounce meetings. Her teenage contacts with Kuomintang were dragged up, and she was ordered to admit that she was a Kuomintang spy. She was kept in various forms of detention on and off for nearly two years, from late 1967 to October 1969. She signed many confessions but refused to denounce her husband and denied all spy charges.
+- She was detained in the cinema on a street that used to be the busiest shopping street in Chengdu. She returned home when her mother was sick but returned to detention after her mother was cremated two days later.
+***
+- She was sent to a place in the Xichang hinterland called Buffalo Boy Flatland but allowed ten days to make arrangements.
+- Arrived in Buffalo Boy Flatland in November 1969. She worked 12 hours daily from 7 am until 7 pm in harsh weather. She only ate rice and boiled cabbage.
+- She was struck with hepatitis, and the womb bleeding worsened. The doctor and the hospital staff were grateful to her for protecting them before Cultural Revolution. The doctor exaggerated her illness, and others separated her as they worried about infection. The tormentors left her alone. Sympathetic inmates and the cook cared for her, and her health improved. She moved back to the camp after about forty days.
+- She missed her children and felt remorse as an absentee mother with her pointlessness of devotion. Ten days before Chinese New Year in February 1970, Er-hong visited her in the camp.
+- In the summer of 1971, she was sent back to Chengdu for haemorrhage treatment. The doctor discovered she had a skin disease called scleroderma which can eventually spread to the internal organs. Then she would shrink and die in three or four years.
+- Rehabilitated in November 1971 and didn't have to return to her camp. She didn't have a job but still received a salary.
+- She went to Peking to see some top-class specialists with the company of Er-hong, and they left for Peking in April 1972. Several gynaecologists diagnosed a benign tumour in her womb and recommended a hysterectomy. The dermatologists thought the scleroderma might be localised and not fatal. She did a hysterectomy the following year, and scleroderma remained localised.
+- She reunited with her husband in Peking after his release from the camp.
+- She went to the wife of the head of the Enrolment Committee and other chiefs to back her daughter Er-hong for the university entrance. Since she returned from Peking, she has been helping her children, especially Xiao-fang's late schooling.
+- She helped Xiao-hong get an incurable diseases certificate so she could return to Chengdu to be with her husband.
+- She collapsed after her husband died and threatened to denounce the authorities at the memories service if she didn't get an acceptable valedictory.
+- Reported for work at her department the day after Mao's death. She was given a job as the number-seven deputy director in her department.
+- She stepped up her campaign to clear her husband's name so that it won't disqualify Er-hong from going abroad. She asked her husband's former colleagues for help and with Zhou Enlai's note.
+- Her family background was redefined from 'warlord' to 'doctor'.
+- She applied for early retirement in 1983.
+<br>
+
+# Father
+## Wang Yu / Chang Shou-yu
+- Husband of Bao Qin and father of Chang.
+- Born in 1921 in Yibin. Seventh of nine children.
+- He had a dark face and big, wistful eyes. He looked dreamy in his late 20s when he met Bao Qin. He was a little shorter than Bao Qin.
+- He was a commander with the guerrillas in Jinzhou since late 1945. He was the Head of the Secretariat and a member of the Communist Party Committee governing Jinzhou and was later appointed head of the city's Public Affairs Department.
+- Loved books and learned to read classical prose at 3.
+- At age thirteen, he gave up school after his father died.
+- In 1935, he left Yibin and went down the Yangtze to Chongqing to find a job. He worked twelve hours daily as an apprentice in a grocery store and received no pay but just a bed and two meagre meals daily.
+- His eldest sister living in Chongqing, married to a schoolteacher, supported their mother after the father died. He felt hurt by what his sister said and left the house and never returned.
+- His boss refused to give him supper and started abusing him, leading him to go back to Yibin and do odd jobs.
+- Around July 1937, he started working in a bookshop that sold left-wing publications that allowed him read many books at night. His secondary job was as an explainer in a cinema. His job was to stand beside the screen and explain what was happening, as the films were neither dubbed nor subtitled. Most were American silents.
+- He joined an anti-Japanese theatre group and acted in women's roles due to his slender figure. He first encountered the Communist underground through friends in a theatre group which led him to join the Party in 1938 when he was 17.
+- In 1940, he set out on his own long march to Yan'an, which took him four months. He arrived in April 1940. 
+- He was the youngest researcher in the Academy of Marxist-Lennist Studies. In 1942, he and other research fellows put up posters criticising their leaders and demanding more freedom and the right to greater individual expression. When the Academy was shut down, he was sent to teach ancient Chinese history to semi-literate peasants-turned-officials at the Central Party School. 
+- He toured the surrounding areas in Yan'an collecting folk poetry, learned to be a graceful and elegant dancer in Western-style ballroom dancing, and often went swimming in the Yan River.
+- He was an excellent spinner when Mao called on everyone to take up hoes and spinning wheels and produce essential goods due to tightened food and clothing supplies.
+- A month after the Japanese surrender, he was ordered to leave Yan'an and head for Chaoyang. He and his small group reached there in November after walking for two months. Within a month, a proper functional administration with him became a deputy chief in Chaoyang and announced new government policies.
+- His unit withdrew from Chaoyang into the mountains following Mao's order. By February 1946, he and his unit were on the run from the Kuomintang. They had to break into smaller groups in April and later set up his guerrilla base in a hilly place called Six Household Village.
+- At age 25, he was well known due to his unit's actions. There was a price on his head and 'Wanted' notices all over the Jinzhou area.
+- In March 1947, his group retook the town of Chaoyang.
+- In early 1948, his guerrillas joined up with the regular army. He was in charge of tracking Kuomintang forces' deployment and monitoring their food situation. Much of the information came from agents inside the Kuomintang, including Yu-wu. He heard of Bao Qin from these reports for the first time.
+- He was a fastidious man. He had to brush his teeth every day, used a handkerchief to blow his nose, and never dipped his face towel in the public washbasin due to widespread eye diseases.
+- Scholarly and bookish, he always carried some volumes of classical poetry, even in battle.
+- He found Bao Qin (or De-hong) admirable, pretty, feminine, coquettish, soft-spoken, and persuasive. He was a good calligrapher and even wrote beautiful poems for Bao Qin in Harbin, and they fell in love.
+- Sought permission by writing a letter to Jinzhou City Party Committee for a relationship and marriage with Ban Qin.
+- He was well likened by the Xias after being introduced to the family, except Yu-fang (Bao Qin's mother), who still has doubts and criticism of him.
+- He was the first to treat Yu-lin as an equal and gave the couple movie tickets several times.
+- Filed marriage application with Bao Qin less than two months after returning from Harbin. 
+- He didn't like the mother-in-law because she didn't treat him well.
+***
+- In 1949, he transferred back to his hometown Yibin.
+- He prioritised his Party's reformation with the absence of a rational mind.
+- Entitled to being driven in a jeep with a bodyguard and insisting not to drive his wife despite her hardship as he was against nepotism and favouritism. 
+- Promised that he would change to be more considerate after the wife's miscarriage in Nanjing.
+- Lived in an elegant mansion with a garden after returning to Yibin.
+- He arrived six days after Yibin had fallen on 11 December 1949 and was appointed head of the county of Yibin. He had reached by boat with a group of more than a hundred students who had joined the revolution in Nanjing.
+- His real surname is Chang, and called himself Chang Shou-yu in Yibin.
+- Wouldn't budge or bend the Party's rule to allow his mother-in-law to stay with them to care for his pregnant wife.
+- Entitled to hot water but did not allow his wife to use leftover hot water after criticism from the bodyguard.
+- Promoted to become the governor of the Yibin region.
+- He was stranged by the family due to his strictness in following Communist rules. He rejected his older brother's promotion to manager in the tea company, which angered the tea management board, and his brother never spoke to him again.
+- He treated everyone by the same criteria and bent backward to be fair by following his instincts.
+- He was set by higher authorities to have grade 11 and be in charge of vetting the rankings in the region. He demoted his husband of his youngest sister two grades and relegated his wife from Grade 15 to 17.
+- He offered his family house for the teachers with problems finding accommodations.
+- He was in charge of anti-corruption in his region.
+- After the third child was born, he suggested leaving Yibin to protect his wife from her boss, whom he rejected her seduction.
+- He transferred to Chengdu as head of the Arts and Education office to avoid the Tings.
+***
+- His position was upgraded to Grade 10, and promoted to deputy director of the Public Affairs Department for the whole of Sichuan.
+- He never phoned his wife once in the six long months of detention because to comfort his wife would imply some distrust of the Party.
+- Earned fixed salaries according to their civil service grade and lost his bodyguard after the state allowances system had been abolished in late 1956. He was a member of Gao-gan, 'high officials', a term for Grade 13 and above people.
+- In March 1957, in Peking, he received an invitation from a close friend who was also a writer to visit her in Tianjin. He was rushing to go home and didn't go to Tianjin. Several months later, she was labelled the number one rightist in China.
+- In 1958, he wrote a letter to the Central Committee in Peking stating that steel production was a waste of resources, peasants were exhausted, and there was a food shortage. The letter was not going forward by Governor Lee and told him to have faith in the Party.
+- Volunteered to help with famine relief in the communes, staying and starving with the peasants. He suffered from hepatomegaly and oedema, and deep depression. In 1961, he remained in the hospital for months and was no longer the assured purist. He spent a lot of time fishing at the river near the hospital. Fishing suggested a retreat to nature, an escape from the day's politics, a symbol of disenchantment and noncooperation.
+- In 1962, he was assigned to move to modern Western-type apartments with newly built amenities. The apartment occupied a whole floor due to the ranking.
+- A good dancer.
+- Mellowed when over forty and became closer to his wife.
+***
+- On 26 August 1966, students targeted him during the Cultural Revolution and labelled him a capitalist roader who opposed the Cultural Revolution.
+- Wrote a letter to Chairman Mao to plea for stopping the violence during Cultural Revolution, especially since he had been victimised by the students.
+- He was taken into custody after the meeting on 26 August. He returned home on the 2nd week of October, and two days later, he was sent to a health clinic.
+- Both he and his wife were denounced as capitalist roaders. They were attacked on wall posters. His foremost accuser was Mrs Shau, who wanted to take revenge because she considered that her promotion was blocked by him. She spat in his face and slapped him. However, he was still liked and well-respected by most of his staff.
+- He apologised to Er-hong for having been dictatorial with the family. He started to find positivity to cope with the Cultural Revolution and accepted criticism and the rebellion of young people. 
+- Mrs Shau led the Rebels under the banner of 26 August and marched into his house. They took his books and were going to burn the sacks of books on the department's grounds the next day after a denunciation meeting against him. He later burned his remaining books at home in tears.
+- Possessed strong will to resist kneeling and kowtowing to the massive portrait of Mao because it was undignified feudal practices that the Communists were committed to eliminating. Under forceful attempts and attacks by the Rebels, he openly opposed Cultural Revolution and Chairman Mao. He was beaten repeatedly but still stood his ground. He was secretly admired by the Rebels for his strong will.
+- One day in February 1967, he expressed his opinion to his wife about a realisation that the Cultural Revolution was a bloody purge to increase Mao's personal power. He wanted to write a letter to Chairman Mao and suggested to his wife to divorce for the sake of the family's safety.
+- In late March 1967, the Tings came to see him and wanted to include him in the Revolutionary Committee. He rejected their offer and offended them when he told them their punishment was just. The visit from Tings made him write a letter to Chairman Mao to beg him to stop the Cultural Revolution and mention that the Tings would bring disaster to the Party and country. He posted the letter by registered airmail. Three days after he posted the letter, three Rebels policemen arrested him because the letter had been intercepted. He knew he would get arrested but wanted to take a chance. When he was leaving, he asked his wife to stay loyal to the Party, divorce him, and take care of the children.
+***
+- Released in April but in a bad mental state. He was told a series of lies by his interrogators that led him to suspect his wife as a spy. He didn't know the real reason for his sudden release because the wife didn't want him to know that she had asked for a favour from the right-hand man of the Tings. His mental health was worsening under a series of Rebels' brutal denunciation meetings, and he even attacked his wife one day. He refused to accept treatment by the Rebels.
+- He was admitted to the mental hospital of Sichuan Medical College. After a week's observation, the psychiatrist, Dr Su, concluded it was schizophrenia. He was given electric shocks and insulin injections, which had to be tied tight onto the bed. He began to recover his sanity after a few days. He received special food and a full-time nurse on the orders of Red Chengdu and was frequently visited by Yan and Yong. The treatment lasted about 40 days and was back to normal by mid-July. He was discharged. He and his wife were taken to Chengdu University and given a suite in a small self-contained courtyard with student guards at the gate.
+- He refused to support Red Chengdu and represent them on the Sichuan Revolutionary Committee. One group spoke up for him for his rare character, but another was angry and threatened to beat him. He wouldn't go against his principles, although he was grateful to the Rebels. He returned home at the end of September 1967, accompanied by Yan and Yong, who couldn't protect him anymore.
+- He and his wife immediately fell into the hands of the Tings and Mrs Shau's group. One day, the thugs from the 26 August faction brought him to the office and tortured him. He went to an orthopaedic hospital and was diagnosed with broken ribs. He couldn't be hospitalised because he needed authorisation, and the hospital was too cramped with other injured people.
+- He would not sell his soul after his wife asked him to write praises about the Tings on wall posters.
+- In and out of detention for over a year until the end of 1968.
+***
+- Mao's new power system after the establishment of the Revolutionary Committee caused the family income to be cut by more than half. All the capitalist roaders must move out of the compound to make room for the new leaders. The family was assigned some rooms at the top of a three-storey house with no running water or toilet. They had to go downstairs to brush their teeth. The new home was elegant and more beautiful, and they were punished with the despised beauty. The house was on Meteorite Street.
+- In 1969, together with two daughters and Jin-ming was expelled from Chengdu one after another and sent to distant parts of the Sichuan wilderness like millions of urban dwellers to be exiled to the countryside.
+- He was the first in the family to be expelled after New Year 1969. He was sent to Miyi County in the region of Xichang, on the eastern edge of the Himalayas. It took four days of journey by truck, no railway.
+- Released from detention a few days before the exile. He wrote a letter to the Revolutionary Committee, begging to see his wife, but his request was turned down. Er-hong brought him to wait on the street to see his wife.
+- The camp was under the direct control of the Sichuan Revolutionary Committee and, therefore, under the Tings. Still subjected to frequent denunciation meetings in the evenings after a hard day's work. He refused to wear a white armband with black characters saying 'counter-revolutionary element in action', and the Rebels backed away.
+- Envy of the camp because no one else had so much company from their children. He apologised to Xiao-hei for being too tough on him when he came to the camp to visit him. He was in a constant state of remorse and blamed himself for his treatment to his family.
+- He cried in front of the inmates when he received the news from his wife of her disease. He wrote a letter to apologise for not being a decent husband. 
+- His health was deteriorating, and for nearly five years, he had been taking large doses of tranquilisers to keep himself under control.
+- Jin-ming was in the camp with him from the end of 1971 until the spring of 1972. In his deteriorated state, he told his son that if he died like this, don't believe in the Communist Party anymore.
+- He was still in Miyi, but part of his salary, which had been held since June 1968, was returned to him in 1972.
+- End of May 1972, he was allowed to leave his camp. The camp doctors diagnosed him with dangerously high blood pressure, severe heart and liver trouble, and vascular sclerosis. They recommended a complete checkup in Peking. He left Miyi after three and a half years.
+- His principle made him reluctant to ask for help from his old colleagues in Sichuan Enrolment Committee to help with his daughter's university entrance.
+- He was not rehabilitated or given a job since returning from Peking in the autumn of 1972.
+- In May 1974, on the verge of a breakdown, he asked to be given psychiatric treatment and stayed in the hospital for a month.
+- On 9 April 1975, he had a heart attack, and the doctor took too long to arrive, and it was too late to save him. He died at age 54. His memorial service was on 21 April 1975. It was attended by about 500 people.
+- On 12 June 1978, a senior official turned up at Meteorite Street bearing the Party's verdict on him. The senior official handed his wife a flimsy piece of paper written that he had been a good official and a good Party member.
