@@ -73,5 +73,5 @@ I'm very conflicted and in a dilemma in rating this book. It's a good story if i
 | **Date Read** | 16/05/2023 - 26/05/2023 |
 | **Rating** | 3.5 / 5 |
 | **Genre** | Literary Fiction, Classics, Book to Movie |
-| **Countr** | America |
+| **Country** | America |
 | **Notes / Themes** | domestic violence, alcoholism, rape, mental illness, racial discrimination, sexism, suicidal attempt, suicidal thought, antisemitism, schizophrenia / psychosis | 
