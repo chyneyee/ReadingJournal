@@ -195,3 +195,17 @@ Isaac went to the loo and asked Elin to look after Sam. When he returned, he saw
 - Too descriptive with every architectural design and ornament or decoration. Walls, chairs, lighting, furniture, paintings etc.
 - Strangely, I liked the story, but I disliked and was disappointed with the inconsistencies. For example, there isn't a clarification about the blood stain on the rug in Isaac's room unless Elin makes her own assumption and what Isaac tells her is the truth. Then, what is the story behind Isaac being sacked from the university? Elin is so sure that Laure pushed her into the plunge pool. But the epilogue indicates another person, or is it an excuse to have another book in this series? Elin is also very sure that her attacker was a man due to his body figure, but most of the villains were women in the end. It's also confusing that Elin and Laure were childhood friends, and Isaac didn't know about it but later revealed that Elin didn't keep in touch with Laure. Elin tells Will that Isaac and Laure met on social media, but at the same time, Laure and her mother visited the Warners every August, living in their house. 
 - In the end, after all the things that had been done to the victims, it's difficult to be convinced that the killer is capable of doing all the things alone or even with another person's help.
+<br>
+
+***
+## Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | 9781473577275 |
+| **Pages** | 448 |
+| **Published Year** | 04-02-2021 (Original Published Date: 01-01-2010) |
+| **Date Read** | 19-06-2023 - 22-06-2023 |
+| **Rating** | 2.5 / 5 |
+| **Genre** | Mystery Thriller |
+| **Country** | Switzerland |
+| **Notes / Themes** | murder, rape, death, trauma, child death, panic attack, torture | 
