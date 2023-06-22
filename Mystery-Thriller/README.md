@@ -20,6 +20,11 @@
 # P - R
 
 # S - U
+<details>
+  <summary>Author - Title</summary>
+
+  * [Sarah Pearson - The Sanatorium (Detective Elin Warner #1)](Mystery-Thriller/The_Sanatorium-Sarah_Pearse.md)
+</details>
 
 # V - X
 
