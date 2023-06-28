@@ -8,6 +8,11 @@
 # G - I
 
 # J - L
+<details>
+  <summary>Author - Title</summary>
+
+  * [James Leo Herlihy - Midnight Cowboy](Literary-Fiction/Midnight_Cowboy-James_Leo_Herlihy.md)
+</details>
 
 # M - O
 
