@@ -1,4 +1,7 @@
-# Storyline
+# Midnight Cowboy - James Leo Herlihy
+<br>
+
+## Storyline
 Set in Houston, Joe Buck is grooming himself in perfection, dressing up like a cowboy, before leaving the hotel. He heads to the Sunshine Cafeteria with his suitcase and tells his workmate that he's going to the East, where women in the East are willing to pay for men.
 
 The story recounts Joe's childhood, from being abandoned by his mother when he was 7 to losing his virginity at 17. His entire childhood was surrounded by women, but not many male adults who could set an example for him. This leads him to live in confusion without anyone to ask for answers to during his adolescent life. Living his life filled with loneliness and hunger for affection, his maturity development is slower than his peers, and his nativity continues until adulthood.
@@ -13,7 +16,7 @@ Joe's money is running out, and the hotel locks him out of his room. He has to c
 <br>
 
 ***
-# Spoiler
+## Spoiler
 <details>
   <summary>The Ending</summary>
 
@@ -31,8 +34,8 @@ The bus will take thirty-one hours to reach Florida. During the journey, Joe pro
 </details>
 
 ***
-# Main Characters
-## Joe Buck
+## Main Characters
+### Joe Buck
 - Six-foot-one, broad-shouldered, big front teeth, swaggering, cool and handsome.
 - Twenty-seven years old but as naive as eighteen.
 - Born out of wedlock.
@@ -57,7 +60,7 @@ The bus will take thirty-one hours to reach Florida. During the journey, Joe pro
 - Obsessed with cowboys and constantly checking himself in the mirror.
 <br>
 
-## Rico Rizzo or Enrico Salvatore
+### Rico Rizzo or Enrico Salvatore
 - Big brown hair and ears, dirty and curly hair, a disabled child-sized man of about 21 or 22 from the Bronx.
 - Left home since 16. Live in an evacuated space with X-taped windows and move around from time to time.
 - 13th child of tired immigrant parents. His father was a hardworking brick-layer, and his mother was a burn-out child bearer, usually sick, and managed the family from her bedroom.
@@ -70,16 +73,16 @@ The bus will take thirty-one hours to reach Florida. During the journey, Joe pro
 <br>
 
 ***
-# Side Characters
+## Side Characters
 <details>
   <summary>List of Characters</summary>
 
-## Adrian Schmidt
+### Adrian Schmidt
 - Blamed Joe, which caused Anastasia not to have sexual intercourse with him.
 - He probably sends the letter to Annie's parents to report to them about her sexual life.
 <br>
 
-## Anastasia Pratt
+### Anastasia Pratt
 - Famous at 15 among the young people in Albuquerque.
 - Bizarre or improbable since 12.
 - Neither pretty nor unpretty, ordinary schoolgirl.
@@ -92,39 +95,39 @@ The bus will take thirty-one hours to reach Florida. During the journey, Joe pro
 - The parents sent her to a mental institution after they received a letter about her sexual activities and her visits to Joe.
 <br>
 
-## Bobby Desmond
+### Bobby Desmond
 - Joe's friend from grade school.
 - Friend with Joe for sex but had a wedding three weeks later without inviting Joe.
 <br>
 
-Cass Trehune
+### Cass Trehune
 - Age 31, looks like a rich lady with a French poodle.
 - Brunette, large size, a lot of makeup on her face and fingernails.
 - The second lady that Joe tried to make an advance and the first one that Joe was able to work on his charm successfully.
 - A high-class escort whom Joe mistaken is a rich woman.
 <br>
 
-Dolores
+### Dolores
 - Under 17, short, dark, clean-faced.
 - The prostitute works for Juanita and almost has sexual intercourse with Joe.
 <br>
 
-Juanita Collins Harmeyer Barefoot
+### Juanita Collins Harmeyer Barefoot
 - Mother of Tombaby Barefoot.
 - Runs a brothel with her son in Texas.
 <br>
 
-Marvin
+### Marvin
 - A young, thirty, but nearly bald and had a high naked-looking forehead and burning beady eyes with thick spectacles lenses.
 - Obedient to Perry, and possibly he is a pimp.
 <br>
 
-Mr O'Daniel
+### Mr O'Daniel
 - Fat, sagging pouches on the face, heavy brows, dark-coloured sacs below the eyes.
 - Religious fanatic and assumed Joe is one of the troubled boys seeking help.
 <br>
 
-Perry
+### Perry
 - One of the customers in Sunshine Cafeteria.
 - Aged 29, peculiar and humourous eyes.
 - Had a mysterious and quiet friendship with Joe for several weeks. Sitting quietly at Joe's table or minimum talk while looking out the window together.
@@ -135,7 +138,7 @@ Perry
 - Brought Joe to a brothel in Texas and betrayed him.
 <br>
 
-Sally Buck
+### Sally Buck
 - Joe's grandmother, 66.
 - Silly and skinny.
 - Enormous grey eyes with lashes black as pitch and sad bony knees.
@@ -146,14 +149,14 @@ Sally Buck
 - Has a sister unknown to Joe, and she also didn't know Joe. The sister liquidated the assets, including the house.
 <br>
 
-Tombaby Barefoot
+### Tombaby Barefoot
 - An Indian, half-breed.
 - light-hearted, pale, small head, big and thick.
 - Soft but high Texan accent.
 - Assaulted and raped Joe.
 <br>
 
-Townsend Pederson Locke
+### Townsend Pederson Locke
 - From Chicago and an unmarried middle-aged man. 
 - Red-faced, white-haired, blue-eyed.
 - Came to New York for ten days for a manufacturers' convention and wanted to have a little fun.
@@ -163,7 +166,7 @@ Townsend Pederson Locke
 - Struggles with his homosexuality.
 <br>
 
-Woodsy Niles
+### Woodsy Niles
 - One of Sally's boyfriends.
 - Blue beard and bright eyes.
 - Show Joe most of the cowboy skills.
@@ -172,7 +175,7 @@ Woodsy Niles
 <br>
 
 ***
-# Personal Opinions
+## Personal Opinions
 - No superfluous writing and straightforward. Some descriptions can be vague and require analysis.
 - Joe is a sad and pathetic character that others like to take advantage of. It's a memorable character because the writer brilliantly expresses Joe's raw emotions throughout the story.
 - It's a beautiful story of two troubled men who solve each other's loneliness through friendship and companionship.
@@ -183,7 +186,7 @@ Woodsy Niles
 <br>
 
 ***
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9780795308161 (ISBN10: 0795308167) |
