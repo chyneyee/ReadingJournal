@@ -29,6 +29,7 @@ It's time to give up. I have to let go. It's pointless to continue if I keep rea
 | -- | -- |
 | **ISBN** | 9780061258596 |
 | **Pages** | 992 |
+| **Series** | Sacred Games Book 1 |
 | **Published Year** | 09/01/2007 (Original Published Date: 01/01/2006) |
 | **Date Read** | 03/07/2023 - 04/07/2023 |
 | **Rating** | N/A |
