@@ -1,4 +1,6 @@
-# Storyline
+# Accused - Mark Gimenez (Scott Fenney #2)
+
+## Storyline
 Rebecca Fenney wakes up in the early morning with a shivering body in her dark bedroom. When she turns on the light, she only realises that the bedroom is covered with blood, she is drenched in blood, and her boyfriend is on the bed with a knife in his chest.
 
 While Scott Fenney is in a dilemma with his future career path, he receives a call from Rebecca after she leaves him for 22 months and 8 days. Rebecca needs him to be her defence lawyer as she is charged with murdering her boyfriend, Trey Rawlins.
@@ -7,9 +9,9 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 
 ***
 
-# Characters
-## Scott Fenney's Household
-### Atticus Scott Fenney
+## Characters
+### Scott Fenney's Household
+#### Atticus Scott Fenney
 - Age 38 and is a poor broke lawyer in Dallas.
 - Lost his partnership at the Ford Stevens law firm two years ago. 
 - He used to have a mansion, a sportscar and exclusive golf club membership.
@@ -20,14 +22,14 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Named Bobby Herrin and Karen Douglas, his married law partners, as the girls' guardians in his will.
 <br>
 
-### Rebecca Fenney
+#### Rebecca Fenney
 - Ex-wife of Scott Fenney.
 - Age 35.
 - Left her ex-husband after eleven years of marriage for a twenty-six-year-old assistant golf pro at the club. She left town twenty-two months and eight days ago without taking her community property, clothes or child.
 - Charged with murdering her boyfriend, Trey Rawlins.
 <br>
 
-### Barbara Boo Fenney
+#### Barbara Boo Fenney
 - Age 11 with red hair, tomboy.
 - Daughter of Scott Fenney and Rebecca Fenney.
 - Suspended by the school earlier in the year for punching a boy who teased or bullied Pajamae. 
@@ -35,22 +37,23 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Graduate fifth grade with Pajamae.
 <br>
 
-### Pajamae Jones-Fenney
+#### Pajamae Jones-Fenney
 - Age 11, a black girl with brown and fluffy bob hair, tan and flawless skin.
 - Adopted daughter of Scott Fenney. 
 - Scott defended her mother against a murder charge two years ago, but two months later, her mother died of a heroin overdose. She had no one except Boo and Scott at that time.
 - Athletic and dream of getting a college scholarship and playing women's pro basketball.
 <br>
 
-### Consuela
+#### Consuela
 - Age thirty, round, and Catholic.
 - A housemaid for Scott, who was also treated as part of the family.
 - Her husband, Esteban Garcia, dropped her and the baby Maria off at Scott's house each morning when heading to his construction job in Dallas.
 - She and her husband are Mexican, but their daughter is American.
 <br>
 
-## The Rawlins
-### Trey Rawlins
+***
+### The Rawlins
+#### Trey Rawlins
 - A 28-year-old young and vital man with blond hair, a tanned face, brilliant blue eyes, broad shoulders and a narrow waist. 
 - Clean-cut and handsome with movie-star looks.
 - Assistant golf pro at the club and became a star on the pro golf tour.
@@ -69,18 +72,19 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Owed drug money to Benito or the cartel and fifteen million to the mob-related to gambling.
 <br>
 
-### Terri Rawlins
+#### Terri Rawlins
 - Terry's twin sister.
 - Hates Rebecca because she thinks Rebecca is too old for Terry.
 - Entire Trey's estate goes to her after Trey's death.
 - Believes Rebecca killed her brother.
 <br>
 
-## The Prosecutors
+***
+### The Prosecutors
 <details>
   <summary>List of Characters</summary>
 
-### Rex Truitt
+#### Rex Truitt
 - Galveston County Criminal District Attorney.
 - 63 years old with unruly white hair and a neat beard.
 - Burly and born on the Island.
@@ -90,14 +94,14 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Grew up with Trey's dad and knew Trey since Trey was born.
 <br>
 
-### Theodore Newman
+#### Theodore Newman
 - Assistant Criminal District Attorney.
 - His grandfather was a former D.A. before Rex.
 - Rex is a mentor for the next two years before he takes over Rex's position.
 - Took three times to pass the bar exam.
 <br>
 
-### Hank Kowalski
+#### Hank Kowalski
 - Tall and lanky.
 - The D.A.'s investigator.
 - An ex-FBI worked the Drug Task Force down on the border. 
@@ -105,11 +109,12 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 </details>
 <br>
 
-## Fenney Herrin Douglas Firm's Staff
+***
+### Fenney Herrin Douglas Firm's Staff
 <details>
   <summary>List of Staff</summary>
 
-  ### Bobby Herrin
+#### Bobby Herrin
 - Aged 38, short and chubby with thinning hair and a pockmarked face.
 - Witty.
 - Married to Karen Douglas.
@@ -120,19 +125,19 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Had two wives before Karen.
 <br>
   
-### Karen Douglas
+#### Karen Douglas
 - Bobby Herrin's spouse.
 - Ten years junior to her husband.
 - Seven months pregnant with their first child.
 <br>
   
-### Carlos Hernandez
+#### Carlos Hernandez
 - Age 28 Latino
 - Six feet tall and two hundred pounds of muscle with tattooed brown skin.
 - Studying to be a paralegal and the firm's Spanish translator.
 <br>
   
-### Louis Wright
+#### Louis Wright
 - 30 years old.
 - A 330-pound black man with a gold-toothed smile.
 - Firm's driver and the Fenney family's self-appointed bodyguard.
@@ -140,11 +145,11 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
   </details>
 <br>
 
-## Suspects
+### Suspects
 <details>
   <summary>List of Suspects</summary>
   
-### Clyde 'Goose' Dalton
+#### Clyde 'Goose' Dalton
 - Trey's ex-caddie.
 - Stocky man with a grey goatee and ponytail.
 - A squad man with muscular legs and thick arms.
@@ -152,7 +157,7 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Fought with Trey after Trey fired him. Trey owed him $100,000.
 <br>
 
-### Brett McBride
+#### Brett McBride
 - Tour player, ranked 287 in the world.
 - Trey had sexual intercourse with his wife, Tess.
 - A judge in the Midd Hooters pageant in Vegas the year before, and Tess was runner-up. They married five months later.
@@ -160,7 +165,7 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - 15 years on tour but never come close to winning.
 <br>
 
-### Tess McBride
+#### Tess McBride
 - Lean, blonde, age 24.
 - Wife of Brett McBride.
 - Had an affair with Trey for two months, which ended four months before Trey's death.
@@ -168,31 +173,31 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Voted third hottest WAG on tour.
 <br>
 
-### Donnie Parker
+#### Donnie Parker
 - Married to Lacy Parker.
 - Jealous of Trey's endorsements. Lacking endorsements due to being married to a porn star.
 <br>
 
-### Lacy Parker
+#### Lacy Parker
 - Trey's next woman after ending the affair with Tess.
 - Donnie Parker's wife.
 - Hot, used to act in porn movies.
 - Met her husband during the first round of the Vegas tournament and married right after the last round.
 <br>
 
-### Vic Hager
+#### Vic Hager
 - Married to Riley Hager.
 - Ranked 15th in the world.
 <br>
 
-### Riley Hager
+#### Riley Hager
 - Wife of Vic Hager.
 - Used to be an underwear model in L.A. 
 - Voted second hottest WAG on tour.
 - Trey's next woman after Lacy Parker.
 <br>
 
-### Pete
+#### Pete
 - Looks like a Rambo, a tall, thick-bodied man with a stern face.
 - Grey hair and thick grey moustache, hands of a roughneck.
 - Father of Billie Jean Puckett.
@@ -205,14 +210,14 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Love and is highly protective of his daughter.
 <br>
 
-### Billie Jean Puckett
+#### Billie Jean Puckett
 - Pete's 17 years old daughter, blonde hair, blue eyes.
 - Used to caddie for Pete until he picked up Goose.
 - Trey's next woman after Riley Hager.
 - Raised on tour by her dad and tour schooled after her mother's death.
 <br>
 
-### Benito Estrada
+#### Benito Estrada
 - A Latino, a known drug dealer on the Island, has big thugs.
 - Trey was his regular customer.
 - 28, Harvard-educated, runs the Gulf Coast operation for the Guadalajara cartel.
@@ -222,66 +227,66 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Trey owed him $500,000 for the cocaine.
 <br>
 
-### Gabe Petrocelli
+#### Gabe Petrocelli
 - Local bookie.
 - Curly black hair, a barrel chest, Italian.
 - Appeared to be in the late 40s.
 - Have a bar called "Gabe's".
 <br>
 
-### Brad Dickey
+#### Brad Dickey
 - VP-Player Development, Golf-a-zon.com.
 - Wanted to terminate the contract with Trey due to his drug addiction. The company has to stick with Trey to avoid heavy compensation.
 <br>
 
-### Royce Ballard
+#### Royce Ballard
 - U.T. law school, worked in Houston firm for ten years, got passed over for partnership.
 - Hired on with the tour. 
 - Tour VP, lawyer.
   </details>
 <br>
 
-## Testified Witnesses
+### Testified Witnesses
 <details>
   <summary>List of Testified Witnesses</summary>
 
-### Ronda Jensen
+#### Ronda Jensen
 - A career county employee, mid-fifties.
 - The 911 operator who took Rebecca's emergency call that night.
 <br>
 
-### Patrol Officer Art Crandall
+#### Patrol Officer Art Crandall
 - Age 30.
 - The first police officer on the crime scene that night.
 <br>
   
-### Examiner Sanjay Sanjeev
+#### Examiner Sanjay Sanjeev
 - Board-certified pathologist.
 - Performed autopsy on Trey Rawlins.
 <br>
   
-### Herman Deeks
+#### Herman Deeks
 - County criminologist, 35.
 - Collect evidence from the crime scene and from the body at the autopsy.
 <br>
   
-### Stephen Haynes
+#### Stephen Haynes
 - Technician from the Department of Public Safety lab in Austin.
 - Testify the fingerprints on the murder weapon.
 <br>
   
-### Detective Chuck Wilson
+#### Detective Chuck Wilson
 - 50, flat-top haircut.
 - Experienced homicide detective, worked on Galveston murders for 22 years.
 - Hired a literary agent to write a book about the murder case.
 <br>
   
-### Dr Richard Holbrooke
+#### Dr Richard Holbrooke
 - D.A.'s psychiatrist.
 - White hair, black reading glasses.
 <br>
   
-### Rosie Gonzales
+#### Rosie Gonzales
 - 32, single, a Mexican national with a green card.
 - Spoke English and took classes at the community college.
 - Wanted to be a registered nurse.
@@ -289,21 +294,21 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Clean Trey Rawlins' house for a year, twice a week.
 <br>
   
-### Ricardo Renteria
+#### Ricardo Renteria
 - Short Latino man.
 - The waiter who had served Rebecca and Trey the night of his death.
 <br>
   
-### Raul Rodriguez
+#### Raul Rodriguez
 - A fruit seller who demonstrated the technique of cutting a watermelon to prove Rebecca's innocence.
   </details>
 <br>
 
-## Galveston Residents
+### Galveston Residents
 <details>
   <summary>List of Galveston Residesnts</summary>
   
-### Shelby Morgan
+#### Shelby Morgan
 - Age 40, attractive and single.
 - Judge for Trey's s murder case.
 - Born on Island and from an old-line family.
@@ -313,13 +318,13 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Ambitious with the judgeship and love the media attention.
 <br>
 
-### Gus Grimes
+#### Gus Grimes
 - Retired FBI Special Agent.
 - Wife died three years ago, a son who is a lawyer working in a big firm lives in New York.
 - Conduct polygraphs at home for extra money.
 <br>
   
-### Mevelyn Burke
+#### Mevelyn Burke
 - Practiced law on the Island for 42 years, mostly on wills and estates.
 - Representing the Estate of Trey Rawlins.
 - Dean of lawyers on the Island.
@@ -330,11 +335,11 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - The first wife left him 25 years ago. Remarried five years later.
 <br>
   
-### Nick Madden
+#### Nick Madden
 - Trey's sports agent with Sports Score International.
 <br>
   
-### Renee Ramirez
+#### Renee Ramirez
 - Young and beautiful, 30 years old.
 - Houston TV reporter covers the Galveston beat.
 - Good-looking but annoying.
@@ -342,7 +347,7 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - A Latina with shiny brown hair, smooth tan skin, blue eyes, voluptuous body.
 <br>
   
-### Tom Taylor
+#### Tom Taylor
 - Trey's personal accountant.
 - Looked like the lead singer of the Beach Boys.
 - Tanned skin, long grey hair, with blue reading glasses.
@@ -351,24 +356,24 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 <br>
 
 ***
-# Minor Characters
+## Minor Characters
 <details>
 <summary>List of Minor Characters</summary>
 
 
-### Bill Barnes
+#### Bill Barnes
 - A lawyer who had died of a sudden heart attack earlier in the school year.
 - Had a daughter called Sarah Barnes.
 <br>
   
-### Dan Ford
+#### Dan Ford
 - Age 62, bald, and the senior partner at Ford Stevens.
 - A father figure for Scott for 11 years when Scott worked at Ford Stevens.
 - Fired Scott when Scott refused to throw the case when Scott was representing Pajamae's mother (Shawanda Jones), who was charged with murdering Clark McCall, the senator's son.
 - Made an attempt to offer Scott a return to Ford Stevens with a tempting paycheck and benefits.
 <br>
   
-### George Armstrong
+#### George Armstrong
 - A wealthy white senator.
 - Perfect grey hair and in the late fifties.
 - Handsome, articulate, and a leading voice of the Republican Party.
@@ -376,18 +381,18 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Has a drug-addicted daughter, in and out of rehab and jail. Judge Shelby keeps quiet.
 <br>
   
-### Ken Ingram
+#### Ken Ingram
 - Aide of Senator George Armstrong.
 <br>
   
-### Kim Dawson
+#### Kim Dawson
 - Fourth-grade teacher in Boo's school.
 - Around age 28 or 29.
 - Attractive in her form-fitting blouse and tight slacks.
 - Interested in Scott and tried to invite him for dinner, but he rejected her.
 <br>
   
-### Samuel Buford
+#### Samuel Buford
 - United States District Judge for 32 years.
 - Age 78 years old.
 - Diagnosed with terminal brain cancer and with only six months to live.
@@ -399,20 +404,20 @@ Scott is convinced that Rebecca is innocent until he sees the crime scene and is
 - Died later in the story, and Scott gives his eulogy speech at the funeral.
 <br>
   
-### Sid Greenberg
+#### Sid Greenberg
 - Former colleague of Scott at Ford Stevens law firm.
 - Scott used to teach him when he was just out of Harvard Law School.
 - Represented Scott's rich real-estate client and drove Scott's $200,000 Italian sports car.
 - Avoid waiting in line when dropping his son at school.
 <br>
   
-### Dr Timothy O'Brien
+#### Dr Timothy O'Brien
 - Sports psychologist for Trey.
 </details>
 <br>
 
 ***
-# Spoiler
+## Spoiler
 <details>
   <summary>The Ending</summary>
   
@@ -431,7 +436,7 @@ Rebecca didn't return home with the Fenneys. She secretly kept the mob's money w
 <br>
 
 ****
-# Personal Opinions
+## Personal Thoughts
 - Overly detailed description of every character with specific age and other attributes.
 - A long introduction with a brief summary of what happened in the previous book before it begins the story between Rebecca and Scott.
 - Repetitive details, especially his heroic act from the previous book. Scott keeps correcting people about defending his "ex-wife" and not "wife", praising how beautiful his "ex-wife" was, and repetitively mentioned that she was innocent.
@@ -449,6 +454,7 @@ Rebecca didn't return home with the Fenneys. She secretly kept the mob's money w
 | -- | -- |
 | **ISBN** | 9780983987536 |
 | **Pages** | 447 |
+| **Series** | Scott Fenney Book 2|
 | **Published Year** | 16/03/2012 (Original Published Date: 01/03/2010) |
 | **Date Read** | 11/06/2023 - 18/06/2023 |
 | **Rating** | 1.5 / 5 |
