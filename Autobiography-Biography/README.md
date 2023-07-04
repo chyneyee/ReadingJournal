@@ -11,7 +11,8 @@
 <details>
   <summary>Author - Title</summary>
   
-  * [Jung Chang - Wild Swans](https://github.com/chyneyee/ReadingJournal/tree/1822dde6c160fce424965431411c12b68ea74230/Autobiography-Biography/Wild_Swans-Jung_Chang)
+  * [Jung Chang - Wild Swans](https://github.com/chyneyee/ReadingJournal/tree/25d6823f57d7c359fb4c2fee6e7c162f51308cdf/Autobiography-Biography/Wild_Swans-Jung_Chang)
+ 
   
 </details>  
 
