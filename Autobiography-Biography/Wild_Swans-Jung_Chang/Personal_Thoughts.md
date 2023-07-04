@@ -1,4 +1,4 @@
-# Opinions
+# Personal Thoughts
 
 Women's lives during olden times were extremely tough. It's distressing to read about Yu-fang and her mother, who had no choice or right to decide their fates. I think it's not fair to despise or bias against concubines at that time. After all, it's not that they have a say in their marriages. 
 
