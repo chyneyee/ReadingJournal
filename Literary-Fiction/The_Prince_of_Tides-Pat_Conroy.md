@@ -1,4 +1,6 @@
-# Storyline
+# The Prince of Tides - Pat Conroy
+
+## Storyline
 The narrator begins with his childhood story of growing up in the blazing South Carolina heat, from catching crabs to fishing in the river. Melrose Island was an uncleared island the narrator's great-great-grandfather won in a horseshoe game. It was passed down through three generations until it came to his father by default. 
 
 The narrator has been running away from his past and trying to forget his childhood life, especially his parent's divorce. It drags him back to his forgotten history when he visited Savannah in a mental hospital after her second suicide attempt. 
@@ -18,7 +20,7 @@ Instead of telling Savannah's story, Tom decides to tell his own story to Dr Low
 Dr Lowenstein is married to a rich violinist. She is a lonely woman who has marriage issues with her husband and communication problems with her teenage son. She hires Tom to become her son's football coach while Tom stays in New York, trying to help his sister with his family stories. As they spend more time together, Dr Lowenstein falls in love with Tom while Tom struggles with his marriage and identity.
 
 
-# Personal Opinions
+## Personal Opinions
 I wonder how many younger generations can accept such a writing style. It has racial issues, which I assumed historically, American white southerners were more racist? It's just my assumption since I'm not an American, but I can dig on the Internet to learn more. I think the sexist jokes probably can be too far at this time. 
 
 The writing style and descriptions are superbly beautiful. It has an expansive vocabulary, and I gave up looking for the meanings unless necessary. Although beautifully written, it can be long-winded and crowded with superfluous details. I ignore the bigotry jokes (due to the geographical history and publishing year) so that it does not contribute to my rating. It's a solid story that reflects the author's life. 
@@ -27,7 +29,7 @@ I strongly dislike the main character Tom because he has full of unfunny jokes, 
 
 I'm very conflicted and in a dilemma in rating this book. It's a good story if ignoring the racist and sexist jokes plus long-winded details, which deserves a 4 out of 5. But I don't like wordy books, and I don't like most of the characters, especially Tom. Maybe it's 3.5 out of 5?
 
-# Spoiler
+## Spoiler
 <details>
  <summary>Notes as a Reminder for the Ending</summary>
   
@@ -64,7 +66,7 @@ I'm very conflicted and in a dilemma in rating this book. It's a good story if i
 <br>
 
 ***
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781453204023 |
