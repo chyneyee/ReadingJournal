@@ -20,7 +20,7 @@ Instead of telling Savannah's story, Tom decides to tell his own story to Dr Low
 Dr Lowenstein is married to a rich violinist. She is a lonely woman who has marriage issues with her husband and communication problems with her teenage son. She hires Tom to become her son's football coach while Tom stays in New York, trying to help his sister with his family stories. As they spend more time together, Dr Lowenstein falls in love with Tom while Tom struggles with his marriage and identity.
 
 
-## Personal Opinions
+## Personal Thoughts
 I wonder how many younger generations can accept such a writing style. It has racial issues, which I assumed historically, American white southerners were more racist? It's just my assumption since I'm not an American, but I can dig on the Internet to learn more. I think the sexist jokes probably can be too far at this time. 
 
 The writing style and descriptions are superbly beautiful. It has an expansive vocabulary, and I gave up looking for the meanings unless necessary. Although beautifully written, it can be long-winded and crowded with superfluous details. I ignore the bigotry jokes (due to the geographical history and publishing year) so that it does not contribute to my rating. It's a solid story that reflects the author's life. 
