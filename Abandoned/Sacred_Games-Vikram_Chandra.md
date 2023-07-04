@@ -1,5 +1,4 @@
-# Sacred Games - Vikram Chandra
-<br>
+# Sacred Games - Vikram Chandra (Sacred Games #1)
 
 ## Personal Opinion
 According to Goodreads, the last time I abandoned a book after reading halfway through was in 2020. It was a biography book about an air stewardess and her experience on the plane. I dumped the book at a very early stage because the writer was rambling about gossip and criticism among other women colleagues and her sex life. I never feel bad at all for abandoning that book.
