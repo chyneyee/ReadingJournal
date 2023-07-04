@@ -1,16 +1,18 @@
-# Storyline
+# The Sanatorium - Sarah Pearse (Detective Elin Warner #1)
+
+## Storyline
 The sanatorium was located in an isolated position, high among the mountains. It was designed in such a manner to keep the tuberculosis patients away from the smog of the towns and cities and keep the rest of the population away from them. The road to the sanatorium involved hairpin bends cutting through a dense forest of firs. There are protests and resentments from people about the rebuilding of the sanatorium into a hotel. 
 
 An unknown figure with a gas mask and dressed in black approached Daniel Lemaitre and pushed him to a different car. Before he can make any connections about it, he feels a sharp pain in the thigh and loses consciousness.
 <br>
 
 ***
-## 2018
+### 2018
 In 2018, Le Sommet, a 5-star hotel located on a sunny mountain plateau above Crans-Montana, high in the Swiss Alps, set to open after 8 years of extensive planning and construction. It was transformed from one of the town's oldest sanatoriums used for treating tuberculosis before the arrival of antibiotics.
 <br>
 
 ***
-## January 2020
+### January 2020
 A month ago, Elin Warner received an invitation from her brother Issac to his engagement party with Laure at Le Sommet. Elin and her partner Will Riley accept the invitation and arrive at the hotel when the weather worsens. Will is impressed with the minimalistic design of the hotel, but Elin feels uncomfortable with the hotel's history and unusual designs. The hotel is decorated with several artefacts from the old sanatorium.
 
 Adele works as a housekeeper in Le Sommet. She is rushing to get home to say goodbye to her son before spending a week with his dad. When Adele is on the way to get a bus, she feels pressure on her leg and sees a gloved hand around her ankle. She tumbles, landing her face first on the snow. Adele tries to run away to hide from her attacker until she faces an unknown figure with a gas mask.
@@ -23,8 +25,8 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 <br>
 
 ***
-# Main Characters
-## Cecile Caron
+## Main Characters
+### Cecile Caron
 - The hotel manager, sister of the hotel's owner, Lucas Caron.
 - Swims every day and used to compete at a national level.
 - Rangy height, muscular frame, sandy-blond hair, shorter than her brother and Elin, sharp and angular cheekbones.
@@ -32,7 +34,7 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Divorced from her husband, Michael, due to her infertility.
 <br>
 
-## Elin Warner
+### Elin Warner
 - 32, knife-sharp cheekbones, slanted blue-grey eyes, a choppy mess of pale blonde hair, a blurred scar on her upper lip.
 - Has two brothers, Isaac and Sam, but Sam has already died, which changed her.
 - A police detective who is on leave. She is traumatised after being attacked and almost drowned by a crime killer Mark Hayler. She took sick leave, which turned into a career break.
@@ -48,7 +50,7 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Has asthma and panic attacks since mother's death and Hayler case.
 <br>
 
-## Isaac Warner
+### Isaac Warner
 - Elin's brother. Two years younger than Elin and two years older than Sam.
 - Blue eyes, fit and lean but thin face.
 - Has eczema, which flare-ups throughout childhood.
@@ -63,7 +65,7 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - According to Elin, he is unpredictable. He likes toying with people and situations to understand why they reacted.
 <br>
 
-## Laure Strehl
+### Laure Strehl
 - Isaac's fiancee.
 - Bold, uncompromising features.
 - Dark eyes, a straight fringe stopping just short of thick, well-contoured brows.
@@ -75,7 +77,7 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Suffered on and off depression since her mother died caused by a hit and run in Geneva.
 <br>
 
-## Lucas Caron
+### Lucas Caron
 - One of Daniel's oldest friends.
 - Swiss property developer, which transforms the sanatorium into a luxury hotel.
 - Mid-thirties, already owned three landmark hotels.
@@ -86,7 +88,7 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Had an ex-wife called Helene.
 <br>
 
-## Will Riley
+### Will Riley
 - Age 34, taut muscles in his arms, broad chest, strong shoulders splattered with tiny freckles, stubble grazing his chin, scruffy blond-brown hair.
 - An architect.
 - Caring and protective of his partner Elin.
@@ -100,11 +102,11 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Has a father with macula degeneration.
 <br>
 
-# Side Characters
+## Side Characters
 <details>
   <summary>List of Characters</summary>
   
-## Adele Bourg
+### Adele Bourg
 - Housekeeper in the hotel.
 - Dark hair with a high ponytail and almond-shaped eyes.
 - Has a son called Gabriel, aged 3, born in June 2016, resulting from a short fling with Stephane, a fellow student and mountain-lover, during the weekend in Chamonix. The pregnancy stopped her from studying for her business degree.
@@ -113,48 +115,48 @@ They plan to have dinner with Isaac and Laure on the day they arrive at the hote
 - Second victim after Daniel. The kidnapper put a mask on her, attached to a C-shape tube.
 <br>
 
-## Axel
+### Axel
 - A hotel staff who finds Adele's body in the pool.
 - Has three children, doesn't socialise much in the hotel outside of work.
 <br>
 
-## Daniel Lemaitre
+### Daniel Lemaitre
 - 33, has architectural offices in Sion, Lausanne, and Geneva. One planned for Zurich. The architectural firm is called Lemaitre SA.
 - Childhood friends with Cecile and Lucas.
 - Assembled a team to renovate the building and include a state-of-the-art spa and events centre.
 - The principal architect for the hotel went missing in the final stages of planning.
 <br>
 
-## Felisa
+### Felisa
 - Director of housekeeping.
 - Dark hair, delicate features.
 <br>
 
-## Jeremiah Bisset
+### Jeremiah Bisset
 - Having an ongoing custody battle with his ex-wife.
 - Go hiking behind the hotel and find Daniel's body in the snow.
 <br>
 
-## Margot
+### Margot
 - Cropped hair, grey-painted fingernails, minimal makeup, chipped nails. Tall.
 - A receptionist for the spa in the hotel.
 - Has a great-grandmother who used to stay in the sanatorium.
 <br>
 
-## Sam Warner
+### Sam Warner
 - A brother of Elin and Isaac.
 - Drowned at age eight.
 - Pale skin, fine blond hair.
 <br>
 
-## Ueli Berndt
+### Ueli Berndt
 - Inspector from Valais police.
 - Investigating officer for Adele's murder case.
 </details>
 <br>
 
 ***
-# Spoiler
+## Spoiler
 <details>
   <summary>The Ending</summary>
   
@@ -186,7 +188,7 @@ Isaac went to the loo and asked Elin to look after Sam. When he returned, he saw
 <br>
 
 ***
-# Personal Opinions
+## Personal Thoughts
 - The brother Sam Warner died at aged 8. Why Elin sounds like he died when he was an adult? The death affects her life, and hard to move on. It seems the death even affects her job. She couldn't probably be working as a detective when she was 12. The career break is caused by the Hayler case. It sounds like everything meshes together - the brother's and mother's death, Hayler case. Sometimes, the narrative indicates that Sam died a few years ago but actually died at 8.
 - If Elin already knew Laure before Sam's drowning, how can Isaac not know Laure's existence when they were in childhood? Elin said they met on social media. She mentioned Laure and her mother visited the family every August, living in their house.
 - I strongly dislike Will. He seems nice in the beginning. Then he's getting pushy and lack of understanding or patience with Elin. As Elin said, he comes from an ordinary family and never understands someone from a troubled family. I feel sorry for Elin for pushing herself to meet Will's expectations.
@@ -198,11 +200,12 @@ Isaac went to the loo and asked Elin to look after Sam. When he returned, he saw
 <br>
 
 ***
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781473577275 |
 | **Pages** | 448 |
+| **Series** | Detective Elin Warner Book 1 |
 | **Published Year** | 04-02-2021 (Original Published Date: 01-01-2010) |
 | **Date Read** | 19-06-2023 - 22-06-2023 |
 | **Rating** | 2.5 / 5 |
