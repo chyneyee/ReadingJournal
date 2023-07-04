@@ -18,7 +18,7 @@ Chang detailed her family's story, and the narration was written chronologically
 <br>
 
 ***
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9780007379873 |
