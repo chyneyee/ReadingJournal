@@ -1,5 +1,4 @@
 # Midnight Cowboy - James Leo Herlihy
-<br>
 
 ## Storyline
 Set in Houston, Joe Buck is grooming himself in perfection, dressing up like a cowboy, before leaving the hotel. He heads to the Sunshine Cafeteria with his suitcase and tells his workmate that he's going to the East, where women in the East are willing to pay for men.
