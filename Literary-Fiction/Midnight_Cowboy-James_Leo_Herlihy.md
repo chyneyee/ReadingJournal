@@ -174,7 +174,7 @@ The bus will take thirty-one hours to reach Florida. During the journey, Joe pro
 <br>
 
 ***
-## Personal Opinions
+## Personal Thoughts
 - No superfluous writing and straightforward. Some descriptions can be vague and require analysis.
 - Joe is a sad and pathetic character that others like to take advantage of. It's a memorable character because the writer brilliantly expresses Joe's raw emotions throughout the story.
 - It's a beautiful story of two troubled men who solve each other's loneliness through friendship and companionship.
