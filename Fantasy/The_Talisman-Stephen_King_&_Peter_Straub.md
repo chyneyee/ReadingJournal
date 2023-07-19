@@ -123,7 +123,7 @@ He flips back to this world and ends up in Ohio. On the road, Jack runs into Mor
 ## Personal Thoughts
 - I hesitated to start this book because I worried it would resemble 'The Dark Tower'. I was very lost in that book. The intriguing storytelling guided me to continue reading the book, although I wasn't so sure how much I understood the story. I am as lost as Jack, wondering what is the Territories and all those names mentioned by Speedy.
 - It can be frustrating to read because it is a lengthy story. It's a mixture of frustration and excitement because it's rare to find such a storytelling style nowadays. 
-- Jack has a lot of patience with his travelling companions, Wolf and Richard. His maturity is beyond his age. He can accept whatever comes to him and tolerate the different shapes and forms of his friends. Sometimes he loses his patience with Wolf but is willing to take responsibility since he was the one who took Wolf into this world.
+- Jack has a lot of patience with his travelling companions, Wolf and Richard. His maturity is beyond his age. He tries to be understanding and think from his friends' perspectives. Sometimes he loses his patience with Wolf but is willing to take responsibility since he was the one who took Wolf into this world.
 - Jack allows Richard to continue denying the existence of the Territories and tries to protect Richard from knowing the truth about his father's wicked acts.
 - The friendship between Jack and Wolf and Jack with Richard is beautifully written. 
 - It's ironic when Wolf struggles to adapt to this world, whereas Richard is hard to accept the Territories.
