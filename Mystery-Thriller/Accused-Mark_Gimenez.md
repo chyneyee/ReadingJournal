@@ -1,4 +1,4 @@
-# Accused - Mark Gimenez (Scott Fenney #2)
+# Accused (Scott Fenney #2) - Mark Gimenez 
 
 ## Storyline
 Rebecca Fenney wakes up in the early morning with a shivering body in her dark bedroom. When she turns on the light, she only realises that the bedroom is covered with blood, she is drenched in blood, and her boyfriend is on the bed with a knife in his chest.
