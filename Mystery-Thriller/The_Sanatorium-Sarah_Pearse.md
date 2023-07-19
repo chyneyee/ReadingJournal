@@ -1,4 +1,4 @@
-# The Sanatorium - Sarah Pearse (Detective Elin Warner #1)
+# The Sanatorium (Detective Elin Warner #1) - Sarah Pearse 
 
 ## Storyline
 The sanatorium was located in an isolated position, high among the mountains. It was designed in such a manner to keep the tuberculosis patients away from the smog of the towns and cities and keep the rest of the population away from them. The road to the sanatorium involved hairpin bends cutting through a dense forest of firs. There are protests and resentments from people about the rebuilding of the sanatorium into a hotel. 
