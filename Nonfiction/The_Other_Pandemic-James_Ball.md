@@ -43,7 +43,7 @@
 - In-depth and insightful analysis of QAnon from the emergence stage to its rising.
 - The author is knowledgeable, analytical, and thoughtfully discusses the danger of the QAnon movement.
 - I felt being guided to the underground of another world with the revelation of secrets and layers of hidden codes unknown to the tourists like other readers.
-- It's always fascinating when reading about cults and conspiracies. It never fails to amaze me how the brains of human beings work. It always makes me wonder how skewed a person's thinking is when presented with facts. How can another human being (same species, homosapien) form a different and strange belief than ourselves?
+- It's always fascinating when reading about cults and conspiracies. It never fails to amaze me how the brains of human beings work. It always makes me wonder how skewed a person's thinking is after presented with facts. How can another human being (same species, homosapien) form a different and strange belief than ourselves?
 - What I learned from this book? How QAnon started, how it went viral, its targeted audiences and member recruitment, the creative thinking of conspiracists, Pizzagate and satanic ritual abuse.
 
 ***
