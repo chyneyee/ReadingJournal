@@ -58,4 +58,4 @@
 | **Rating** | 4 / 5 |
 | **Genre** | Nonfiction |
 | **Country** | America |
-| **Notes / Themes** | conspiracy | 
+| **Notes / Themes** | conspiracy, misinformation | 
