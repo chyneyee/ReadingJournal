@@ -1,7 +1,7 @@
 # A Dead Body Never Lies - Rohayu Binti Shahar Adnan & Fatin Amin
 
 ## Summary
-This book consists of ten cases with the timeline from when Dr Rohayu worked as a forensic pathologist in Kuala Lumpur and Johor. It starts with photos of autopsy equipment which are unusual but interesting. 
+This book consists of ten cases with the timeline from when Dr Rohayu worked as a forensic pathologist in Kuala Lumpur and Johor. It begins with photos of autopsy equipment which are unusual but interesting. 
 
 When reading the beginning of the book, I was surprised at how angry Dr Rohayu was with the police's inefficiency and the scattering of rubbish on the beach. I thought the writing style would be purely a description of the case. At that time, I thought having emotions instead of pure facts would make reading less dull. Besides the detailed explanation for each case, it also includes photos that I wish would be in colours for easier to see.
 
