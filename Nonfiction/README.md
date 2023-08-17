@@ -1,6 +1,8 @@
 # A - C
 <details> 
 <summary>Author - Title</summary>
+
+  * [Barbara Demick - Nothing to Envy: Love, Life and Death in North Korea](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Nothing_to_Envy-Barbara_Demick.md)
 </details>  
 
 # D - F
