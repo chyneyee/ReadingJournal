@@ -1,9 +1,12 @@
 # A - C
-<details> 
-<summary>Author - Title</summary>
-</details>  
+
 
 # D - F
+<details> 
+<summary>Author - Title</summary>
+
+  * [Frances Cha - If I Had Your Face](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/If_I_Had_Your_Face-Frances_Cha.md)
+</details>  
 
 # G - I
 
