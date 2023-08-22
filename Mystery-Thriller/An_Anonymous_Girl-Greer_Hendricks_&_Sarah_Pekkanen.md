@@ -81,4 +81,4 @@ At the end of the story, Jessica blackmails Thomas in exchange for keeping the i
 | **Rating** | 3 / 5 |
 | **Genre** | Mystery Thriller |
 | **Country** | America |
-| **Notes / Themes** | infidelity, toxic relationship, suicide, sexual assault, gaslighting, emotional abuse, stalking, death | 
+| **Notes / Themes** | infidelity, toxic relationship, suicide, sexual assault, betrayal, greed, emotional abuse, stalking, death | 
