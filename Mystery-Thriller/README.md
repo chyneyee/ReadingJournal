@@ -11,6 +11,11 @@
 </details>
 
 # G - I
+<details>
+ <summary>Author - Title</summary>
+
+ * [Greer Hendricks & Sarah Pekkanen - An Anonymous Girl](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/An_Anonymous_Girl-Greer_Hendricks_%26_Sarah_Pekkanen.md)
+</details>
 
 # J - L
 
