@@ -86,7 +86,7 @@ Manson's cases are under control, whereas some of Denny's patients died in the o
 - Manson is a doctor who asks why and is willing to do further diagnosis.
 - As I continued reading, I realised Manson can be a temperamental person, and his wife has tremendous patience with him. No doubt, he's a great and dedicated doctor, but unfortunately, his unconventional approach was hardly acceptable to most people at that time.
 - Despite being a lengthy read, I like the storytelling and the writing style, which brilliantly expresses the raw emotions and the human nature of various characters in different circumstances. 
-- The ups and lows and the changes of Manson, from modest to aggressively ambitious and money-motivated, are alarming.
+- The ups and lows and the changes of Manson, from a modest to an aggressively ambitious and money-motivated doctor, are alarming.
 <br>
 
 ***
