@@ -98,7 +98,7 @@ Manson's cases are under control, whereas some of Denny's patients died in the o
 | **Published Year** | 28-03-2013 (Original Published Date: 01-01-1937) |
 | **Date Read** | 28-08-2023 - 04-09-2023 |
 | **Rating** | 5 / 5 |
-| **Genre** | Literary Fiction, Classics |
+| **Genre** | Literary Fiction, Classics, Book to Movie |
 | **Country** | United Kingdom|
 | **Notes / Themes** | friendship, medical negligence, infidelity, materialism, morality and ethics, corruption  | 
 
