@@ -38,6 +38,6 @@ I feel Louisa probably murdered her first husband, Charles Andrews. At the same 
 | **Published Year** | 01/01/2014 (Original Published Date: 01/01/2014) |
 | **Date Read** | 05/09/2023 - 07/09/2023 |
 | **Rating** | 5 / 5 |
-| **Genre** | Nonfiction, True Crime |
+| **Genre** | Nonfiction, True Crime, Biography |
 | **Country** | Australia |
 | **Notes / Themes** | infidelity, death, capital punishment, gender discrimination, injustice | 
