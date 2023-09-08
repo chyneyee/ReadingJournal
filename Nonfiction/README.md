@@ -3,6 +3,7 @@
 <summary>Author - Title</summary>
 
   * [Barbara Demick - Nothing to Envy: Love, Life and Death in North Korea](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Nothing_to_Envy-Barbara_Demick.md)
+  * [Caroline Overington - Last Woman Hanged](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Last_Woman_Hanged-Caroline_Overington.md)
 </details>  
 
 # D - F
