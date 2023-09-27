@@ -18,6 +18,12 @@
 </details>
 
 # M - O
+<details>
+  <summary>Author - Title</summary>
+
+  * [Michael Rowland - Black Summer: Stories of Loss, Courage and Community from the 2019-2020 Bushfires](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Black_Summer-Michael_Rowland.md)
+
+</details>
 
 # P - R
 <details>
