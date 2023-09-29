@@ -8,7 +8,7 @@
 ***
 
 # Personal Thoughts
-It's a satirical essay and is supposed to have a laugh when reading it, but Swift's serious tone made it almost sound real. For me, the funniest part wasn't the proposal of eating children. It was the ending where Swift provided the advantages in various perspectives in detail if someone considers implementing his "genuine" idea.
+It's a satirical essay and is supposed to have a laugh when reading it, but Swift's serious tone made it almost sound real. For me, the funniest part wasn't the proposal of eating children. It was the ending where Swift provided the advantages in various perspectives in detail for someone considering implementing his "genuine" idea.
 
 ***
 
