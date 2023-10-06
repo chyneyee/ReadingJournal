@@ -77,6 +77,6 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 | **Published Year** | 13/04/2011 (Original Published Date: 01/01/1922) |
 | **Date Read** | 29/09/2023 - 06/10/2023 |
 | **Rating** | 3 / 5 |
-| **Genre** | Classics, Historical Fiction |
+| **Genre** | Classics, Historical Fiction, Book to Movie |
 | **Country** | Italy, England |
 | **Notes / Themes** | social class, pride, generation gap, wealth gap | 
