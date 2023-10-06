@@ -1,6 +1,12 @@
 # A - C
 
 # D - F
+<details>
+  <summary>Author - Title</summary>
+
+  * [Elizabeth von Arnim - The Enchanted April](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Enchanted_April-Elizabeth_von_Arnim.md)
+ 
+</details>
 
 # G - I
 
