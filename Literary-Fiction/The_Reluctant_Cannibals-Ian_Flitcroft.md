@@ -32,7 +32,7 @@ Meanwhile, Dr Ridgeway, the vice-chancellor, has requested Augustus Bloom to mee
 ## Personal Thoughts
 - I loved reading anything about food, but I find the pace of this story is too slow for me. It can be boring sometimes, especially at the beginning of the story. The revelation of Arthur Plantagenet's wish of what to do with his body has slightly increased the interest. However, after that, the pace returns to slow and draggy. You just hope Arthur will die soon so you can know what will happen next.
 - But after Arthur dies, you wish to know what his friends will do with Arthur's will, but the story drags all the way to the end.
-- The unusual vocabulary can be slightly tricky for me. It was well-written, with meticulous details and accurate wording, but unfortunately, I'm not up to that level. It's rich with gastronomy's history and culture but sometimes can be overwhelmed and push the main plot aside. The side stories have too many irrelevant descriptions, and the main plot has been dragged to the end. The pace is too slow, which is why I'm struggling to finish the book despite it being an unusual story.
+- The unusual vocabulary can be slightly tricky for me. It was well-written, with meticulous details and accurate wording, but unfortunately, I'm not up to that level. It's rich with gastronomy history and culture but sometimes can be overwhelmed and push the main plot aside. The side stories have too many irrelevant descriptions, and the main plot has been dragged to the end. The pace is too slow, which is why I'm struggling to finish the book despite it being an unusual story.
 <br>
 
 ***
