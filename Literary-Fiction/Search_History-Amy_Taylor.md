@@ -1,6 +1,6 @@
 # Search History - Amy Taylor
 
-# Storyline
+## Storyline
 Ana, who recently just broke up, decides to find new love on a dating app. The man worked as a chef at a wine bar. On their first night together, the sexual intercourse becomes a terrifying experience, leading Ana to remove the dating app from her phone.
 
 Ana is still struggling to move on with her life after the breakup. Although she deleted her Instagram account, she created a dummy account to look for her ex's Instagram account. 
@@ -13,7 +13,7 @@ Since then, Ana has become obsessed with Emily. She keeps visiting Emily'sprofil
 
 ***
 
-# Spoiler
+## Spoiler
 <details>
   <summary>The Ending</summary>
   
@@ -26,7 +26,7 @@ Since then, Ana has become obsessed with Emily. She keeps visiting Emily'sprofil
 <br>
 
 ***
-# Personal Thoughts
+## Personal Thoughts
 I guess I'm too old for this kind of story about modern or dating app romance. Is this really how young people find love nowadays? I mean gambling with luck and hoping to win true love through an app. Is it too hard to find anything useful to do in life but easily get lonely? I couldn't comprehend why someone doesn't try to do something meaningful in their lives besides wasting time finding someone to sleep around or looking into someone's personal life. Why does someone waste their time on meaningless tasks that bring no benefits to themselves?
 
 I know it's a fictional story, but I really can't tolerate such a simple-minded and desperate character. Honestly, it's deplorable to read such a story or a person. I really didn't enjoy reading it. I feel Ana is a sad character who continuously seeks love, companionship, recognition and assurance from others. She also worried too much about how others think about her. Why does she feel so insecure about herself? The further I read, the angrier I became. I wanted to shake Ana and tell her to stop torturing herself with the past through social media. Sometimes, I want to sympathise with her because she seems trapped, but when she keeps looking for Emily's personal life, I feel she's creepy. As if digging someone's life is not unpleasant enough, she would even show up in some places like Emily's workplace and Emily's brother's salon. I don't understand what she is trying to achieve.
