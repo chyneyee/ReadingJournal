@@ -14,6 +14,11 @@
 </details>  
 
 # G - I
+<details> 
+<summary>Author - Title</summary>
+
+  * [Ian Flitcroft - The Reluctant Cannibals](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Reluctant_Cannibals-Ian_Flitcroft.md)
+</details>  
 
 # J - L
 <details>
