@@ -9,6 +9,11 @@
 # D - F
 
 # G - I
+<details>
+  <summary>Author - Title</summary>
+
+  * [Ho Pin - A Death in the Lucky Holiday Hotel: Murder, Money, and an Epic Power Struggle in China](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/A_Death_in_the_Lucky_Holiday_Hotel-Ho_Pin.md)
+</details>
 
 # J - L
 <details>
