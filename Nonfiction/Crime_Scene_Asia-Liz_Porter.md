@@ -9,7 +9,7 @@ It is a fascinating book that consists of some of the most interesting and vital
 
 ## Personal Thoughts
 - The murder case of an eight-year-old girl, Huang Na, which took place in Singapore, is one of the most disturbing cases in the book. As for the killer, I don't know what to say since I opposed the death penalty. There was an argument about his mental health, but at the same time, the disposal of the body was carried out in a very organised manner. What a tragedy.
-- Some cases were slightly complicated to be likened. 
+- Some cases were slightly complicated to be likened, plus it was written in a journalistic writing style.
 - I feel the Hong Kong cases are the most intriguing to read. Malaysia is the second after Hong Kong. The lawyers in Hong Kong seem more outstanding than others. For me, the cases in the Philippines are the most injustice due to many legal defects and poor legislation.
 - I cannot comment much for other countries except Malaysia. I'm not surprised with the ethics of the media and the focus of the public on the victim's personal life. Sometimes, I feel a country that experiences too much suppression of freedom and moral policing tends to have a wrong direction of priorities and focus when it comes to crime cases involving someone with an active lifestyle.
 
