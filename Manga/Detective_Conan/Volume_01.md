@@ -30,7 +30,7 @@ After solving another murder case at the amusement park, Shinichi was interested
 <br>
 
 ## New Gadget 
-* Voice-changing bowtie (https://www.detectiveconanworld.com/wiki/Voice-Changing_Bowtie)
+* [Voice-changing bowtie](https://www.detectiveconanworld.com/wiki/Voice-Changing_Bowtie)
 
 <br>
 
