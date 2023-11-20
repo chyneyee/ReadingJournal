@@ -1,4 +1,4 @@
-# Detective Conan (Case Closed) Volume 01 - The Sherlock Holmes of Modern TImes
+# Detective Conan (Case Closed) Volume 01 - The Sherlock Holmes of Modern Times
 
 ## Summary
 * **File 1** - [The Heisei Holmes](https://www.detectiveconanworld.com/wiki/The_Heisei_Holmes)
