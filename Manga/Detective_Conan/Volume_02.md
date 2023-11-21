@@ -20,7 +20,7 @@ Yutaka plans to pay off his company's debts and leave the country that night. Co
 
 
 ### Anime Episodes
-* Episode 38 - [Akaoni Village Fire Festival Murder Case](https://www.detectiveconanworld.com/wiki/Akaoni_Village_Fire_Festival_Murder_Case)
+* Season 2 Episode 38 - [Akaoni Village Fire Festival Murder Case](https://www.detectiveconanworld.com/wiki/Akaoni_Village_Fire_Festival_Murder_Case)
 * [Differences between the manga and anime](https://www.detectiveconanworld.com/wiki/List_of_differences_between_the_manga_and_anime#Season_2_-_Episodes_29-54)
 
 <br>
@@ -49,8 +49,8 @@ Masami meets Gin and Vodka after completing her task of retrieving the one billi
 
 
 ### Anime Episodes
-* Episode 13 - [The Strange Person Hunt Murder Case](https://www.detectiveconanworld.com/wiki/The_Strange_Person_Hunt_Murder_Case)
-* Episode 128 - [The Black Organization: One Billion Yen Robbery Case](https://www.detectiveconanworld.com/wiki/The_Black_Organization:_One_Billion_Yen_Robbery_Case)
+* Season 1 Episode 13 - [The Strange Person Hunt Murder Case](https://www.detectiveconanworld.com/wiki/The_Strange_Person_Hunt_Murder_Case)
+* Season 5 Episode 128 - [The Black Organization: One Billion Yen Robbery Case](https://www.detectiveconanworld.com/wiki/The_Black_Organization:_One_Billion_Yen_Robbery_Case)
 * Differences between the manga and anime
   - [Episode 13](https://www.detectiveconanworld.com/wiki/List_of_differences_between_the_manga_and_anime#Season_1_-_Episodes_1-28)
   - [Episode 128](https://www.detectiveconanworld.com/wiki/List_of_differences_between_the_manga_and_anime#Season_5_-_Episodes_107-134)
@@ -74,7 +74,7 @@ The haunted house, the feral-looking man and a woman are related to an unsolved 
 
 
 ### Anime Episodes
-* Episode 20 - [A Haunted Mansion Murder Case](https://www.detectiveconanworld.com/wiki/A_Haunted_Mansion_Murder_Case)
+* Season 1 Episode 20 - [A Haunted Mansion Murder Case](https://www.detectiveconanworld.com/wiki/A_Haunted_Mansion_Murder_Case)
 * Differences between the manga and anime
   - [Episode 20](https://www.detectiveconanworld.com/wiki/List_of_differences_between_the_manga_and_anime#Season_1_-_Episodes_1-28)
  
