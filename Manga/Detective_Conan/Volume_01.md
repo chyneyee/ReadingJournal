@@ -3,7 +3,7 @@
 ## Summary
 ### Prologue - Roller Coaster Murder Case
 * **File 1** - [The Heisei Holmes](https://www.detectiveconanworld.com/wiki/The_Heisei_Holmes)
-* Anime Episode 1 - [Roller Coaster Murder Case](https://www.detectiveconanworld.com/wiki/Roller_Coaster_Murder_Case)
+* Anime Season 1 Episode 1 - [Roller Coaster Murder Case](https://www.detectiveconanworld.com/wiki/Roller_Coaster_Murder_Case)
 
 <br>
 
@@ -12,7 +12,7 @@
 * **File 3** - [The Unwelcome Great Detective](https://www.detectiveconanworld.com/wiki/The_Unwelcome_Great_Detective)
 * **File 4** - [The Sixth Smokestack](https://www.detectiveconanworld.com/wiki/The_Sixth_Smokestack)
 * **File 5** - [The Other Perpetrator](https://www.detectiveconanworld.com/wiki/The_Other_Perpetrator)
-* Anime Episode 2 - [Company President's Daughter Kidnapping Case](https://www.detectiveconanworld.com/wiki/Company_President%27s_Daughter_Kidnapping_Case)
+* Anime Season 1 Episode 2 - [Company President's Daughter Kidnapping Case](https://www.detectiveconanworld.com/wiki/Company_President%27s_Daughter_Kidnapping_Case)
 
 <br>
 
@@ -21,7 +21,7 @@
 * **File 7** - [The Bloody Case of the Lovely Pop Idol](https://www.detectiveconanworld.com/wiki/The_Bloody_Case_of_the_Lovely_Pop_Idol)
 * **File 8** - [Resemblance](https://www.detectiveconanworld.com/wiki/Resemblance)
 * **File 9** - [An Unfortunate Misunderstanding](https://www.detectiveconanworld.com/wiki/An_Unfortunate_Misunderstanding)
-* Anime Episode 3 - [An Idol's Locked Room Murder Case](https://www.detectiveconanworld.com/wiki/An_Idol%27s_Locked_Room_Murder_Case)
+* Anime Season 1 Episode 3 - [An Idol's Locked Room Murder Case](https://www.detectiveconanworld.com/wiki/An_Idol%27s_Locked_Room_Murder_Case)
 
 <br>
 
