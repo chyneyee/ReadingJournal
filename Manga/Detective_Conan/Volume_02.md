@@ -81,7 +81,7 @@ The haunted house, the feral-looking man and a woman are related to an unsolved 
 <br>
 <hr>
 
-#### Record
+##### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781591165873 |
