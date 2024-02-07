@@ -35,6 +35,7 @@
 
   * [Sarah Pearson - The Sanatorium (Detective Elin Warner #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sanatorium-Sarah_Pearse.md)
   * [Sophie Hannah - A Game for All the Family](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/A_Game_for_All_the_Family-Sophie_Hannah.md)
+  * [Stephen King - The Institute](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Institute-Stephen_King.md)
 </details>
 
 # V - X
