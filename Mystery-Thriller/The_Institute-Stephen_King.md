@@ -19,7 +19,7 @@ This reminds me of Lord of the Flies, where a group of kids with different perso
 I was touched by Mattie's kindness when Luke was in the freight. He chose to believe in Luke's story and left him a bag of food. I wonder how many of us can do the same if we encounter a lost boy with a ridiculous story.
 - There is always a weird or half-sane person nobody believes in. but when their conspiracy theories become real, it makes everyone look like an idiot. Orphan Annie is an interesting character.
 - I don't like Avery's ending, but the last line and what he did was beautiful.
-Many people think a story can only be considered horror if it involves ghosts and spirits. I personally feel the human's evil side and the hidden demon inside us are more horrifying because we can't prepare for the unexpected, and the hurt caused by the evil deed is so real.
+- Many people think a story can only be considered horror if it involves ghosts and spirits. I personally feel the human's evil side and the hidden demon inside us are more horrifying because we can't prepare for the unexpected, and the hurt caused by the evil deed is so real.
 <br>
 
 ***
