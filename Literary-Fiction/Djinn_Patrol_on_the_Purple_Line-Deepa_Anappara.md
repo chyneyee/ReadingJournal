@@ -21,7 +21,7 @@ The next missing person is a sixteen-year-old girl who has been scandalised with
 - I have a contradictory feeling when reading this book. One part of me enjoyed the details of the environment, such as the food, sound, and background settings, despite having to look through the meaning of countless Hindi words. The characters are amusing, and the dialogue can be hilarious sometimes. Another part of me found it hard to lead me to continue reading the story further than my intended pace. The third part of me is I really wanted to know what happened in the end. Will the missing kids return to their homes?
 - The reality of the racial divergence between Muslims and Hindus and the massive gap between the rich and the poor. 
 - The community patrol and the touching end influenced me to rate the story a 4.
-- I'm so angry with Jai's character, but at the same time, I kept telling myself that he's just a kid. He still doesn't know many things and how the world works. My favourite part:
+- Sometimes, Jai's character frustrates me, but at the same time, I kept telling myself that he's just a kid. He still doesn't know many things and how the world works. My favourite part:
 > Ma picks up the scrunchie.
 > 'Put it back,' I tell her. 'It's evidence.'
 > 'This is not your stupid show,' Ma screams at me. 'What's wrong with you? I cannot bear to listen to you for a second more.'
