@@ -22,9 +22,9 @@ The next missing person is a sixteen-year-old girl who has been scandalised with
 - The reality of the racial divergence between Muslims and Hindus and the massive gap between the rich and the poor. 
 - The community patrol and the touching end influenced me to rate the story a 4.
 - I'm so angry with Jai's character, but at the same time, I kept telling myself that he's just a kid. He still doesn't know many things and how the world works. My favourite part:
-Ma picks up the scrunchie.
-'Put it back,' I tell her. 'It's evidence.'
- 'This is not your stupid show,' Ma screams at me. 'What's wrong with you? I cannot bear to listen to you for a second more.'
+> Ma picks up the scrunchie.
+> 'Put it back,' I tell her. 'It's evidence.'
+> 'This is not your stupid show,' Ma screams at me. 'What's wrong with you? I cannot bear to listen to you for a second more.'
 - A lot is going on in this story. Their lives are surrounded by various socio-cultural issues such as the caste system, inequality and poverty, gender roles and expectations, religious conflicts, child labour, human trafficking, and corruption.
 
 ***
