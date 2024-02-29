@@ -52,7 +52,7 @@ Jaden is a selfish contestant who sabotages another contestant for his own advan
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781529150247 |
-| **Pages** | 352 |
+| **Pages** | 256 |
 | **Published Year** | 24-05-2022 (Original Published Date: 24-05-2022) |
 | **Date Read** | 22-02-2024 - 29-02-2024 |
 | **Rating** | 2 / 5 |
