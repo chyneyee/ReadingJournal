@@ -18,12 +18,17 @@
 </details>
 
 # J - L
+<details>
+ <summary>Author - Title</summary>
+
+* [Kiersten White - Hide](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Hide-Kiersten_White.md)
+</details>
 
 # M - O
 <details>
   <summary>Author - Title</summary>
   
-  * [Mark Gimenez - Accused (Scott Fenney #2)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Accused-Mark_Gimenez.md))
+  * [Mark Gimenez - Accused (Scott Fenney #2)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Accused-Mark_Gimenez.md)
   
 </details>  
 
