@@ -41,7 +41,7 @@ Jaden is a selfish contestant who sabotages another contestant for his own advan
 
 ## Personal Notes
 - I'm struggling with the slow pace, but at the same time, I really want to know what happens in the end.
-- An overdue excitement only arrives when the competition has fewer than five survivors. The story keeps shifting different characters with their background and disappearance. The entire story focuses on Mack, her thoughts, and her past, which helps her survive the competition.
+- An overdue excitement only arrives when the competition has fewer than five survivors. The story keeps shifting different characters with their background and disappearance. The entire story focuses on Mack, her thoughts, and her past, which helps her to survive the competition.
 - Towards the end, I realised one of the reasons for my struggle is because there are so many emotions, feelings and thoughts of every character throughout the story. It keeps coming, but it's repetitive. Some of those are irrelevant and should move on and focus on the main story.
 - Generations of seven families track down their distant relatives every seven years for sacrifices for the prosperity of the families and their founded town.
 - This legacy and the involved families are so screwed up with their twisted minds.
