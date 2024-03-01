@@ -15,7 +15,7 @@ The ending not only briefly summarises what happened to Jiyoung after a series o
 ## Personal Thoughts
 - It's upsetting when reading the part where most women need to work and sacrifice their talents for their male siblings. It's unfortunate that the women would never know how talented or intelligent they are, same as men for those women. They had no choice due to patriarchal norms. 
 - Bits and pieces of a woman's life that most people had overlooked the gender disparity as it becomes a norm that passes through several generations.
-- Sometimes, when I reflect back on my past, I don't realise some of the issues are gender-based issues until someone else points out the problems later on in their lives. To be honest, this story is very realistic and related to reality.
+- Sometimes, when I reflect back on my past, I don't realise some of the issues are gender-based issues until someone else points out the problems later on in their lives. To be honest, this story is quite realistic.
 - The misogynist level is unbearable. The lewd jokes and their casual sexist comments are intolerable. They just can't think beyond their gender perspective.
 <br>
 
