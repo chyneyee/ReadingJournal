@@ -1,18 +1,18 @@
 # A Modest Proposal - Jonathan Swift
 
-# Summary
+## Summary
 - The author came up with a few suggestions to prevent the children of poor people in Ireland from burdening their parents or country for the benefit of the public.
 - Proposed to sell a certain amount of children at a year old to wealthy people that can be turned into delicious dishes. The remaining children will be kept for breeding; one-fourth are males. One male will be sufficient to serve four females. The skins will make fine gloves for ladies and summer boots for gentlemen.
 - In the end, it details the advantages of his proposal, including the benefit for taverns to offer high-quality food to the fine gentlemen who only value themselves with good food, and skilful cooks will try to make them into expensive dishes to please the guests. Men would become more caring for their wives, and domestic violence would be reduced for fear of miscarriage.
 
 ***
 
-# Personal Thoughts
+## Personal Thoughts
 It's a satirical essay and is supposed to have a laugh when reading it, but Swift's serious tone made it almost sound real. For me, the funniest part wasn't the proposal of eating children. It was the ending where Swift provided the advantages in various perspectives in detail for someone considering implementing his "genuine" idea.
 
 ***
 
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | - |
