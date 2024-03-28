@@ -1,6 +1,6 @@
 # The Enchanted April - Elizabeth von Arnim
 
-# Storyline
+## Storyline
 Mrs. Wilkins sees an advertisement in the newspaper seeking someone to rent a small mediaeval Italian Castle. She is eager for such a holiday, but she doesn't have the money. Her husband is a solicitor, firmly pressing the importance of being thrifty to prepare for the future.
 
 Mrs. Arbuthnot seems absorbed by the same advertisement in the club. Mrs. Wilkins plucks her courage to approach Mrs. Arbuthnot and suggests they share the cost of renting the castle. Mrs. Arbuthnot initially hesitates due to her intolerance to selfish pleasure. She finds it uncomfortable with Mrs. Wilkins's strange behaviour during their first interaction.
@@ -12,8 +12,8 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 
 ***
 
-# Main Characters
-## Mrs. Wilkins
+## Main Characters
+### Mrs. Wilkins
 - Married to Mellersh Wilkins, a stingy solicitor.
 - Frequently went to the parties of impressionist painters and was drawn into the circle of arts because the sister-in-law married an impressionist painter.
 - Invisible at parties due to her shy and not sociable personality.
@@ -21,7 +21,7 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 - Self-centred and ignorant.
 <br>
 
-## Mrs. Arbuthnot
+### Mrs. Arbuthnot
 - Extremely pious housewife and actively helping the poor and caring for kids in the church.
 - Calm, rational, and not too quick to judge.
 - Married to Frederick at twenty and now is thirty-three.
@@ -29,18 +29,18 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 - Had a child who already passed away.
 <br>
 
-## Lady Caroline Dester
+### Lady Caroline Dester
 - A twenty-eight-year-old aristocrate.
 - Extremely beautiful but feels her beauty, causing a lot of unnecessary disturbance to her life.
 <br>
 
-## Mrs Fisher
+### Mrs Fisher
 - A quiet, educated, elderly widow.
 - She wore a black suit after her husband died eleven years ago.
 - Critical and judgmental.
 <br>
 
-## Mr. Wilkins
+### Mr. Wilkins
 - Aged 39, clean-shaven, fine-looking man.
 - Highly respectable by his senior partners and admired by his sister's circle.
 - Pithy, prudent and possesses intelligent judgements on art and artists.
@@ -52,14 +52,14 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 - An Englishman who owns the mediaeval castle.
 <br>
 
-## Mr. Ferdinand Arundel
+### Mr. Ferdinand Arundel
 - Husband of Mrs Arbuthnot.
 - Well-known writing of amusing memoirs.
 <br>
 
 ***
 
-# Personal Thoughts
+## Personal Thoughts
 - I don't know whether I should feel Mrs. Wilkins is annoying or amusing. I don't know whether I should sympathise or loathe her ignorance.
 - The eloquent in describing the emotions and feelings in beautiful prose and the accuracy of the chosen vocabulary.
 - Four women with different backgrounds and social status. Somehow, I feel the higher class are using their pride and confidence to stamp their authority on those women of modest and lower social classes.
@@ -69,7 +69,7 @@ When they arrive in San Salvatore, it is clear that there is a clash of personal
 
 ***
 
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781590174319 |
