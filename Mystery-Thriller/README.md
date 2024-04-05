@@ -22,6 +22,7 @@
  <summary>Author - Title</summary>
 
 * [Kiersten White - Hide](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Hide-Kiersten_White.md)
+* [Liane Moriarty - Nine Perfect Strangers](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Nine_Perfect_Strangers-Liane_Moriarty.md)
 </details>
 
 # M - O
