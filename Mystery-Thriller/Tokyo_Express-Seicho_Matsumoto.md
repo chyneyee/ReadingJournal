@@ -1,4 +1,4 @@
-# Tokyo Express - Seicho Matsumoto
+# Tokyo Express - Seicho Matsumoto, Jesse Kirkwood (Translator)
 
 ## Summary
 <b>The Witness</b>
