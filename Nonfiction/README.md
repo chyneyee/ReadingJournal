@@ -20,6 +20,7 @@
   <summary>Author - Title</summary>
 
   * [James Ball - The Other Pandemic: How QAnon Contaminated the World](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/The_Other_Pandemic-James_Ball.md)
+  * [Leslie T. Chang - Factory Girls: From Village to City in a Changing China](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Factory_Girls-Leslie_T_Chang.md)
   * [Liz Porter - Crime Scene Asia: When forensic evidence becomes the silent witness](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Crime_Scene_Asia-Liz_Porter.md)
 </details>
 
