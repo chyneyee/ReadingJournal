@@ -23,11 +23,17 @@
 <details>
   <summary>Author - Title</summary>
   
-  * [Michelle Willaims - Down Among the Dead Men: A Year in the Life of a Mortuary Technician](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Down_Among_the_Dead_Men-Michelle_Williams.md)
+  * [Michelle Williams - Down Among the Dead Men: A Year in the Life of a Mortuary Technician](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Down_Among_the_Dead_Men-Michelle_Williams.md)
  
 </details>  
 
 # P - R
+<details>
+  <summary>Author - Title</summary>
+  
+  * [Rebecca Quin - Becky Lynch: The Man: Not Your Average Average Girl](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Not_Your_Average_Average_Girl-Rebecca_Quin.md)
+ 
+</details> 
 
 # S - U
 
