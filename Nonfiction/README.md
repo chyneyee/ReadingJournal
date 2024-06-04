@@ -12,6 +12,7 @@
 <details>
   <summary>Author - Title</summary>
 
+  * [Haruki Murakami - Underground: The Tokyo Gas Attack and the Japanese Psyche](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Underground_The_Tokyo_Gas_Attack_and_the_Japanese_Psyche-Haruki_Murakami.md)
   * [Ho Pin - A Death in the Lucky Holiday Hotel: Murder, Money, and an Epic Power Struggle in China](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/A_Death_in_the_Lucky_Holiday_Hotel-Ho_Pin.md)
 </details>
 
