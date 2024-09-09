@@ -1,4 +1,4 @@
-# Dance Dance Dance (The Rat #4) - Haruki Murakami
+# Dance Dance Dance (The Rat #4) - Haruki Murakami, Alfred Birnbaum (Translator)
 
 ## Summary
 - The narrator is experiencing strange dreams about the Dolphin Hotel, where he stayed four and a half years ago for a week with a woman. He explained the details of the hotel's condition and said it was not a pleasant place to return. However, the narrator believes the strange dreams of the hotel are a calling from the woman who had suddenly disappeared after leading him to stay at the Dolphin Hotel. 
