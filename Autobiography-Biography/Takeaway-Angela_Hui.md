@@ -25,7 +25,7 @@ I'm not surprised if someone will make this story into a movie someday.
 ***
 
 ## Personal Thoughts
-- Truly reflects the mindset of Asian parents and the angsty of an Asian child. There are a lot of upsets and unhappy feelings that bubble up inside. You have no one to talk to because Asian parents don't lay out the problems or express their feelings, and it's weird if children are doing so. Sometimes, it's like walking through a minefield when doing things for your parents or even living your life based on your choices because you don't know whether it's up to their standards. You won't get praise or any simple appreciation if you did great work, but if it fails to meet their requirements, always be mindful that there are consequences you need to bear.
+- Truly reflects the mindset of Asian parents and the angsty of an Asian child. There are a lot of upsets and unhappy feelings that bubble up inside. You have no one to talk to because Asian parents don't lay out the problems or express their feelings, and it's weird if children are doing so. Sometimes, it's like walking through a minefield when doing things for your parents or even living your life based on your choices because you don't know whether it's up to their standards. You won't get praise or any simple appreciation if you did a great work, but if it fails to meet their requirements, always be mindful that there are consequences you need to bear.
 
 <br>
 
