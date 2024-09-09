@@ -2,8 +2,9 @@
 <details> 
 <summary>Author - Title</summary>
 
-  * [Anna LeBaron - The Polygamist's Daughter: A Memoir](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/The_Polygamist's_Daughter-Anna_LeBaron.md)
-  * [Annika Cleeve - Mattress Actress](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Mattress_Actress_Annika_Cleeve.md)
+* [Angela Hui - Takeaway: Stories from a Childhood Behind the Counter](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Takeaway-Angela_Hui.md)
+* [Anna LeBaron - The Polygamist's Daughter: A Memoir](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/The_Polygamist's_Daughter-Anna_LeBaron.md)
+* [Annika Cleeve - Mattress Actress](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Mattress_Actress_Annika_Cleeve.md)
     
 </details>  
 
