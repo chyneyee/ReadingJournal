@@ -20,6 +20,7 @@
 <summary>Author - Title</summary>
 
 * [Haruki Murakami - A Wild Sheep Chase](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/A_Wild_Sheep_Chase-Haruki_Murakami.md)
+* [Haruki Murakami - Dance Dance Dance](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Dance_Dance_Dance-Haruki_Murakami.md)
 * [Haruki Murakami - Hear the Wind Sing / Pinball](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Hear_the_Wind_Sing_Pinball-Haruki_Murakami.md)
 * [Ian Flitcroft - The Reluctant Cannibals](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Reluctant_Cannibals-Ian_Flitcroft.md)
 </details>  
