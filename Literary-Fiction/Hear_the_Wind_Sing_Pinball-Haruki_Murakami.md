@@ -1,4 +1,4 @@
-# Hear the Wind Sing / Pinball - Haruki Murakami, Ted Goossen (Translation)
+# Hear the Wind Sing / Pinball (The Rat #1 - 2) - Haruki Murakami, Ted Goossen (Translation)
 
 ## Summary
 ### Hear the Wind Sing
@@ -21,7 +21,7 @@
 - The narrator never found a way to distinguish the differences between the twin sisters. They live together with the narrator.
 - The narrator and his friend rented an apartment to set up a small translation company.
 - Rat quit university three years ago in the spring. He gave various reasons for quitting, but nobody knew the truth.
-- The narrator describes his life with the twin sisters who mysteriously appear in his apartment one morning and also his memories of his old girlfriend Naoko who had committed suicide. Occasionally, he includes the story of his work, where he and his friend set up a small translation company in a rented apartment. Towards the end, the narrator briefly shares his obsession with pinball, explaining how he got hooked up to the pinball game and had to track the machine's whereabouts after it got rid of J's bar. The plot alternates between describing the life of the narrator and his friend Rat.
+- The narrator describes his life with the twin sisters who mysteriously appear in his apartment one morning and also his memories of his old girlfriend Naoko who had committed suicide. Occasionally, he includes the story of his work, where he and his friend set up a small translation company in a rented apartment. Towards the end, the narrator briefly shares his obsession with pinball, explaining how he got hooked up to the pinball game and had to track the machine's whereabouts after it got rid of J's bar. The plot alternates between describing the narrator's life and his friend Rat.
 - Themes: exploring loneliness and companionship, the purpose of life.
 
  ***
