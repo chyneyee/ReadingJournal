@@ -14,7 +14,7 @@
 - Everyone seems so lost in their lives, like spending their daily time aimlessly.
 - Two men keep complaining and comparing their miserable lives.
 - I enjoyed reading the book in the simplicity of the words but not the story itself.
-- Honestly, I don't know how to appreciate the brilliance of this story as other readers did. I don't like stories with too much sexual content and overly vague. The middle part got draggy and boring, and I just couldn't connect with the story. I believe there are many hidden meanings behind it, but I really couldn't grasp it.
+- Honestly, I don't know how to appreciate the brilliance of this story as other readers did. I don't like stories with too much sexual content and overly vague. The middle part got draggy and boring, and I just couldn't connect with the story. I believe the story has many hidden meanings, but I really couldn't grasp those.
 - Maybe I need the Sheep Man to connect me to the author's mind to understand the meaning behind the story.
 <br>
 
