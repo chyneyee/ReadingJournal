@@ -23,6 +23,10 @@
 - Rat quit university three years ago in the spring. He gave various reasons for quitting, but nobody knew the truth.
 - The narrator describes his life with the twin sisters who mysteriously appear in his apartment one morning and also his memories of his old girlfriend Naoko who had committed suicide. Occasionally, he includes the story of his work, where he and his friend set up a small translation company in a rented apartment. Towards the end, the narrator briefly shares his obsession with pinball, explaining how he got hooked up to the pinball game and had to track the machine's whereabouts after it got rid of J's bar. The plot alternates between describing the narrator's life and his friend Rat.
 - Themes: exploring loneliness and companionship, the purpose of life.
+<br>
+
+#### Note
+I don't know what to feel about this book. After all, it's one of Murakami's earliest novels, but I can sense we probably won't go well because I just couldn't delve into his uniquely strange world.
 
  ***
 
