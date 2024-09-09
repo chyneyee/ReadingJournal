@@ -35,6 +35,8 @@
 - Together, the narrator and his girlfriend set their journey to Hokkaido to look for the sheep.
 <br>
 
+
+
 ***
 
 ## Spoiler
@@ -42,6 +44,10 @@
   <summary>The Ending</summary>
 - Rat reveals to the narrator that he killed himself over a week before the narrator arrived, hanging himself in the garage and the Sheep Man burying him on the property; destroying the sheep (due to the sheep being inside of him) before the sheep could fully control him and preventing the sheep from taking another body.
 </details>
+<br>
+
+### Note
+The second book in the series is more straightforward. It offers a glimpse of directions where this story leads to somewhere instead of nowhere.
 
  ***
 
