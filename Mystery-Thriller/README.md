@@ -23,6 +23,7 @@
 
 * [Kiersten White - Hide](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Hide-Kiersten_White.md)
 * [Liane Moriarty - Nine Perfect Strangers](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Nine_Perfect_Strangers-Liane_Moriarty.md)
+* [Lisa Jewell - Invisible Girl](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Invisible_Girl-Lisa_Jewell.md)
 </details>
 
 # M - O
