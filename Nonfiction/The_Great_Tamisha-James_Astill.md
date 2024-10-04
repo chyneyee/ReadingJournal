@@ -15,7 +15,7 @@
 - I never expected the Parsi to be the one that played a vital role in the growth of Indian cricket.
 - This book provides very in-depth research and many insights into the history of Indian cricket. 
 - Some interesting people in Indian cricket history - Maharajkumar of Vizianagram or Vizzy and Ranji.
-- From the very beginning, political influence, social status, and religious differences have been deeply rooted in Indian cricket.
+- From the very beginning, political influence, social status, religious differences, and corruption have been deeply rooted in Indian cricket.
 <br>
 
 ***
