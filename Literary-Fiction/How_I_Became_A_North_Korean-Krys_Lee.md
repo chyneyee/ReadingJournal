@@ -46,8 +46,7 @@ From a very young age, Jangmi learned that following rules in the country would 
 ## Personal Thoughts
 - I can feel the alienation and strangeness in the new world for Jangmi. She needs to survive in the new world, depending on a stranger who has helped her to cross the border. She is treading carefully with the delicate relationship in which both rely on each other, although the focus seems to be on her needing him more than he needs her.
 - Themes - run away from problems and difficulties, Christianity, the wife has another lover, the hypocrisy of religious devotees, greed, trust issues, striving for freedom.
-- Sometimes, I feel confused with the storyline due to difficulty following the sentence structure. Strangely, the side characters have a more apparent ending than the main ones. I wish we would know more about what happened to Missionary Kwon, and the vagueness of Jangmi and Yongju is irrelevant. Everything has been very straightforward except those endings.
-
+- Sometimes, I feel confused with the storyline due to difficulty following the sentence structure. Strangely, the side characters have a more apparent ending than the main ones. I wish there was clarity about what happened to Missionary Kwon, and the vagueness of the ending for Jangmi and Yongju is irrelevant. Everything has been very straightforward except those endings.
 <br>
 
 ***
