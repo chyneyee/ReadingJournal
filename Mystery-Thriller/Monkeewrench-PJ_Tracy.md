@@ -1,4 +1,4 @@
-# Want To Play? (Monkeewrench #1) - P.J. Tracy
+# Monkeewrench (Monkeewrench #1) - P.J. Tracy
 
 ## Summary
 In a small town in Wisconsin, Father Newbury finds an old couple, John and Mary Kleinfeldt, murdered at the church in the early morning. Mary's chest is carved with a cross. The old couple used to report homosexuals to Father Newbury, causing some others to be banned from the congregation. At the same time, in Minneapolis, a dead jogger was murdered near the river. The dead jogger is Jonathan Blanchard, a seminary student.
