@@ -39,7 +39,7 @@
 <details>
   <summary>Author - Title</summary>
 
-  * [P.J. Tracy - Want to Play? (Monkeewrench #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Want_To_Play-PJ_Tracy.md)
+  * [P.J. Tracy - Monkeewrench (Monkeewrench #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Monkeewrench-PJ_Tracy.md)
   
 </details> 
 
