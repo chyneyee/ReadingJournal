@@ -41,7 +41,7 @@ Carly and Heather drive to the Sun Down motel and look around the place. Heather
 
 ***
 
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9780440000174 |
