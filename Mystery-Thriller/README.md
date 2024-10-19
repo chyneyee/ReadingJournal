@@ -47,12 +47,13 @@
 <details>
   <summary>Author - Title</summary>
 
-  * [Sarah Pearson - The Sanatorium (Detective Elin Warner #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sanatorium-Sarah_Pearse.md)
-  * [Seicho Matsumoto - Tokyo Express](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Tokyo_Express-Seicho_Matsumoto.md)
-  * [Simone St. James - The Sun Down Motel](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sun_Down_Motel-Simone_St_James.md)
-  * [Sophie Hannah - A Game for All the Family](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/A_Game_for_All_the_Family-Sophie_Hannah.md)
-  * [Stephen King - The Institute](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Institute-Stephen_King.md)
-  * [Stephen King - Elevation](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Elevation-Stephen_King.md)
+* [Sarah Pearson - The Sanatorium (Detective Elin Warner #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sanatorium-Sarah_Pearse.md)
+* [Seicho Matsumoto - Tokyo Express](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Tokyo_Express-Seicho_Matsumoto.md)
+* [Simone St. James - The Sun Down Motel](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sun_Down_Motel-Simone_St_James.md)
+* [Sophie Hannah - A Game for All the Family](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/A_Game_for_All_the_Family-Sophie_Hannah.md)
+* [Stephen King - Elevation](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Elevation-Stephen_King.md)
+* [Stephen King - The Institute](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Institute-Stephen_King.md)
+* [Stephen King - Thinner](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Thinner-Richard_Bachman.md)
 </details>
 
 # V - X
