@@ -13,13 +13,13 @@
 ### Part 2 - Snow
 - Snow's diary begins on 25th September 1941.
 - Snow decided to leave her husband. She knew the marriage wouldn't last long a few days after marriage. She recalled some memories of Johnny and his awkwardness with his family and friends at the party.
-- Peter is introduced in Snow's diary. In the beginning, there's not much about him, and he's probably Johnny's friend, but what we know is Snow didn't like him.
-- The diary focuses on Snow's inner feelings about the marriage and her observations about Johnny. The diary later focused on their late honeymoon to the Seven Maidens, accompanied by Honey, Peter and Mamoru.
-- Throughout the journey, Snow has feelings for knowledgeable Mamoru or probably feels that Mamoru is the only hope as she decides to leave Johnny. At the end of the diary, Snow mentions that she has to accept her fate after what happened between her and Mamoru.
+- Peter is introduced in Snow's diary but not much details about him is given in the beginning. He's probably Johnny's friend, but what we know is Snow didn't have good impressions on him.
+- The diary focuses on Snow's inner feelings about her marriage and her observations about Johnny. The diary later focused on their late honeymoon to the Seven Maidens, accompanied by Honey, Peter and Mamoru.
+- Throughout the journey, Snow has feelings for knowledgeable Mamoru. She probably felt that Mamoru is the only hope if she leaves Johnny. At the end of the diary, Snow mentioned that she has to accept her fate married to Johnny after what happened between her and Mamoru.
 <br>
 
 ### Part 3 - Peter
-- Peter is living in a nursing home in Malacca. He alternatively talks about the garden he plans to build and reminisces about the past with Johnny and Snow. He offers his version of the trip to the Seven Maidens and the real purpose of the journey. This revelation also provides another story about Johnny's collaboration with the Japanese.
+- Peter is living in a nursing home in Malacca. He alternatively talks about the garden he plans to build and reminisces about the past especially his friendship with Johnny. Peter offers his version of the trip to the Seven Maidens and the real purpose of the journey. This revelation also provides another story about Johnny's collaboration with the Japanese.
 <br>
 
 ***
