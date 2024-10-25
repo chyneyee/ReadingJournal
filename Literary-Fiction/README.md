@@ -46,6 +46,13 @@
 </details>  
 
 # S - U
+<details>
+  
+  <summary>Author - Title</summary>
+  
+  * [Tash Aw - The Harmony Silk Factory](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Harmony_Silk_Factory-Tash_Aw.md)
+
+</details>  
 
 # V - X
 
