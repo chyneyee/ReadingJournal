@@ -48,4 +48,3 @@
 | **Genre** | Literary Fiction |
 | **Country** | Malaysia |
 | **Notes / Themes** | war, violence, sexual assault, infidelity, communism |
-| 
