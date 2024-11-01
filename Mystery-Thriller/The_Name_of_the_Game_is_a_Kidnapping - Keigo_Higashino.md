@@ -33,7 +33,7 @@ I don't know whether I should despise or pity Sakuma based on his perception of 
 
 In short, Sakuma is angry that his idea is rejected by Mr Katsuragi. He coincidentally witnessed the daughter of his important client running away from home. He uses the opportunity to turn it into a kidnapping game to prove that he is smarter than Mr Katsuragi.
 
-I felt confused most of the time when reading this book. I'm not sure whether it's the translation or I'm not up to the writer's expected interpretations. The entire plan seemed complicated and meticulous but also messed up my understanding. There aren't any various tones throughout the story because the focus is the brilliance of the kidnapping game.
+I felt confused most of the time when reading this book. I'm not sure whether it's the translation or I'm not up to the writer's expected interpretations. The entire plan seemed complicated and meticulous but also messed up my understanding. There aren't any various tones throughout the story because the focus is to highlight the brilliance of the kidnapping game.
 <br>
 
 ***
