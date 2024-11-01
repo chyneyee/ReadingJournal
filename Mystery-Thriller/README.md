@@ -21,6 +21,7 @@
 <details>
  <summary>Author - Title</summary>
 
+* [Keigo Higashino - The Name of the Game is a Kidnapping](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Name_of_the_Game_is_a_Kidnapping%20-%20Keigo_Higashino.md)
 * [Kiersten White - Hide](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Hide-Kiersten_White.md)
 * [Liane Moriarty - Nine Perfect Strangers](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Nine_Perfect_Strangers-Liane_Moriarty.md)
 * [Linwood Barclay - Elevator Pitch](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Elevator_Pitch-Linwood_Barclay.md)
