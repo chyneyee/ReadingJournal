@@ -24,7 +24,7 @@
 ## Personal Thoughts
 I don't know what to say about this story. Something different? But I really like the setting in the bakery and the baking goods smell great.
 
-The writing style has been very confusing from the beginning. The story also seems merry-go-round. Above all, nothing can be worse than the ending. I felt my time was wasted after reading the entire story when the ending is back to square one.
+The writing style has been very confusing from the beginning. The story is like a merry-go-round. Above all, nothing can be worse than the ending. I felt my time was wasted after reading the entire story when the ending is back to square one.
 <br>
 
 ***
