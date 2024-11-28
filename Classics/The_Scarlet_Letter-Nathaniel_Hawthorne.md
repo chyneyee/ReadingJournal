@@ -43,7 +43,7 @@
 - Unfamiliar with the old writing style and ancient words but couldn't deny the sympathy evoked by the writer's storytelling.
 - The struggle between individual identity and social identity remains an important theme.
 - I love the part when Pearl questions his father's warmth and kindness to them only at night or in the quiet forest but during the day, they have to pretend that they are not as close as they are supposed to be.
-- It's a great story to depict the difference between a person who suffers the guilt silently and another who suffers externally from the public condemnation. It also shows a person who hides his sin shares an equivalent suffering as someone's sin who has been openly exposed. Both have different heroism in certain perspectives. Hester accepts her fate and takes responsibility for her sin courageously. Her partner who seems like a coward and hypocritical but is tormented by his own sin all this time, finally has gained peace after his brave confession. Unfortunately, the judgment is harsher on Hester than her partner due to status differences.
+- It's a great story depicting the difference between a person who suffers the guilt silently and another who suffers externally from the public condemnation. It also shows a person who hides his sin shares an equivalent suffering as someone's sin who has been openly exposed. Both have different heroism in certain perspectives. Hester accepts her fate and takes responsibility for her sin courageously. Her partner who seems like a coward and hypocritical but is tormented by his own sin all this time, finally has gained peace after his brave confession. Unfortunately, the judgment is harsher on Hester than her partner due to status differences.
 <br>
 
 ***
