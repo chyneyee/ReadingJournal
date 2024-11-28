@@ -25,6 +25,12 @@
 </details>
 
 # M - O
+<details>
+  <summary>Author - Title</summary>
+
+  * [Nathaniel Hawthorne- The Scarlet Letter](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Scarlet_Letter-Nathaniel_Hawthorne.md)
+ 
+</details>
 
 # P - R
 
