@@ -21,6 +21,7 @@
   <summary>Author - Title</summary>
 
   * [Jonathan Swift - A Modest Proposal](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/A_Modest_Proposal-Jonathan_Swift.md)
+  * [Louisa May Alcott - Little Women (Little Women #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/Little_Women%20-%20Louisa_May_Alcott.md)
  
 </details>
 
