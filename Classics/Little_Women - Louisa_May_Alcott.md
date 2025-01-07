@@ -30,4 +30,4 @@ There is something about this story that attracts me although I'm not sure what 
 | **Rating** | 5 / 5 |
 | **Genre** | Classics, Historical Fiction, Book to Movie |
 | **Country** | America |
-| **Notes / Themes** | Poverty, war, feminism, life struggles, charity, kindness, forgiveness, christian virtues | 
+| **Notes / Themes** | Book to movie, poverty, war, feminism, life struggles, charity, kindness, forgiveness, christian virtues | 
