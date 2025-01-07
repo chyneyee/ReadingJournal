@@ -25,7 +25,7 @@
 | -- | -- |
 | **ISBN** | 9781444731309 |
 | **Pages** | 292 |
-| **Published Year** | 01-01-2000 (Original Published Date: 01-01-2000) |
+| **Published Year** | 13-10-2011 (Original Published Date: 13-06-2002) |
 | **Date Read** | 01-01-2025 - 06-01-2025 |
 | **Rating** | 1 / 5 |
 | **Genre** | Literary Fiction |
