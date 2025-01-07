@@ -13,7 +13,7 @@
 ## Personal Thoughts
 - The story begins to open up as it progresses further after it scatters with several brief introductions of the characters in the story.
 - The plot seems interesting but the storytelling part is not. One thing I really love is the contradiction of opinions between Monty's two best friends about Monty's punishment. Jakob feels it's unfair for Monty because he believes other heavier crimes deserve more severe punishment than Monty's. Both had a friend who died because of drugs made Slattery believe that Monty deserved to go to jail.
-- A lot of irrelevant lust desires and sexual fantasies which are more like the writer's fantasy than as a necessity for the story.
+- A lot of irrelevant lust desires and sexual fantasies which are more of the writer's fantasy than a necessity for the story.
 - The ending was draggy with the main character fantasising about another life that he wished to have but couldn't have.
 - The entire story is not very well-connected.
 
