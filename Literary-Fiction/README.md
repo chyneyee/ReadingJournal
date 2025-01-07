@@ -11,9 +11,10 @@
 # D - F
 <details> 
 <summary>Author - Title</summary>
- 
-  * [Deepa Anappara - Djinn Patrol on the Purple Line](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Djinn_Patrol_on_the_Purple_Line-Deepa_Anappara.md)
-  * [Frances Cha - If I Had Your Face](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/If_I_Had_Your_Face-Frances_Cha.md)
+
+* [David Benioff - The 25th Hour](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_25th_Hour%20-%20David_Benioff.md) 
+* [Deepa Anappara - Djinn Patrol on the Purple Line](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Djinn_Patrol_on_the_Purple_Line-Deepa_Anappara.md)
+* [Frances Cha - If I Had Your Face](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/If_I_Had_Your_Face-Frances_Cha.md)
 </details>  
 
 # G - I
