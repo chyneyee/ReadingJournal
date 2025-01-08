@@ -22,6 +22,7 @@
  <summary>Author - Title</summary>
 
 * [James Thompson - Snow Angel](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Snow_Angels-James_Thompson.md)
+* [Jim Thompson - The Killer Inside Me](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Killer_Inside_Me-Jim_Thompson.md)
 * [Keigo Higashino - The Name of the Game is a Kidnapping](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Name_of_the_Game_is_a_Kidnapping%20-%20Keigo_Higashino.md)
 * [Kiersten White - Hide](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Hide-Kiersten_White.md)
 * [Liane Moriarty - Nine Perfect Strangers](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Nine_Perfect_Strangers-Liane_Moriarty.md)
