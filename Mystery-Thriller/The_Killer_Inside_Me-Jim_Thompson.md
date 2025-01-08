@@ -39,6 +39,6 @@ Lou's father adopted Mike when Lou was three years old. Mike was being accused o
 | **Published Year** | 01-11-2011 (Original Published Date: 13-03-1952) |
 | **Date Read** | 06-01-2025 - 08-01-2025 |
 | **Rating** | 3 / 5 |
-| **Genre** | Mystery Crime, Thriller |
+| **Genre** | Mystery Crime, Thriller, Classics |
 | **Country** | America |
 | **Notes / Themes** | Book to movie, murder, violence, sadistic, psychotic | 
