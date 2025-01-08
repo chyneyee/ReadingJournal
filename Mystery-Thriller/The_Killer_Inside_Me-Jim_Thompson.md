@@ -27,7 +27,7 @@ Lou's father adopted Mike when Lou was three years old. Mike was being accused o
 
 ## Personal Thoughts
 - Psychotic, meticulous and calculative. 
-- Chilling. The story involves a lot of delving into Lou's disturbing mind, which probably makes the story more disturbing to read.
+- Chilling. The story involves a lot of delving into Lou's disturbing mind, which makes the story more disturbing to read.
 
 ***
 
