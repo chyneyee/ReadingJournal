@@ -1,4 +1,4 @@
-# Escape - David McMillan
+# Escape: The True Story of the Only Westerner Ever to Escape from Thailand's Bangkok Hilton - David McMillan
 
 ## Personal Thoughts
 David McMillan tells his story of living in Bangkok's prison after being caught smuggling drugs. Based on the book's title and the summary on Goodreads, I assumed the ending would be that he was able to escape prison to avoid the death penalty in Thailand.
