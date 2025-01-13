@@ -61,5 +61,10 @@
 </details>
 
 # V - X
+<details>
+ <summary>Author - Title</summary>
+
+* [Will Carver - The Beresford](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Beresford-Will_Carver.md)
+</details>
 
 # Y - Z
