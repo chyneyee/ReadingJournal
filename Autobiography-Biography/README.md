@@ -23,7 +23,8 @@
 # M - O
 <details>
   <summary>Author - Title</summary>
-  
+
+  * [Martin Booth - Gweilo: A Memoir of a Hong Kong Childhood - Martin Booth](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Gweilo_A_Memoir_of_a_Hong_Kong_Childhood-Martin_Booth.md)
   * [Michelle Williams - Down Among the Dead Men: A Year in the Life of a Mortuary Technician](https://github.com/chyneyee/ReadingJournal/blob/main/Autobiography-Biography/Down_Among_the_Dead_Men-Michelle_Williams.md)
  
 </details>  
