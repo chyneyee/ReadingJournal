@@ -12,7 +12,8 @@
 <details> 
 <summary>Author - Title</summary>
 
-* [David Benioff - The 25th Hour](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_25th_Hour-David_Benioff.md) 
+* [David Benioff - The 25th Hour](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_25th_Hour-David_Benioff.md)
+* [Deborah Rodriguez - The Little Coffee Shop of Kabul (The Little Coffee Shop of Kabul #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Little_Coffee_Shop_of_Kabul-Deborah_Rodriguez.md) 
 * [Deepa Anappara - Djinn Patrol on the Purple Line](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Djinn_Patrol_on_the_Purple_Line-Deepa_Anappara.md)
 * [Frances Cha - If I Had Your Face](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/If_I_Had_Your_Face-Frances_Cha.md)
 </details>  
