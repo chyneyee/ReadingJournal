@@ -17,6 +17,8 @@
 # J - L
 <details>
   <summary>Author - Title</summary>
+
+  * [Kristin Levine - The Best Bad Luck I Ever Had](https://github.com/chyneyee/ReadingJournal/blob/main/Children-Young_Adult/The_Best_Bad_Luck_I_Ever_Had-Kristin_Levine.md)
  
 </details>
 
