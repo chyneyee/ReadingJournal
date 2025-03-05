@@ -30,7 +30,7 @@
 - Rosie's journey of leaving her abusive marriage is filled with a mixture of fear, insecurity, excitement and hope. She is torn between the fear of her husband and the freedom that she longed for.
 - The multidimensional narration portrays Rosie, who has been abused by her hot-tempered husband for fourteen years, finally standing up for herself to strive for her freedom. She experienced excitement and hope for her new life. At the same time, she has doubts about her capabilities to be independent and fears for her cop husband, who can track her sooner or later.
 - Rosie is a strong character. She has a tremendous self-belief that convinces herself that she can live her own life. 
-- What makes this story so great is the freedom of King's writing without any restrictions. King just wrote it however he wanted without any worries about explicit words or racial and sexist slurs. He made it very clear that the villain needs to be hated to the deepest, and the likeable character has all the worthy virtues to be loved.
+- What makes this story so great is the freedom of King's writing without any restrictions. King just wrote it however he wanted without any worries about explicit words or racial and sexist slurs. He made it very clear that the villain needs to be hated to the deepest, and the likeable characters has all the worthy virtues to be loved.
 
 <br>
 
