@@ -8,6 +8,11 @@
 </details>  
 
 # D - F
+<details> 
+<summary>Author - Title</summary>
+
+* [Elise Hu - Flawless](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Flawless-Elise_Hu.md)
+</details> 
 
 # G - I
 <details>
