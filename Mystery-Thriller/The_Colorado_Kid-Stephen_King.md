@@ -21,4 +21,4 @@ It's not a long story, but for the sake of chasing away the guy from the Globe t
 | **Rating** | 2 / 5 |
 | **Genre** | Mystery Crime, Thriller, Horror |
 | **Country** | America |
-| **Notes / Themes** | murder, death, suicide | 
+| **Notes / Themes** | death, suicide | 
