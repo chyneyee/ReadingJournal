@@ -53,6 +53,7 @@
 * [Sarah Pearson - The Sanatorium (Detective Elin Warner #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Sanatorium-Sarah_Pearse.md)
 * [Seicho Matsumoto - Tokyo Express](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Tokyo_Express-Seicho_Matsumoto.md)
 * [Sophie Hannah - A Game for All the Family](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/A_Game_for_All_the_Family-Sophie_Hannah.md)
+* [Stephen King - The Colorado Kid](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Colorado_Kid-Stephen_King.md)
 </details>
 
 # V - X
