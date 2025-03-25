@@ -1,4 +1,4 @@
-# Rose Madde - Stephen King
+# Rose Madder - Stephen King
 
 ## Summary
 - Rosie's husband Norman hit her even though she had been pregnant for four months. Rosie's thigh is now soaking with blood, which leads to miscarriage.
