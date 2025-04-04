@@ -1,6 +1,8 @@
 # A - C
 <details> 
 <summary>Author - Title</summary>
+
+* [Chris Hammer - Scrublands (Martin Scarsden #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Scrublands-Chris_Hammer.md)
 </details>  
 
 # D - F
