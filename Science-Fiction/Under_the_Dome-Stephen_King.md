@@ -50,7 +50,7 @@
 - The town is so lively and realistic with the number of characters and various personalities.
 - It touches on various angles of human basic behaviour when dealing with the unexpected. Some seek spiritual guidance, which divides into two different directions, one towards love and another towards extremity. Then, politicians and authorities who are looking for this chaos as an advantage to gain more power and to strengthen their position. The angry people are looking for conspiracies which are usually against the higher power and to influence the vulnerable with new ideas.
 - The brilliance of getting into a politician's and dictator's mind who creates the chaos and takes advantage and manipulates the fear to increase his power in the town. He bullies the weak and surrounds himself with his own people to strengthen his dictatorship position so he can work comfortably behind his greed.
-- My most favourite part is the connection between the soldier, Ames (outside of the Dome), and the so-called cow-kid, Ollie (confined inside the Dome). It was a very touching story which reflects the beautiful bond between them in such a horrific situation.
+- My most favourite part is the friendship between the soldier, Ames (outside of the Dome), and the so-called cow-kid, Ollie (confined inside the Dome). It was a very touching story which reflects the beautiful bond between them in such a horrific situation.
 <br>
 
 ***
