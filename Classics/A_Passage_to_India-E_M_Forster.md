@@ -27,8 +27,7 @@
 - The English are cynical towards Indians because they feel they're superior and often assume the Indians want to get benefits from them. The Indians, despite disliking them in their hearts, are overly eager to please the foreigners, either not to offend the English, which might cost their jobs, or because they observe some interesting personalities possessed by the English.
 The Indians have internal conflicts among themselves due to differences in sects and social status but unite against the English.
 - I feel annoyed by Adela's simple thinking, which takes Aziz's words too seriously, and Aziz does too much to make the visitors happy. 
-- The entire story seems to be about hypocrisy, where people exchange pleasant words in front of each other while keeping their prejudice inside. 
-- The story only reaches its peak when the accusation occurs. Before the peak, there was a tension buildup between two nations and planting seeds into the readers of how both sides think about each other. After the peak, it focuses on the aftermath after the trial.
+- The entire story seems to be about hypocrisy, where people exchange pleasant words in front of each other while keeping their prejudice inside. The story only reaches its peak when the accusation occurs. Before the peak, the story focuses on building up tensions between two nations and planting seeds into the readers of how both sides think about each other. After the peak, it focuses on the aftermath after the trial.
 - I understand the main focus of this story is about the relationship between the British and Indians in the 1920s, but I really don't like the story itself.
 <br>
 
