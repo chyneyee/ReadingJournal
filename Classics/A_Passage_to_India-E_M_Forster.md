@@ -41,7 +41,7 @@ The Indians have internal conflicts among themselves due to differences in sects
 | **Pages** | 365 |
 | **Published Year** | 10/03/2020 (Original Published Date: 01/01/1924) |
 | **Date Read** | 02/07/2025 - 07/07/2025 |
-| **Rating** | 2 / 5 |
+| **Rating** | 1 / 5 |
 | **Genre** | Classics, Historical Fiction, Book to Movie |
 | **Country** | India |
 | **Notes / Themes** | Racism, colonialism, sexism, religion, evil, prejudice, hypocrisy, justice, cultural differences | 
