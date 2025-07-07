@@ -11,6 +11,7 @@
   <summary>Author - Title</summary>
 
   * [Elizabeth von Arnim - The Enchanted April](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Enchanted_April-Elizabeth_von_Arnim.md)
+  * [E.M. Forster - A Passage to India](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/A_Passage_to_India-E_M_Forster.md)
   * [Fyodor Dostoevsky - Crime and Punishment](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/Crime_and_Punishment-Fyodor_Dostoevsky.md)
  
 </details>
