@@ -73,7 +73,3 @@
 </details>
 
 # Y - Z
-
-
-katy reichs
-dan brown
