@@ -31,6 +31,7 @@
 * [Linwood Barclay - Elevator Pitch](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Elevator_Pitch-Linwood_Barclay.md)
 * [Linwood Barclay - Trust Your Eyes](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Trust_Your_Eyes-Linwood_Barclay.md)
 * [Lisa Jewell - Invisible Girl](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Invisible_Girl-Lisa_Jewell.md)
+* [Lucy Foley - The Guest List](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Guest_List-Lucy_Foley.md)
 </details>
 
 # M - O
