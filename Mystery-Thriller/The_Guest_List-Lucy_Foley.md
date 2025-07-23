@@ -41,7 +41,7 @@
 ## Personal Thoughts
 - A bunch of immature friends, an irritating bride, a "fake nice" bridegroom, and most of the people in the wedding are judgemental against each other. I guess it's a good idea that we get to know the inner thoughts of the characters. Actually, almost everyone is suspicious and mostly has strange kinds of behaviours and relationships.
 - A lot of drinking and privileged people, and the continuous mentioning public school. I thought private schools were more privileged. Then, I did some research. So, public schools in the UK are posh schools that have high tuition fees and are also boarding schools. Public schools mean private schools due to the private tuition fees. Confusing.
-- The thrill and mystery keep going until the end. What I don't like about the story is the pace is too slow, and the switching timelines make it hard to keep up with the story.
+- The thrill and mystery keep going until the end. What I don't like about the story is the pace is too slow, and the switching timelines make it difficult to keep up with the story.
 
 <br>
 
