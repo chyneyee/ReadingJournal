@@ -6,6 +6,7 @@
 * [A.J. Cronin - The Citadel](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Citadel-A_J_Cronin.md)
 * [Amy Taylor - Search History](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Search_History-Amy_Taylor.md)
 * [Cho Nam-Joo - Kim Jiyoung, Born 1982](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Kim_Jiyoung_Born_1982-Cho_Nam_Joo.md)
+* [Craig Silvey - Honeybee](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Honeybee-Craig_Silvey.md)
 </details>  
 
 # D - F
