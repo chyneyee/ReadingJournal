@@ -31,7 +31,7 @@
 | **Pages** | 731 |
 | **Published Year** | 01/07/1986 (Original Published Date: 10/05/1985) |
 | **Date Read** | 01/08/2025 - 06/08/2025 |
-| **Rating** | 3 / 5 |
+| **Rating** | 2.5 / 5 |
 | **Genre** | Classics, Literature, Book to Movie |
 | **Country** | United States |
 | **Notes / Themes** | Book to a movie, abortion, war, juvenile crimes, addiction, racism, infidelity, violence, incest | 
