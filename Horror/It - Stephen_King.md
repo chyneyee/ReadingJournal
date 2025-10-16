@@ -34,7 +34,7 @@
 - Pennywise disguises itself in various forms which reflects the deepest fears of its victims.
 - Certain parts of the story are quite interesting, while others feel overly lengthy and sluggish.
 - The in-depth layers of stories to discover as the story progresses are what make the story multidimensional.
-- Although the story is unique and interesting, the process of reading it is torturous.
+- Although the story is unique and intriguing, the process of reading it is torturous.
 - The story focuses on friendship and loyalty as its main themes. Henry and his gang are the driving force behind such a meaningful friendship, and Pennywise is the ultimate test of their loyalty.
 <br>
 
