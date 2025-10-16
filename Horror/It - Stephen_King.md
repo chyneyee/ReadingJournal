@@ -47,6 +47,6 @@
 | **Published Year** | 01-01-2016 (Original Published Date: 15-09-1986) |
 | **Date Read** | 10-09-2025 - 15-10-2025 |
 | **Rating** | 2.5 / 5 |
-| **Genre** | Mystery Thriller, Horror |
+| **Genre** | Mystery Thriller, Horror, Book to TV or Movie |
 | **Country** | America |
 | **Notes / Themes** | Racial slurs, child abuse, bullying, death, murder, sexual content | 
