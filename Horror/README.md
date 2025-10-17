@@ -29,7 +29,7 @@
 * [Simone St James - The Sun Down Motel](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/The_Sun_Down_Motel-Simone_St_James.md)
 * [Stephen King - Cycle of the Werewolf](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Cycle_of_the_Werewolf-Stephen_King.md)
 * [Stephen King - Elevation](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Elevation-Stephen_King.md)
-* [Stephen King - It](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/It%20-%20Stephen_King.md)
+* [Stephen King - It](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/It-Stephen_King.md)
 * [Stephen King - Misery](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Misery-Stephen_King.md)
 * [Stephen King - Rose Madder](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Rose_Madder-Stephen_King.md)
 * [Stephen King - The Institute](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/The_Institute-Stephen_King.md)
