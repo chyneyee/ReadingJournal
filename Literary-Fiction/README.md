@@ -5,6 +5,7 @@
 * [A.B. Yehoshua, Hillel Halkin - A Woman in Jerusalem](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/A_Woman_in_Jerusalem-AB_Yehoshua.md)
 * [A.J. Cronin - The Citadel](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Citadel-A_J_Cronin.md)
 * [Amy Taylor - Search History](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Search_History-Amy_Taylor.md)
+* [Beatriz Serrano - Discontent](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Discontent-Beatriz_Serrano.md)
 * [Cho Nam-Joo - Kim Jiyoung, Born 1982](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Kim_Jiyoung_Born_1982-Cho_Nam_Joo.md)
 * [Craig Silvey - Honeybee](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Honeybee-Craig_Silvey.md)
 </details>  
