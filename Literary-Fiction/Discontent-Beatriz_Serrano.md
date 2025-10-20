@@ -1,4 +1,4 @@
-# Discontent - Beatriz Serrano (Mara Faye Lethem (translator)
+# Discontent - Beatriz Serrano, Mara Faye Lethem (Translator)
 
 ## Summary
 * The narrator begins her story by describing her boring working life, such as pretending to be a different person throughout a video call with a team in the office. She appears to be interested in the meeting, knowing what questions to ask to appear attentive and what to say to pass the time without actually doing anything.
