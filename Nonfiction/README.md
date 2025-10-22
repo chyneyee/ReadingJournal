@@ -2,6 +2,7 @@
 <details> 
 <summary>Author - Title</summary>
 
+* [Amelia Pang - Made in China: A Prisoner, an SOS Letter, and the Hidden Cost of America's Cheap Goods](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Made_in_China-Amelia_Pang.md)
 * [Barbara Demick - Eat the Buddha: Life and Death in a Tibetan Town](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Eat_the_Buddha-Barbara_Demick.md)
 * [Barbara Demick - Nothing to Envy: Love, Life and Death in North Korea](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Nothing_to_Envy-Barbara_Demick.md)
 * [Caroline Overington - Last Woman Hanged](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Last_Woman_Hanged-Caroline_Overington.md)
