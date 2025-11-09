@@ -17,6 +17,12 @@
 </details>
 
 # G - I
+<details>
+  <summary>Author - Title</summary>
+
+  * [Harriet Beecher Stove - Uncle Tom's Cabin](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/Uncle_Toms_Cabin-Harriet_Beecher_Stowe.md)
+ 
+</details>
 
 # J - L
 <details>
