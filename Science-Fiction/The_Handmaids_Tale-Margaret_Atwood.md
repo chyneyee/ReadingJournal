@@ -32,7 +32,7 @@
 ## Personal Thoughts
 * Explores the political oppression of women and uses religion as an excuse to control women's bodies and reproductive rights. Women are forbidden to read so that the authorities can easily control women in all aspects, including their minds.
 * Handmaids are punished by beating their hands or feet if they commit offences because those parts are not essential for the purpose of reproduction.
-* I think the writer has brilliantly captured the stagnant life of a Handmaid who is soulless and filled with loneliness but eager for a real relationship. The monotonous life which is stuck in time, confined in an environment with a lack of proper human interactions and freedom, but what remains is an abundance of vague past memories.
+* I think the writer has brilliantly captured the stagnant life of a Handmaid who is soulless and filled with loneliness but eager for a real relationship. The monotonous life of a Handmaid – stuck in time in a confined environment without proper human interactions and freedom and living with remnants of vague past memories.
 * No build-up of thrills, and even when the writer suddenly drops a bomb of a development for one of the characters, I couldn't feel any plot twist or shock about it.
 * The ending without a closure made me feel like I'm reading for nothing. I already didn't feel the story was appealing, and I was hoping at least I would get to know what will happen to Offgred. Unfortunately, there is no clarification or a proper ending. It's one of those endings which I hate the most – open-ended and up for the readers to speculate how they want.
 <br>
