@@ -47,4 +47,4 @@
 | **Rating** | 2 / 5 |
 | **Genre** | Mystery Thriller |
 | **Country** | America |
-| **Notes / Themes** | domestic abuse, mental health, torture, murder | 
+| **Notes / Themes** | Book to tv or movie, domestic abuse, mental health, torture, murder | 
