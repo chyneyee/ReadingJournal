@@ -17,6 +17,7 @@
   * Dan Brown
   * Deborah Rodriguez
   * Donna Tartt
+  * Freida McFadden
 </details>
 
 # G - I
@@ -37,6 +38,7 @@
   <summary>List</summary>
   
   * Mandy Smith
+  * Margaret Atwood
   * Michael Marshall
   * Michelle Williams
   * Miguel Ruiz
