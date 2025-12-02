@@ -10,6 +10,7 @@
 <summary>Author - Title</summary>
 
   * [Diane Chamberlain - The Silent Sister (Riley MacPherson #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Silent_Sister-Diane_Chamberlain.md)
+  * [Freida McFadden - The Housemaid (The Housemaid #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Housemaid-Freida_McFadden.md)
 </details>
 
 # G - I
