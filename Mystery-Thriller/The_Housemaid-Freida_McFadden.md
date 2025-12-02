@@ -32,7 +32,7 @@
 - I felt the story was thrilling enough until Millie began a relationship, which cheapened the storyline. Then all those sexual fantasies make it even worse. The same for Nina. The story was quite good until another sexual relationship occurred. Why does everyone have to sleep with someone in the story? 
 - Cringe. Overrated. Lack of vocabulary and repetitiveness. I found this book appears on the list "Dymocks Top 101". I had stopped looking for books to read from the Dymocks list for so many years. I thought to give it a try, and I really regret it. This book made me feel like I was reading the writer's fantasy romance diary, which she wrote during her high school years.
 - The characters are one-dimensional. I don't see the difference between Millie and Nina, as both were written in an almost similar manner.
-- Overall, the mystery and thriller parts are alright. The story about Millie and Nina at the beginning was usually enjoyable to read, although the writing style seems lacking in vocabulary. Unfortunately, when the writer touches on the romance and sexual fantasies, it becomes invasive and spoils the entire story.
+- Overall, the mystery and thriller parts are alright. The story about Millie and Nina at the beginning was usually enjoyable to read, although the writing style seems lacking in vocabulary. Unfortunately, when the writer tries to get the romance and sexual fantasies incorporated into the story, it becomes invasive and spoils all the good parts.
 
 <br>
 
