@@ -48,6 +48,7 @@
   <summary>Author - Title</summary>
   
   * [Pat Conroy - The Prince of Tides](https://github.com/chyneyee/ReadingJournal/blob/927cfb4a5ce71ac36760323a34e0ddc15069bfde/Literary-Fiction/The_Prince_of_Tides-Pat_Conroy.md)
+  * [R.F. Kuang - Yellowface](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Yellowface-R_F_Kuang.md)
 
 </details>  
 
