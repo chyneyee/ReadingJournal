@@ -13,7 +13,7 @@
 ## Personal Thoughts
 - I think the writer has brilliantly portrayed the protagonist, June, who has been jealous of Athena and turns into a selfish person who acts for her benefit without any remorse.
 - When I read the part about the changes to the manuscript, especially the Chinese characters for the names and also the terms for family members, I'm looking forward to the trouble that will fall on her.
-- I liked the tension build-ups throughout the story. It feels like walking on a tightrope. The readers keep wondering when and how June will get exposed.
+- I liked the tension build-ups throughout the story. It feels like walking on a tightrope. The readers keep wondering when and how June's unethical act will get exposed.
 - The writer puts a realistic criticism in the story about June's work. June is defending herself when one of the readers criticised that "Chinese soldiers wouldn't have eaten foods like mince pies for a holiday meal." I find it hilarious and realistic. The first thing that comes to my mind is steamed buns. Mince pie seems a bit too Western, and I find it amusing how June defends herself for using "minced pie".
 - I feel greed and arrogance kill June's career. She is too calculative, bitter and vengeful.
 - An intriguing read. It makes the readers delve into the cruel reality of the competitive industry.
