@@ -26,6 +26,7 @@
 
 * [James Thompson - Snow Angel](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Snow_Angels-James_Thompson.md)
 * [Jim Thompson - The Killer Inside Me](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Killer_Inside_Me-Jim_Thompson.md)
+* [John Grisham - The Last Juror](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Last_Juror-John_Grisham.md)
 * [Karin Slaughter - The Good Daugheter(The Good Daughter #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Good_Daughter-Karin_Slaughter.md)
 * [Keigo Higashino - The Name of the Game is a Kidnapping](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/The_Name_of_the_Game_is_a_Kidnapping%20-%20Keigo_Higashino.md)
 * [Liane Moriarty - Nine Perfect Strangers](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Nine_Perfect_Strangers-Liane_Moriarty.md)
