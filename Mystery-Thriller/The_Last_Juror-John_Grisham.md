@@ -31,7 +31,7 @@
 ***
 ## Personal Thoughts
 - Interesting reading about Mississippi's history of school desegregation.
-- I think the main plot about the Padgitts and his revenge probably consists of 30 per cent of the story. The rest are random stories about racial and political issues in the town. Surprisingly, I quite enjoyed reading those, although usually I dislike too much irrelevancy in a story.
+- I think the main plot about the Padgitts and Danny's revenge probably consists of 30 per cent of the story. The rest are random stories about racial and political issues in the town. Surprisingly, I quite enjoyed reading those, although usually I dislike too much irrelevancy in a story.
 - If you are looking for something thrilling or tense to read, this story is probably not what you expect. However, if you are looking for casual or light reading with a subtle thrill, this would be a good one.
 
 <br>
