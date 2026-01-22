@@ -60,7 +60,7 @@
 | Title | Description |
 | -- | -- |
 | **ISBN** | 9781620124628 |
-| **Pages** | 1065 |
+| **Pages** | 799 |
 | **Published Year** | 22/02/2012 (Original Published Date: 01/01/1880) |
 | **Date Read** | 01/01/2026 - 21/01/2026 |
 | **Rating** | 3 / 5 |
