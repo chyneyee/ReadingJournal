@@ -67,9 +67,12 @@ The church was built by the Christian missionaries several hundred years ago. Tw
 
 <br>
 
+## Personal Thoughts
+Although I felt this case seemed a bit far-fetched for me, I couldn't deny the creativity behind this story is exceptional. I don't know whether the ending is considered romantic or pathetic, but I think this one lies slightly heavier than the first case.
+
 ***
 
-## Record
+### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | Volume 2 (File 2 Case 1 - 6) - 1591823552 (978-1591823551), Volume 3 (File 2 Case 7 - 11) - 1591823560 (978-1-5918-2356-8) |
