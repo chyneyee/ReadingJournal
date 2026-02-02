@@ -12,7 +12,9 @@ The story tries to portray that Deidre is an ignorant and selfish woman who does
 ## Personal Thoughts
 Deidre is using her disability as an excuse for everything, including being selfish. 
 
-There is something intriguing that made me continue reading and wonder where this story is heading, although the writing style is not really straightforward. The switching timelines between the present day in a drought-stricken Cape Town and flashbacks to the 90s, plus Trudy's state of mind, were really confusing to read. Despite the existence of deeper meanings behind the story, unfortunately, I felt confused from the beginning until the end of it. I couldn't grasp the themes until I'd read some other resources or reviews on the Internet after I finished the book. 
+There is something intriguing that made me continue reading and wonder where this story is heading, although the writing style is not really straightforward. The switching timelines between the present day in a drought-stricken Cape Town and flashbacks to the 90s, plus Trudy's state of mind, were really confusing to read. 
+
+Despite the existence of deeper meanings behind the story, unfortunately, I felt confused from the beginning until the end of it. I couldn't grasp the themes until I'd read some other resources or reviews on the Internet after I finished the book. 
 
 ***
 
