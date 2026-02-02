@@ -82,4 +82,4 @@ Although I felt this case seemed a bit far-fetched for me, I couldn't deny the c
 | **Rating** | 5 / 5 |
 | **Genre** | Manga, Mystery, Thriller |
 | **Country** | Japan |
-| **Notes / Themes** | violence, murder, revenge | 
+| **Notes / Themes** | Violence, murder, revenge | 
