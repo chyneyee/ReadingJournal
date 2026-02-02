@@ -37,6 +37,7 @@
   <summary>Author - Title</summary>
 
   * [James Leo Herlihy - Midnight Cowboy](https://github.com/chyneyee/ReadingJournal/blob/927cfb4a5ce71ac36760323a34e0ddc15069bfde/Literary-Fiction/Midnight_Cowboy-James_Leo_Herlihy.md)
+  * [Karen Jennings - Crooked Seeds](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Crooked_Seeds-Karen_Jennings.md)
   * [Katherine Brabon - The Shut Ins](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Shut_Ins-Katherine_Brabon.md)
   * [Krys Lee - How I Became A North Korean](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/How_I_Became_A_North_Korean-Krys_Lee.md)
 </details>
