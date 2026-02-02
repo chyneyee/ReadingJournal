@@ -1,4 +1,4 @@
-# The Kindaichi Case Files 2: The Mummy's Curse
+# The Kindaichi Case Files 2: Western-style Village Murder Case (Alternative Title: The Mummy's Curse)
 
 ## Characters
 
