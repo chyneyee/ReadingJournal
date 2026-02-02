@@ -75,7 +75,7 @@ The following morning, Hajime gathers everyone at the dining room. He explains h
 
 ***
 
-## Record
+#### Record
 | Title | Description |
 | -- | -- |
 | **ISBN** | Volume 1 (Case 1 - 4) - 1591823544 (978-1591823544), Volume 2 (Case 5 - 6) - 1591823552 (978-1591823551) |
