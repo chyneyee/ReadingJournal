@@ -4,8 +4,8 @@
 
 | Name | Description |
 | :---: | --- | 
-| Hajime Kindaichi | <li>11th grade at Fudo Private High School.</li><li>Labelled by most peers and teachers as a troublemaker.</li><li>Friend with Miyuki since kindergarten.</li><li>According to the teacher, Hajime is frequently late to school, leaves early, and seldom attends the classes. He is also terrible in both academics and sports.</li><li> His grandfather is a famous detective, Kosuke Kindaichi, a famous detective. </li><li>Accepted to the school due to his high on the entrance exam, which is the highest in school history.</li><li>Scored a "180" on his IQ test".</li> |
-| Miyuke Nanase | <li> Straight A students.</li><li>Childhood friend of Hajime.</li><li>11th grade at Fudo Private High School. A class president and a member of the drama club.</li> |
+| Hajime Kindaichi | <ul><li> 11th grade at Fudo Private High School.</li><li>Labelled by most peers and teachers as a troublemaker.</li><li>Friend with Miyuki since kindergarten.</li><li>According to the teacher, Hajime is frequently late to school, leaves early, and seldom attends the classes. He is also terrible in both academics and sports.</li><li> His grandfather is a famous detective, Kosuke Kindaichi, a famous detective. </li><li>Accepted to the school due to his high on the entrance exam, which is the highest in school history.</li><li>Scored a "180" on his IQ test".</li></ul> |
+| Miyuke Nanase | <ul><li> Straight A students.</li><li>Childhood friend of Hajime.</li><li>11th grade at Fudo Private High School. A class president and a member of the drama club.</li></ul> |
 
 <br>
 
@@ -13,20 +13,20 @@
   <summary>Other Characters</summary>
 
 | Name | Description |
-| :---: | --- | 
-| Natsuyo Ogata | <li> A teacher and Fudo High School drama club adviser </li><li>Someone who believes in Hajime's ability or other potentials because Hajime is related to a famous person.</li> |
-| Mitsuhiko Fuse | <li> 12th grade. Director of the drama club and plays the role of Phantom. </li><li>Dislikes Hajime and feels Hajime is a loser.</li> |
-| Orie Hidaka | <li>11th grade at Fudo Private High School.</li> |
-| Yuji Arimori | <li>11th grade from math class. He is in charge of props and is in the art club.</li><li>Plays the role "Raoul" in the play.</li> |
-| Harumi Kiryu | <li>11th grade. She is serious in acting and plays the role "Carlotta".</li> |
-| Kazuma Kurosawa | <li>Owner of Opera House Hotel, an old mansion on an isolated island.</li><li>Has a daughter who passed away four years ago at the age of 17. Her grave is near the hotel.</li> |
-| Yutaka Sendo| <li> 11th grade from Art Department and a supporting cast for the play.</li> |
-| Ryoko Saotome | <li> 12th grade and bad-tempered. </li><li>Plays the heroine role, "Christine" after Fuyuko committed suicide.</li> |
-| Shuichiro Kamiya | <li>11th grade, in charge with stage lighting and supporting cast.</li> | 
-| Fuyuko Tsukishima | <li> Died from suicide.</li><li> Accidentally poured sulfuric acid on her face. The severe damage on her face led to suicide. </li> |
-| Isamu Kenmochi | <li>Homicide detective from the Metropolitan Police. </li> |
-| Eisaku Yuki | >li> A doctor from Yokohoma. </li> |
-| Kagetsu | <li> Mysterious customer who checked into the hotel the day before. His face is completely wrapped in bandages.</li> |
+| :---: | --- |
+| Natsuyo Ogata | <ul><li> A teacher and Fudo High School drama club adviser </li><li>Someone who believes in Hajime's ability or other potentials because Hajime is related to a famous person. </li></ul> |
+| Mitsuhiko Fuse | <ul><li> 12th grade. Director of the drama club and plays the role of Phantom. </li><li>Dislikes Hajime and feels Hajime is a loser.</li></ul> |
+| Orie Hidaka | <ul><li>11th grade at Fudo Private High School.</li></ul> |
+| Yuji Arimori | <ul><li>11th grade from math class. He is in charge of props and is in the art club.</li><li>Plays the role "Raoul" in the play.</li></ul> |
+| Harumi Kiryu | <ul><li>11th grade. She is serious in acting and plays the role "Carlotta".</li></ul> |
+| Kazuma Kurosawa | <ul><li>Owner of Opera House Hotel, an old mansion on an isolated island.</li><li>Has a daughter who passed away four years ago at the age of 17. Her grave is near the hotel.</li></ul> |
+| Yutaka Sendo| <ul><li> 11th grade from Art Department and a supporting cast for the play.</li></ul> |
+| Ryoko Saotome | <ul><li> 12th grade and bad-tempered. </li><li>Plays the heroine role, "Christine" after Fuyuko committed suicide.</li></ul> |
+| Shuichiro Kamiya | <ul><li>11th grade, in charge with stage lighting and supporting cast.</li></ul> | 
+| Fuyuko Tsukishima | <ul><li> Died from suicide.</li><li> Accidentally poured sulfuric acid on her face. The severe damage on her face led to suicide. </li></ul> |
+| Isamu Kenmochi | <ul><li>Homicide detective from the Metropolitan Police. </li></ul> |
+| Eisaku Yuki | <ul><li> A doctor from Yokohoma. </li></ul> |
+| Kagetsu | <ul><li> Mysterious customer who checked into the hotel the day before. His face is completely wrapped in bandages.</li></ul> |
 
 </details>
 
