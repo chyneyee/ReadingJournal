@@ -56,3 +56,20 @@ On the night of Rie's death, Marina offered coffee to everyone in the van. She p
 
 Marina revisits the story of what happened on the day of the plane crash. When her consciousness was recovered after the crash, she found her mother was stuck beneath the wreckage. A few hours later, four people arrived at the scene. She begged for them to help, but they were only busy with other tasks and ignored her. She tried to save her mother but failed to do it by herself. She promised herself that she would take revenge for her mother. In the end, she is willing to be arrested and stated that she has no regrets about killing them.
 </details>
+
+<br>
+
+## Personal Thoughts
+This case is more complicated than the previous two cases. I feel the story's flow is chaotic and the revelation of the truth is slightly disorganised, especially the last part. I feel the explanation of the murders seems a bit disordered, but I could be wrong. Maybe it's due to the nature of the case; the story flow has to be in such a manner.
+
+### Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | Volume 3 (File 3 Case 1 - 4) - 1591823560 (978-1-5918-2356-8), Volume 4 (File 3 Case 5 - 10) - 1591823579 (978-1-5918-2357-5) |
+| **Pages** | Volume 3 (192 pages) |
+| **Published Year** | 07/10/2003 (Original Published Date: 17/06/1993) |
+| **Date Read** | 08/02/2026 - 09/02/2026 |
+| **Rating** | 3 / 5 |
+| **Genre** | Manga, Mystery, Thriller |
+| **Country** | Japan |
+| **Notes / Themes** | Violence, murder, revenge | 
