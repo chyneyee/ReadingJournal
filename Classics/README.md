@@ -39,13 +39,19 @@
 <details>
   <summary>Author - Title</summary>
 
-  * [Nathaniel Hawthorne- The Scarlet Letter](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Scarlet_Letter-Nathaniel_Hawthorne.md)
+  * [Nathaniel Hawthorne - The Scarlet Letter](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Scarlet_Letter-Nathaniel_Hawthorne.md)
  
 </details>
 
 # P - R
 
 # S - U
+<details>
+  <summary>Author - Title</summary>
+
+* [Shusaku Endo - Silence](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/Silence-Shusaku_Endo.md)
+ 
+</details>
 
 # V - X
 
