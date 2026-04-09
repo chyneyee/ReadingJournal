@@ -41,6 +41,7 @@
   <summary>Author - Title</summary>
   
   * [Mark Gimenez - Accused (Scott Fenney #2)](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Accused-Mark_Gimenez.md)
+  * [Natsuo Kirino - Grotesque](https://github.com/chyneyee/ReadingJournal/blob/main/Mystery-Thriller/Grotesque-Natsuo_Kirino.md)
   
 </details>  
 
