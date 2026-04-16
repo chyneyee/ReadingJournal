@@ -1,0 +1,9 @@
+# Manga vs Anime Episode List
+
+## Volume 1 - 10
+| Volume | Case Number - Case Name | Episode Number - Episode Name |
+| :---: | --- | --- |
+| [01](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md) | <ul><li>Case 001 - Roller Coaster Murder Case (F01)</li><li>Case 002 - Company President's Daughter Case (F02 - F05)</li><li>Case 003 - Bloody Idol Case (F06 - F09)</li></ul> | <ul><li>E01 - The Roller Coaster Murder Case</li><li>E02 - The Kidnapping of the Company President's Daughter</li><li>E03 - A Murder Behind the Locked Doors of a Celebrity's Apartment</li></ul> |
+| [02](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md) | <ul><li>Case 004 - Mysterious Shadow Case (F10 - F12)</li><li>Case 005 - ¥1,000,000,000 Robbery (F13 - F16)</li><li>Case 006 - Haunted Mansion Case (F17 - F19)</li></ul> | <ul><li>E38 - The Akaoni Fire Festival Murder Case</li><li>E13 - The Bizarre Manhunt Murder, E128 - The Black Organization: One Billion Yen Robbery Case</li><li>The Haunted House Murder</li></ul> |
+| [03](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md) | <ul><li>Case 007 - Hatamoto Family Case (F20 - F25)</li><li>Case 008 - Monthly Present Case (F26 - F29)</li></ul> | <ul><li>E22 - The Luxury Liner Murders (Part 1), E23 - The Luxury Liner Murders (Part 2)</li><li>E07 - The Threatening Monthly Presents</li></ul> |
+| [04](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md) | <ul><li>Case 009 - Museum Owner Murder Case (F30 - F32)</li><li>Case 010 - Bullet Train Bombing (F33 - F35)</li><li>Case 011 - Code Sheet Case (F36 - F39)</li></ul> | <ul><li>E08 - The Murder of the Art Museum Owner</li><li>E05 - The Great Bullet Train Explosion</li><li>E04 - The Case of the Coded City Map</li></ul> |
