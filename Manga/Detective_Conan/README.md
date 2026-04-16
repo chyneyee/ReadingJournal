@@ -1,8 +1,8 @@
 # Table of Content
 
-| Volume | File Number | Case Name(s) | Anime Episode(s) |
-| :---: | --- | --- | --- |
-| [01](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md) | File 1 - 9 | <li>Prologue - Roller Coaster Murder Case<br><li>Company President's Daughter Case<br><li>Bloody Idol Case | <li>Season 1 Episode 1 - Roller Coaster Murder Case<br><li>Season 1 Episode 2 - Company President's Daughter Kidnapping Case<br><li>Season 1 Episode 3 - An Idol's Locked Room Murder Case |
-| [02](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md) | File 10 - 19 | <li>Mysterious Shadow Case<br><li>¥1,000,000,000 Robbery<br><li>Haunted Mansion Case | <li>Season 2 Episode 38 - Akaoni Village Fire Festival Murder Case<br><li>Season 1 Episode 13 - The Strange Person Hunt Murder Case, Season 5 Episode 128 - The Black Organization: One Billion Yen Robbery Case<br><li>Season 1 Episode 20 - A Haunted Mansion Murder Case |
-| [03](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md) | File 20 - 29 | <li>Hatamoto Family Case<br><li>Monthly Present Case | <li>Season 1 Episode 22 and 23 - Luxury Liner Serial Murder Case<br><li>Season 1 Episode 7 - Once A Month Present Threat Case |
-| [04](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md) | File 30 - 39 | <li>Museum Owner Murder Case<br><li>Bullet Train Bombing<br><li>Code Sheet Case | <li>Season 1 Episode 8 - Art Museum Owner Murder Case<br><li>Season 1 Episode 5 - The Shinkansen's Bomb Case<br><li>Season 1 Episode 4 - The Coded Map of the City Case |
+| Volume | File Number | Case Name(s) |
+| :---: | --- | --- |
+| [01](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md) | File 01 - 09 | <ul><li>Case 001 - Roller Coaster Murder Case (F01)</li><li>Case 002 - Company President's Daughter Case (F02 - F05)</li><li>Case 003 - Bloody Idol Case (F06 - F09)</li></ul> | 
+| [02](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md) | File 10 - 19 | <ul><li>Case 004 - Mysterious Shadow Case (F10 - F12)</li><li>Case 005 - ¥1,000,000,000 Robbery (F13 - F16)</li><li>Case 006 - Haunted Mansion Case (F17 - F19)</li></ul> | 
+| [03](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md) | File 20 - 29 | <ul><li>Case 007 - Hatamoto Family Case (F20 - F25)</li><li>Case 008 - Monthly Present Case (F26 - F29)</li></ul> | 
+| [04](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md) | File 30 - 39 | <ul><li>Case 009 - Museum Owner Murder Case (F30 - F32)</li><li>Case 010 - Bullet Train Bombing (F33 - F35)</li><li>Case 011 - Code Sheet Case (F36 - F39)</li></ul> |
