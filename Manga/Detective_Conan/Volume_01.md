@@ -18,7 +18,7 @@
 
 <br>
 
-### Idol Locked Room Murder Case (Case 003)
+### Bloody Idol Murder Case (Case 003)
 * **File 06 (F06)** - [From Third-Rate to Great Detective](https://www.detectiveconanworld.com/wiki/From_Third-Rate_to_Great_Detective)
 * **File 07 (F07)** - [The Bloody Case of the Lovely Pop Idol](https://www.detectiveconanworld.com/wiki/The_Bloody_Case_of_the_Lovely_Pop_Idol)
 * **File 08 (F08)** - [Resemblance](https://www.detectiveconanworld.com/wiki/Resemblance)
