@@ -1,5 +1,6 @@
 # Volume List
 
+## Volume 1 - 10
 | Volume | File Number | Case Name(s) |
 | :---: | --- | --- |
 | [01](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md) | File 01 - 09 | <ul><li>Case 001 - Roller Coaster Murder Case (F01)</li><li>Case 002 - Company President's Daughter Case (F02 - F05)</li><li>Case 003 - Bloody Idol Case (F06 - F09)</li></ul> | 
