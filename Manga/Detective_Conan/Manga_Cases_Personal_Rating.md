@@ -22,5 +22,5 @@
 <hr>
 
 #### Note(s):
-* Cases from manga only.
-* The order based on personal preferences, similar to ranking.
+* Cases based from manga only.
+* The order based on personal preferences.
