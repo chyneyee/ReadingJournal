@@ -68,6 +68,12 @@ Ran is getting more suspicious, which worries Conan. He asks for Professor Agasa
 <br>
 <hr>
 
+### Personal Thoughts
+This is a great suspense when Ran gets more suspicious of Conan's real identity.
+
+<br>
+<hr>
+
 ##### Record
 | Title | Description |
 | -- | -- |
