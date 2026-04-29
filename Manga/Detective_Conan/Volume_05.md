@@ -119,6 +119,12 @@ When he arrives at the hotel, Conan finds out that the number "30" is neither a 
 <br>
 <hr>
 
+### Personal Thoughts
+As usual, every case triggers a mix of emotions, and Conan's family is fun.
+
+<br>
+<hr>
+
 ##### Record
 | Title | Description |
 | -- | -- |
