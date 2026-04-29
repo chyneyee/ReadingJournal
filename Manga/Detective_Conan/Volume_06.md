@@ -74,7 +74,7 @@ Yuji reveals that he also left his family sword as collateral for his debt. Denj
 ### Case 016 - [Twin Brothers Case](https://detectiveconan96.fandom.com/wiki/Volume_6#Mysterious_Brothers_Case)
 
 #### Gadgets Introduced - [Detective Boys Badge](https://www.detectiveconanworld.com/wiki/Detective_Boys_Badge)
-* Communicate with each other from a distance and also has an emitter).
+* Communicate with each other from a distance and also has an emitter.
   
 <br>
 
