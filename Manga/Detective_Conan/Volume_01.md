@@ -50,6 +50,11 @@ After solving another murder case at the amusement park, Shinichi was interested
 
 <br>
 
+### Personal Thoughts
+There was a slight difference with the TV series, but both versions maintain the crucial points.
+
+<br>
+
 ***
 
 ## Record
