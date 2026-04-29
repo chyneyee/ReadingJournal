@@ -82,6 +82,12 @@ The haunted house, the feral-looking man and a woman are related to an unsolved 
 <br>
 <hr>
 
+### Personal Thoughts
+I think it's a great idea to introduce some Conan's friends who also like adventures and investigation work.
+
+<br>
+<hr>
+
 ##### Record
 | Title | Description |
 | -- | -- |
