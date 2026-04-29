@@ -61,6 +61,12 @@ When Conan finds the location of the gold coins, the Italian gangsters arrive an
 <br>
 <hr>
 
+### Personal Thoughts
+I really enjoyed the mixture of cases. Sometimes, Conan works with the adults, and sometimes, he is having fun investigating cases with his school friends.
+
+<br>
+<hr>
+
 ##### Record
 | Title | Description |
 | -- | -- |
