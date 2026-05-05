@@ -141,6 +141,7 @@ Conan sees a video game in the room and plays it. Based on the weird letter by M
 
 ### Personal Thoughts
 It's funny to see the other side of Ran.
+
 <br>
 <hr>
 
