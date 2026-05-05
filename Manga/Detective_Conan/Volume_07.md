@@ -14,7 +14,7 @@ Sasai admits that he took the photo a year ago, which coincided with the time he
 </details>
 
 #### Anime Episode(s)
-* [Episode 9 -Tenkaichi Night Festival Murder Case](https://detectiveconan96.fandom.com/wiki/Tenkaichi_Night_Festival_Murder_Case).
+* [Episode 9 - Tenkaichi Night Festival Murder Case](https://detectiveconan96.fandom.com/wiki/Tenkaichi_Night_Festival_Murder_Case).
 
 <br>
 <hr>
