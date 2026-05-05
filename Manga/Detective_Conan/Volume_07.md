@@ -99,7 +99,7 @@ When they are boarding the ship to leave the island, Ran asks Conan about the co
 #### Anime Episode(s)
 * [Episode 11 - Moonlight Sonata Murder Case](https://detectiveconan96.fandom.com/wiki/Moonlight_Sonata_Murder_Case).
 * [Episode 1000 - 1001: The Moonlight Sonata Murder](https://www.detectiveconanworld.com/wiki/The_Moonlight_Sonata_Murder).
-* Manga vs Anime - [Moonlight Sonata Case vs Moonlight Sonata Murder Case]().
+* Manga vs Anime - [Moonlight Sonata Case vs Moonlight Sonata Murder Case](https://www.detectiveconanworld.com/wiki/Moonlight_Sonata_Murder_Case#Manga_to_anime_changes).
 
 <br>
 <hr>
