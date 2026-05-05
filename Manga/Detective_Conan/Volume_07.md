@@ -94,6 +94,7 @@ Seji tells the story of how he disguised himself as a woman doctor after graduat
 Conan persuades Seiji to leave, but Seiji feels he is no different than those four. It's far too late for redemption or escape, as Seiji's hands are covered with blood. Seiji picks Conan up and throws him through the window to the safety of the grounds outside. Conan tries to run back in, but Ran restrains him just as music from the piano picks out a message in the code.
 
 When they are boarding the ship to leave the island, Ran asks Conan about the coded message that Seiji was playing. Conan reveals the coded message: "Thank you, little detective."
+</details>
 
 #### Anime Episode(s)
 * [Episode 11 - Moonlight Sonata Murder Case](https://detectiveconan96.fandom.com/wiki/Moonlight_Sonata_Murder_Case).
@@ -103,4 +104,4 @@ When they are boarding the ship to leave the island, Ran asks Conan about the co
 <br>
 <hr>
 
-</details>
+
