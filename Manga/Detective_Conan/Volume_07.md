@@ -104,4 +104,54 @@ When they are boarding the ship to leave the island, Ran asks Conan about the co
 <br>
 <hr>
 
+### Case 019 - [Pro Soccer Player Case](https://detectiveconan96.fandom.com/wiki/Volume_7#Pro_Soccer_Player_Case)
+#### Gadgets Introduced - [Portable Bento Box Fax](https://detectiveconan96.fandom.com/wiki/Volume_7#Gadgets_introduced)
 
+<br>
+
+#### File 068 - Shinichi's Sweetheart!! / Jimmy's Girlfriend!!
+The finals for the Sunday Cup will be held that night. Ayumi asks Conan which team he would think will win the cup. Both Genta and Mitsuhiko argue to defend their favourite player, respectively. This leads Conan to ponder about his life and wish that he could go back to high school and play football. He wonders when he can go back to becoming Shinichi, the high school detective.
+
+When Conan arrives at the P.I. office, he sees a girl standing in front of the door. The girl seems hesitant to ring the doorbell, but Conan invites her to come in if she's looking for a private investigator. The girl's name is Ryoko Akagi, a freshman at Beika High School, and she is looking for someone. When she passes the photo of the missing person, Conan, Ran, and Kogoro are shocked to see that the person in the photo is Shinichi. Ran explains to Ryoko that Shinichi has been away from home because he is entangled in a complicated case. Conan asks Ryoko the reason for looking for Shinichi, and she tells him that they are dating. Both Conan and Ran are shocked with the revelation. Ryoko reveals that she even has kissed Shinichi before. Kogoro wonders if Shinichi is living at some girl's place with the excuse of working on a case. Conan tries to defend Shinichi, but Ran is extremely angry and doesn't want to hear any explanations. Conan wonders what Ryoko's motive is for saying such a thing.
+
+Then, a call comes from Dr Agasa reminding Conan the new gadget needs to recharge frequently, and Conan quickly responds that he will tell the rest. Ran asks Conan whether the call was from Shinichi, and he tells Ran that Shinichi asks her not to worry and that he will call Ryoko later. Ran suggests going to Ryoko's house to wait for Shinichi's appearance. Kogoro is not interested in teenagers' romance, so he's not going. Conan agrees with Kogoro, but he has to go after Ran gives him a glare.
+
+Ryoko is wondering if Ran has feelings for Shinichi because she has been angry since she told them about the relationship, but Ran denies it. Conan notices that the door's lock has some scratch marks. When Ryoko wants to make tea, she seems not to know where the tea is. When Ran is asking Ryoko when she and Shinichi started dating, the phone suddenly rings. An unknown man asks her whether someone has already arrived, and she replies that he hasn't come yet. Ran asks Ryoko who was on the phone. Ryoko replies to Ran that her brother was telling her that he'll be working late and they live together. Her brother teaches P.E. at the university. Suddenly a ball falls from the cupboard. Ryoko responds that the ball belongs to the brother, who coaches the football team. Conan feels strange because that ball is for kids and it's a recent model. Conan asks for the bathroom, and Ryoko answers him by guessing that the bathroom is near the entrance door. Conan finds the shoe cabinet only has men's and kids' shoes. He looks around to investigate, and he finds a room that looks like it has been ransacked.
+
+#### File 069 - Detective Ran / The Great Detective Rachel!?
+In the room, Conan finds a photo of a boy with a high school boy. He assumes the boy is Mamoru based on the name plate hanging on the room's door. 
+
+Ryoko turns on the TV to watch the Sunday Cup final, which makes Ran think that Ryoko tries to avoid talking to her. Suddenly, Conan sees a familiar face on the TV. The football player appears in the photo with Mamoru, and his name is Hideo Akagi, who plays for the Tokyo Spirits. Conan remembers that a magazine report mentioned that Hideo lost his parents two years ago and lived alone with his little brother. 
+
+Something comes to Conan's mind, and he rushes to the bathroom. He reveals the new gadget invented by Dr Agasa, which is a portable bento box. The portable bento box has a fax machine in it. He makes a call to Ryoko and asks whether Mamoru has been kidnapped. He is guessing that the kidnapper asks Hideo to throw away the game. The kidnapper probably threatened to kill Mamoru if she called a detective or police. For that reason, she claims that she is dating Shinichi so she can have a high school student enter an apartment without raising suspicions. He asks Ryoko to write down the details of the kidnapping and fax the details to him to avoid Ran knowing it. Ryoko is crying while listening on the phone, and Ran is guessing whether Shinichi is on the phone. Ryoko passes the phone to Ran so that Shinichi can talk to her. When Ran shouts on the phone, she can hear her voice, which makes her believe that Shinichi is in the apartment.
+
+Ran is looking for Shinichi around while Ryoko is faxing the details of the kidnapping to him. Mamoru should have been kidnapped between last night and that morning. The kidnapper left a threatening message, demanding Hideo lose the game if he wants his brother back. Mamoru was also forced to write a letter to beg Hideo to save him. 
+
+Hideo accidentally scores a goal. Ryoko immediately receives a fax saying the deal is off and Hideo will not be able to see the younger brother again. 
+
+#### File 070 - A Time Limit on Life!? / Running Out of Time
+Conan sees a video game in the room and plays it. Based on the weird letter by Mamoru and the characters created in the video game, he figures out who the kidnapper is. When Conan asks for more information about Hideo's friend, Naoki Uemura, in the toilet, Ran hears Shinichi's voice and almost hit the door using karate. Ryoko tells Ran that Shinichi has something personal to tell her on the phone. When Ran grabs the phone, Conan dashes out from the toilet and pretends that he falls down. He tells Ran that Shinichi just ran out of the door in a hurry to help Mamoru. Ryoko asks whether Shinichi is going to Naoki's place, and Ran drags Ryoko to go to Naoki's house.
+
+#### Anime Episode(s)
+* [Episode 10 - Pro Soccer Player Blackmail Case](https://detectiveconan96.fandom.com/wiki/Volume_7#Pro_Soccer_Player_Case).
+* Manga vs Anime - [Pro Soccer Player Case vs Pro Soccer Player Blackmail Case](https://detectiveconan96.fandom.com/wiki/Pro_Soccer_Player_Blackmail_Case#Manga_to_anime_changes).
+
+<br>
+<hr>
+
+### Personal Thoughts
+It's funny to see the other side of Ran.
+<br>
+<hr>
+
+##### Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | 99781591169789 / 159116978X |
+| **Pages** | 184 |
+| **Published Year** | 08/09/2005 (Original Published Date: 18/11/1995) |
+| **Date Read** | 28/04/2026 - 30/04/2026 |
+| **Rating** | 5 / 5 |
+| **Genre** | Manga, Mystery |
+| **Country** | Japan |
+| **Notes / Themes** | murder, revenge, kidnapping, detective, investigation  | 
