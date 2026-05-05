@@ -6,8 +6,10 @@
 | Case 001 - Roller Coaster Murder Case (Volume 1) | 10/10 |
 | Case 013 - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | Case 008 - Monthly Present Case (Volume 3) | 9/10 |
+| Case 018 - Moonlight Sonata Case (Volume 7) | 9/10 |
 | Case 017 - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | Case 010 - Bullet Train Bombing (Volume 4) | 8/10 |
+| Case 019 - Pro Soccer Player Case (Volume 7) | 7.5/10 |
 | Case 015 - Antique Collector Case (Volume 6) | 7.5/10 |
 | Case 016 - Twin Brothers Case (Volume 6) | 7/10 |
 | Case 005 - ¥1,000,000,000 Robbery (Volume 2) | 7/10 |
