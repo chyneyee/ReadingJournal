@@ -58,7 +58,8 @@
 <details>
   
   <summary>Author - Title</summary>
-  
+
+  * [Sayaka Murata - Convenience Store Woman](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Convenience_Store_Woman-Sayaka_Murata.md)
   * [Tash Aw - The Harmony Silk Factory](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Harmony_Silk_Factory-Tash_Aw.md)
 
 </details>  
