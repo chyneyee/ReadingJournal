@@ -5,8 +5,8 @@
 | Case 014 - Conan Edogawa Kidnapping Case (Volume 5, Volume 6) | 10/10 |
 | Case 001 - Roller Coaster Murder Case (Volume 1) | 10/10 |
 | Case 018 - Moonlight Sonata Case (Volume 7) | 9.5/10 |
-| Case 013 - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | Case 020 - Night Baron Murder Case (Volume 8) | 9/10 |
+| Case 013 - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | Case 008 - Monthly Present Case (Volume 3) | 9/10 |
 | Case 017 - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | Case 010 - Bullet Train Bombing (Volume 4) | 8/10 |
