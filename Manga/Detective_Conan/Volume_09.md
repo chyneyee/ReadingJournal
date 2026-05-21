@@ -163,7 +163,7 @@ Everyone decides to go to the parlour and wait for the car to arrive. Conan uses
 <hr>
 
 ### Personal Thoughts
-The quality of the cases in this volume slightly dropped but is still interesting to read.
+The quality of the cases in this volume has dropped slightly but is still interesting to read.
 
 ##### Record
 | Title | Description |
