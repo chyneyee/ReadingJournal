@@ -37,7 +37,7 @@ The next day, Ran tells Sonoko everything that happened in the villa. Ran tells 
 <br>
 <hr>
 
-### Case 025 - Diplomat Murder Case
+### Case 025 - [Diplomat Murder Case](https://detectiveconan96.fandom.com/wiki/Volume_10#Great_Detective_of_the_West)
 #### File 092 - The Great Detective of the West
 When Conan returns home, a teenager is at Kogoro's office, demanding to see Shinichi. He asks Ran about Shinichi's latest updates, and based on Ran's information, he concludes that Shinichi is monitoring her from somewhere because Shinichi only talks about himself whenever he calls.
 
@@ -98,7 +98,13 @@ Conan spends the next three days on the bed. During that period, Heiji returned 
   
 </details>
 
-### Case 026 - Library Murder Case
+#### Anime Episode(s)
+* [Episode 48 - 49:  Diplomat Murder Case / No Immunity for the Diplomat Part 1 & 2](https://detectiveconan96.fandom.com/wiki/Diplomat_Murder_Case).
+
+<br>
+<hr>
+
+### Case 026 - [Library Murder Case](https://detectiveconan96.fandom.com/wiki/Volume_10#Library_Murder_Case)
 The Detective Boys come to the house, and they go to the library to help Conan finish a book report he couldn't complete while he was sick. Initially, Conan is not interested in spending time with the kids, but once he thinks that it could be the last time to hang out with them if he transforms back to Shinichi, he goes ahead with their plan.
 
 At the library, Conan notices the books in the kids' section lack organisation and later discovers a box of individually wrapped foreign books. Shuji Tsugawa, the library director, suddenly appears and tells Conan that the books are not suitable for children. Genta calls Conan, and they join the others who are looking at policemen arriving at the library. Conan dashes out to investigate, followed by others. They try to take the lift, but it exceeds the maximum capacity of passengers, causing them to have to rush down using the stairs. Megure asks Shuji about a missing employee named Kazuo Yamada. Shuji tells him that Kazuo has been absent since yesterday. Megure explains that Kazuo's wife told the police that he has been missing since two nights ago. Shuji doesn't know where Kazuo is because he left the library before Kazuo when they were working together a few nights ago. Megure explains to Conan that Kazuo always calls his wife before going home, but he didn't do that two nights ago. Megure deduces that Kazuo was either abducted while he was working in the library or he'd already been murdered. The police leave after they thoroughly search the library without finding anything.
@@ -119,3 +125,76 @@ The library has four floors, and they plan to start from the first. Suddenly, Ay
 <br>
 
 #### File 098 - The Other Passenger / An Additional Person
+<details>
+  <summary>Spoiler</summary>
+
+Conan goes to the utility room to switch the lift door to manual operation. Conan explains about the earlier incident in the lift. He says that the total weights for four of them who are only kids shouldn't exceed the capacity limit in the lift. The overcapacity buzzer went off because there was an extra passenger in that elevator from the beginning. When the lift is ascending, the Detective Boys see Kazuo's body lying on the roof. Looking at the corpse, Conan deduces that Kazuo was strangled and dropped down onto the lift's roof. Conan is facing away from the lift when suggesting hurrying up to inform the police. The others see Tsuji coming out from the lift, offering to send them home but hiding a pipe rod behind him. Conan distracts Tsuji while the others go to the lift. Before the lift is leaving, Conan slides into the gap just at the right time to join the others. 
+
+Tsuji waits for the kids in front of the lift at one of the floors, but when the door opens, the lift is empty. He is confident that he can find them after he stops the lift on the first floor. He goes upstairs and discovers a barricade along with oddly arranged bookshelves in one of the rooms. The kids knock over the bookshelf in an attempt to hit Tsuji but fail. Tsuji raises the pipe to kill the kids, but just before the strike, a domino effect on the bookshelves causes the last one to collapse on him.
+
+Two hours later, the police arrive and arrest Tsuji. The body is recovered, and the drugs are retrieved. The Detective Boys are so excited after solving the case. Inside Conan's mind, he's bidding farewell to his small body and the kids. Conan says goodbye before returning home. Ayumi feels Conan seems to be going somewhere far, and Conan can't wait to transform back to Shinichi. 
+
+After returning home, Conan steals the liquor given by Heiji and goes to Dr Agasa's house. He tells Dr Agasa about the transformation and drinks the whole bottle of liquor in front of him. After one hour, Conan remains the same, and Dr Agasa deduces that Conan's body has developed immunity to it. It no longer works because the body has developed a resistance to that liquor after the initial reaction. Conan can't accept the explanation and thinks it's just that he hasn't drunk enough before Dr Agasa stops him. The next day, Conan experiences a hangover, leading Conan's friends to ask what happened to him because he looks unwell.
+
+</details>
+
+#### Anime Episode(s) 
+* [Episode 50 - Library Murder Case / The Book Without Pages](https://detectiveconan96.fandom.com/wiki/Library_Murder_Case).
+
+<br>
+<hr>
+
+### Case 027 - Medical Professors Murder Case / Snowy Mountain Cabin Case
+#### File 099 - Tragedy in the Blizzard / Snowstorm Tragedy
+Kogoro, Ran, and Conan have a vacation at a snowy mountain after Conan won the free accommodation at a raffle. After skiing, Kogoro only finds out that he lost the key to the rental cabin. There is no phone around to call the manager of the lodge, and other cabins are under construction. Ran suggests asking for help from the private lodge nearby, but Kogoro despises asking for help from wealthy people. Then, a car passes by; Professor Masashi Oyama, who admires Kogoro after reading about his detective skills in newspapers, invites them to come to the lodge to make a call. When they arrive at Masashi's lodge, Kaori is just returning from shopping. They are planning to have a hot pot and invite Kogoro, Ran, and Conan to join them. 
+
+During the hotpot, Ran is fascinated that Masashi's guests are doctors from Tohto University Medical School who work in his lab. The guests are as follows:
+* Tomoyasu Kanazawa - Associate Professor
+* Ginji Tobita - Researcher
+* Kaho Ezumi - Researcher
+* Kaori Nakahara - Researcher
+
+Ginji mentions that if Masashi wins the next dean election, all of them will have a bright future, thanks to Masashi's paper. Suddenly, Kaori realises that she forgot to buy snacks for the saké. She plans to go to the convenience store at the foot of the mountain to get the snacks. After saying goodbye to Kaori at the doorstep, Masashi asks Kaho for the time. Kaho replies that it's 8.58, and Masashi quickly rushes to the TV. Kaho tells Ran that there is a soap drama at 9 pm on Saturdays, and Masashi is hooked on it. Ran suggests watching it with Masashi, but Kaho says that Masashi always watches alone in the office and gets angry if anyone disturbs him. Meanwhile, Ginji is going for night skiing, and Tomoyasu plans to take a relaxing bath until Kaori comes back with the snacks. 
+
+Conan suddenly remembers about the call to the lodge's manager, and Ran plans to make a call immediately before Kaho stops her. Kaho asks them to spend the night there, plus Kogoro is in a heavily drunk state. Ran and Conan help to wash the dishes while Kaho takes the trash out. From the kitchen's window, Ran and Conan see a heavy blizzard outside.
+
+In the living room, Masashi is completely engrossed in the TV drama, unaware of the unlocked windows. Kaori returns with the snacks, and Ginji comes back in freezing cold. While everyone is enjoying the snacks and saké, Conan wonders where Masashi is since the show has already ended. The others say that Masashi always records the show and watches the good scenes several times. Meanwhile, another scene shows that Masashi is tied up with ropes and stabbed with a knife. He is talking to someone, mentioning that the unknown person purposely brings him to the lodge. He plans to leave a message for Kogoro and believes the person won't be able to escape because the great detective is there. 
+
+Conan asks where Masashi is because it's already 11 pm. Kaori goes to the living room to check on Masashi, and later, everyone in the other room hears her scream. They quickly run to the living room and find Masashi is dead.
+
+<br>
+
+#### File 100 - The Last Word
+Kogoro, who is still drunk, warns everyone not to enter the room until the police arrive. Ran tells Kogoro that the police and the ambulance can't reach there due to the blizzard. 
+
+Kogoro asks whether there are any valuables in the room, and Tomoyasu replies that there is a safe in the cabinet to the right of the TV. Kogoro figures the safe door is scratched up, while Conan finds bloody tracks on the carpet which look like the victim crawled to the wall. Conan wonders why the victim is sitting formally on his knees; he discovers the bloodstains on the table are unnatural, and also, the tablecloth has fallen off from the table. While Conan is thinking about the strange bloody rope marks on the tablecloth, Kogoro hits Conan and asks him to stay out of it. Kogoro notices the windows are open and deduces that the murderer snuck in through the windows, leaving his footprints outside. Since there is no other option, Kogoro asks the guests for help by performing an autopsy on Masashi without tainting the scene. 
+
+The estimated time of death is between 9.30 and 10 pm. There are several wounds on the victim's body, but the cause of death is suffocation from the two stab wounds that punctured his lungs. Kogoro immediately concludes that the murderer entered through the window while the victim was watching TV. The murderer threatened the victim with a knife for the number to the safe, but the victim wouldn't tell, and so he stabbed the victim repeatedly and fled through the window.
+
+Conan examines the victim's body and questions why the murderer never steals the victim's gold watch. Conan points out the obvious footprints outside the window, which indicates the murderer knows the victim will be watching TV by himself at that time and never even bothers to check whether there is someone else in the room before sneaking inside. The new findings lead Kogoro to deduce that the scratches on the safe are to make the scene appear as a failed burglary, and the murderer actually knew the victim was watching TV alone during that hour. Kogoro questions all four suspects' alibis and accuses Tomoyasu as the murderer because of his weak alibi. 
+
+Conan finds a bloody lighter on the sofa. The bloody side was face down, yet there was no blood on the sofa. Suddenly, Conan remembers the bloody tablecloth and finds a perfect spot where the lighter was originally placed. Conan recalls the victim mentioning that a horse would have been nice for the door when Ran and Conan introduced themselves. Conan believes that the victim left behind a dying message, and he knows who the murderer is.
+
+#### Anime Episode(s)
+* [Episode 46 - Alpine Hut in the Snowy Mountain Murder Case / The Snowy Mountain Lodge Murder Case](https://detectiveconan96.fandom.com/wiki/Alpine_Hut_in_the_Snowy_Mountain_Murder_Case).
+
+<br>
+<hr>
+
+### Personal Thoughts
+The experience of a rollercoaster of hope and disappointment is undeniable.
+
+<br>
+<hr>
+
+##### Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | 9781421503165 / 1421503166 |
+| **Pages** | 192 |
+| **Published Year** | 21/03/2006 (Original Published Date: 18/04/1996) |
+| **Date Read** | 20-05-2026 - 25-05-2026 |
+| **Rating** | 5 / 5 |
+| **Genre** | Manga, Mystery |
+| **Country** | Japan |
+| **Notes / Themes** | murder, revenge, detective, investigation  | 
