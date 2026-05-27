@@ -2,6 +2,7 @@
 
 | Case(s) | Rating |
 | --- | :---: |
+| Case 025 - Diplomat Murder Case (Volume 10) | 10/10 |
 | Case 014 - Conan Edogawa Kidnapping Case (Volume 5, Volume 6) | 10/10 |
 | Case 001 - Roller Coaster Murder Case (Volume 1) | 10/10 |
 | Case 018 - Moonlight Sonata Case (Volume 7) | 9.5/10 |
@@ -13,7 +14,9 @@
 | Case 019 - Pro Soccer Player Case (Volume 7) | 7.5/10 |
 | Case 021 - Poisoned Bride Case (Volume 8) | 7.5/10 |
 | Case 024 - Wealthy Daughter Murder Case (Volume 9, Volume 10) | 7.5/10 |
+| Case 027 - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
 | Case 015 - Antique Collector Case (Volume 6) | 7.5/10 |
+| Case 026 - Library Murder Case (Volume 10) | 7/10 |
 | Case 016 - Twin Brothers Case (Volume 6) | 7/10 |
 | Case 023 - Kogoro's Class Reunion (Volume 9 | 7/10 |
 | Case 005 - ¥1,000,000,000 Robbery (Volume 2) | 7/10 |
