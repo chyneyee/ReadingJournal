@@ -7,14 +7,17 @@
 | Case 001 - Roller Coaster Murder Case (Volume 1) | 10/10 |
 | Case 018 - Moonlight Sonata Case (Volume 7) | 9.5/10 |
 | Case 020 - Night Baron Murder Case (Volume 8) | 9/10 |
+| Case 029 - Coffee Shop Case (Volume 11) | 9/10 |
 | Case 013 - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | Case 008 - Monthly Present Case (Volume 3) | 9/10 |
+| Case  028 - TV Station Murder Case (Volume 11) | 8.5/10 |
 | Case 017 - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | Case 010 - Bullet Train Bombing (Volume 4) | 8/10 |
 | Case 019 - Pro Soccer Player Case (Volume 7) | 7.5/10 |
 | Case 021 - Poisoned Bride Case (Volume 8) | 7.5/10 |
 | Case 024 - Wealthy Daughter Murder Case (Volume 9, Volume 10) | 7.5/10 |
 | Case 027 - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
+| Case 030 - Mist Tengu Case (Volume 11) | 7.5/10|
 | Case 015 - Antique Collector Case (Volume 6) | 7.5/10 |
 | Case 026 - Library Murder Case (Volume 10) | 7/10 |
 | Case 016 - Twin Brothers Case (Volume 6) | 7/10 |
