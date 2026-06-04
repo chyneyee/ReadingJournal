@@ -20,4 +20,4 @@
 ## Volume 11 - 20
 | Volume | File Number | Case Name(s) |
 | :--- | :---:| --- |
-| [11 - An Unfamiliar Face](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md) | File 101 - 110 | <ul><li>Case 027 - Snowy Mountain Cabin Case (F101)</li></ul> |
+| [11 - An Unfamiliar Face](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md) | File 101 - 110 | <ul><li>Case 027 - Snowy Mountain Cabin Case (F101)</li><li>Case 028 - TV Station Murder Case (F102 - 104)</li><li>Case 029 - Coffee Shop Case (F105 - F107)</li><li>Case 030 - Mist Tengu Case (F108 - F110) </li></ul> |
