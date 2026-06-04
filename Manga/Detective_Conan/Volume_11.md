@@ -166,7 +166,7 @@ The next day, Megure and Ran praise Kogoro for his physics knowledge, but Kogoro
 </details>
 
 #### Anime Episode(s)
-* [Episode 52 The Mist Goblin Legend Murder Case](https://detectiveconan96.fandom.com/wiki/The_Mist_Goblin_Legend_Murder_Case).
+* [Episode 52 The Mist Goblin Legend Murder Case / The Legendary Kiri Tengu Murders](https://detectiveconan96.fandom.com/wiki/The_Mist_Goblin_Legend_Murder_Case).
 * Manga vs Anime - [Mist Tengu Case vs The Mist Golbin Legend Murder Case](https://detectiveconan96.fandom.com/wiki/The_Mist_Goblin_Legend_Murder_Case#Manga_to_anime_changes).
 
 <br>
