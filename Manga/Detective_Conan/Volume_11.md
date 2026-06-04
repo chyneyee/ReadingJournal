@@ -116,7 +116,7 @@ Later, it reveals that Yayoi was Juzo's mistress. She had been pressuring him fo
 <hr>
 
 ### Case 030 - Mist Tengu Case
-#### Gadgets Introduced - [Button Speaker](https://www.detectiveconanworld.com/wiki/Button_Speaker)
+#### Gadget Introduced - [Button Speaker](https://www.detectiveconanworld.com/wiki/Button_Speaker)
 
 <br>
 
