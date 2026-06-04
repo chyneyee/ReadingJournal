@@ -1,7 +1,7 @@
 # Manga vs Anime Episode List
 
 ## Volume 1 - 10
-| Volume | Case Number - Case Name | Episode Number - Episode Name | Notes
+| Volume | Case Number - Case Name | Episode Number - Episode Name | Notes (Possible Spoiler) |
 | :---: | --- | --- | --- |
 | [01](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md) | <ul><li>Case 001 - Roller Coaster Murder Case (F01)</li><li>Case 002 - Company President's Daughter Case (F02 - F05)</li><li>Case 003 - Bloody Idol Case (F06 - F09)</li></ul> | <ul><li>E01 - The Roller Coaster Murder Case</li><li>E02 - The Kidnapping of the Company President's Daughter</li><li>E03 - A Murder Behind the Locked Doors of a Celebrity's Apartment</li></ul> | <ul><li><b>Case 003</b> - Voice-Changing Bowtie.</li></ul> |
 | [02](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md) | <ul><li>Case 004 - Mysterious Shadow Case (F10 - F12)</li><li>Case 005 - ¥1,000,000,000 Robbery (F13 - F16)</li><li>Case 006 - Haunted Mansion Case (F17 - F19)</li></ul> | <ul><li>E38 - The Akaoni Fire Festival Murder Case</li><li>E13 - The Bizarre Manhunt Murder, E128 - The Black Organization: One Billion Yen Robbery Case</li><li>The Haunted House Murder</li></ul> | <ul><li><b>Case 004</b> - Power-Enhancing Kick Shoes.</li><li><b>Case 005</b> - Transmitter, Criminal Tracking Glasses.</li><li><b>Case 006</b> - Elasticity Suspenders.</li></ul> |
@@ -20,4 +20,4 @@
 ## Volume 11 - 20
 | Volume | Case Number - Case Name | Episode Number - Episode Name | Notes
 | :---: | --- | --- | --- |
-| [11](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md) | <ul><li>Case027 - Medical Professors Murder Case / Snowy Mountain Cabin Case (F101)</li><ul> | <ul><li>Episode 46 - Alpine Hut in the Snowy Mountain Murder Case / The Snowy Mountain Lodge Murder Case</li></ul> | <ul><li><b>Case 027</b> - Conan made a minor mistake in his analysis about the murderer.</li></ul> |
+| [11](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md) | <ul><li>Case027 - Medical Professors Murder Case / Snowy Mountain Cabin Case (F101)</li><ul> | <ul><li>Episode 46 - Alpine Hut in the Snowy Mountain Murder Case / The Snowy Mountain Lodge Murder Case</li></ul> | <ul><li><b>Case 027</b> - Conan made a minor mistake in his analysis about the murderer.</li><li><b>Case 028</b> - Kogoro begins to suspect Conan because he realises that he gets sleepy every time Conan is around. This is the second time that the killer is revealed at the beginning of the case. This is the first time Kogoro reveals he's separated from his wife.</li></ul> |
