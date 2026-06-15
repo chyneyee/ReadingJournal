@@ -31,6 +31,7 @@
 * [Stephen King - Elevation](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Elevation-Stephen_King.md)
 * [Stephen King - It](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/It-Stephen_King.md)
 * [Stephen King - Misery](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Misery-Stephen_King.md)
+* [Stephen King - Needful Things](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Needful_Things-Stephen_King.md)
 * [Stephen King - Rose Madder](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/Rose_Madder-Stephen_King.md)
 * [Stephen King - The Institute](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/The_Institute-Stephen_King.md)
 * [Stephen King - The Plant](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/The_Plant-Stephen_King.md)
