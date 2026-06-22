@@ -67,3 +67,10 @@
 # V - X
 
 # Y - Z
+<details>
+  
+  <summary>Author - Title</summary>
+
+  * [Yan Lianke - Dream of Ding Village](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Dream_of_Ding_Village-Yan_Lianke.md)
+
+</details>  
