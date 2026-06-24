@@ -21,6 +21,7 @@
 <details>
   <summary>Author - Title</summary>
 
+  * [Gaston Leroux - The Phantom of the Opera](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/The_Phantom_of_the_Opera-Gaston_Leroux.md)
   * [Harriet Beecher Stove - Uncle Tom's Cabin](https://github.com/chyneyee/ReadingJournal/blob/main/Classics/Uncle_Toms_Cabin-Harriet_Beecher_Stowe.md)
  
 </details>
