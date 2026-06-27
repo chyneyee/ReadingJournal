@@ -39,6 +39,7 @@
   
   * Mandy Smith
   * Margaret Atwood
+  * Michael J. Malone
   * Michael Marshall
   * Michelle Williams
   * Miguel Ruiz
