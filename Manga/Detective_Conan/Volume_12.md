@@ -39,6 +39,8 @@ Two hours later, the police arrested the criminal. On the way home, the kids are
 
 </details>
 
+<br>
+
 #### Anime Episode(s)
 * [Episode 163 & 164 - Secret of the Moon, the Star & Sun Part 1 & 2](https://www.detectiveconanworld.com/wiki/The_Secret_of_the_Moon,_the_Star,_and_the_Sun).
 * Manga vs Anime
@@ -90,6 +92,8 @@ Hironobu claims that he never thought the explosion came from the bomb he plante
 Conan urges Hideaki to explain all he knows about Tequila and the organisation, but all Hideaki knows is that he met Tequila at a "Cocktail" bar located in the Daikoku building. Megure tries to make Kogoro explain more about the organisation while Conan rushes to the Daikoku building. However, by the time Conan is in the lift to the top floor, a massive explosion suddenly happens. The police arrive after one hour. The horrific explosion has completely destroyed the bar, and the police couldn't even determine whether anyone was inside. Conan later learns that Hideaki received a big sum of money from the men in black in exchange for a list of the world's top programmers. Conan does not know whether Gin and Vodka are still alive, and the case remains an unsolved mystery.
 </details>
 
+<br>
+
 #### Anime Episode(s)
 * [Episode 54 - The Game Company Murder Case](https://www.detectiveconanworld.com/wiki/Game_Company_Murder_Case).
 * Manga vs Anime - [Continuity Error](https://detectiveconan96.fandom.com/wiki/Game_Company_Murder_Case#Continuity_error).
@@ -136,6 +140,8 @@ Kogoro claims that the owner is still alive and accuses him of attacking Toshiak
 The maid tells everyone the fuse blew after she tried to plug in the coffee maker. She then leads them to the kitchen, and Heiji finds a thin wire wrapped around the prongs which caused the fuse to blow. Conan finds another gift's tag with a wire which indicates the culprit used it to tie on the prongs. Kogoro accuses Ikuo, but Heiji still feels something is not right and asks Conan for validation. Conan continues with his deduction, which surprises everyone, and he quickly changes his tone and acts as a kid who doesn't know anything. Ran takes him away while Conan finds it difficult to work on the case when Heiji is around. Heiji begins to suspect Conan's real identity and recalls Conan was missing every time Shinichi appeared, but he dismisses the ridiculous idea in the end.
 
 Heiji analyses the first incident and believes the owner has already died when he was driving the car. The rigor mortis had caused the owner's grip on the steering wheel to become firm. Based on Heiji's analysis, he concludes that the owner was killed before dinner the day before. However, Heiji doesn't understand why the killer needs to put the owner in the car so early. Kento believes the murderer places the owner in the car in advance in order to stiffen the owner's position. The other guests question how the car could suddenly speed up since the dead man no longer can control the car. Suddenly, Heiji figures out who the killer is, and so do Conan and Kogoro. Kogoro accuses Maria of being the killer by hypnotising the owner into driving the car. Conan wishes to drug Kogoro to use him as a mouthpiece but is worried that Heiji might find out. He asks Heiji what happens to the rigor mortis when the outside temperature rises, but Heiji pretends that he doesn't know the answer. Conan knows Heiji is trying to trap him, and he gives an excuse of going to the bathroom. Heiji wants to follow him but can't find Conan after opening the door. Conan hides on top of the door and shoots a tranquiliser dart on Heiji. Conan hides behind Heiji to reveal the killer.
+
+<br>
 
 #### Anime Episode(s)
 * [Episode 57 & 58 - Holmes Freak Murder Case](https://www.detectiveconanworld.com/wiki/Holmes_Freak_Murder_Case).
