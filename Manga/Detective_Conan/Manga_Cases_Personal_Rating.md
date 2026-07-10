@@ -10,7 +10,9 @@
 | Case 029 - Coffee Shop Case (Volume 11) | 9/10 |
 | Case 013 - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | Case 008 - Monthly Present Case (Volume 3) | 9/10 |
-| Case  028 - TV Station Murder Case (Volume 11) | 8.5/10 |
+| Case 028 - TV Station Murder Case (Volume 11) | 8.5/10 |
+| Case 033 - Holmes Freak Case (Volume 12, Volume 13) | 8.5/10 |
+| Case 032 - Game Convention Case (Volume 12) | 8/10 |
 | Case 017 - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | Case 010 - Bullet Train Bombing (Volume 4) | 8/10 |
 | Case 019 - Pro Soccer Player Case (Volume 7) | 7.5/10 |
@@ -19,9 +21,10 @@
 | Case 027 - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
 | Case 030 - Mist Tengu Case (Volume 11) | 7.5/10|
 | Case 015 - Antique Collector Case (Volume 6) | 7.5/10 |
+| Case 031 - Moon, Star, and Sun Case (Volume 12) | 7/10 |
 | Case 026 - Library Murder Case (Volume 10) | 7/10 |
 | Case 016 - Twin Brothers Case (Volume 6) | 7/10 |
-| Case 023 - Kogoro's Class Reunion (Volume 9 | 7/10 |
+| Case 023 - Kogoro's Class Reunion (Volume 9) | 7/10 |
 | Case 005 - ¥1,000,000,000 Robbery (Volume 2) | 7/10 |
 | Case 003 - Bloody Idol Case (Volume 1)  | 7/10 |
 | Case 002 - Company President's Daughter Case (Volume 1) | 7/10 |
