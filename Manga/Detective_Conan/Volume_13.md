@@ -26,3 +26,10 @@ Kento confesses and reveals Toshiaki and Hiroyuki published a book that had Iren
 
 ### Case 034 - Triplet Murder Case
 #### File 122 - Who was it They Witnessed? / The Witnesses Are...!?
+
+
+<br>
+<hr>
+
+### Personal Thoughts
+The Holmes Freak Case is good, but the killer's motive seems a bit far-fetched despite the case having such a great build-up from the beginning. Anyway, with the absurdity of the world, I guess anyone can kill for any ridiculous reason.
