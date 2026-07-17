@@ -169,7 +169,7 @@ Two months later, the Gomera movie is released in the cinemas. The last scene wa
 | **ISBN** | 9781421504438 / 142150443X |
 | **Pages** | 184 |
 | **Published Year** | 19/09/2006 (Original Published Date: 10/12/1996) |
-| **Date Read** | 09-06-2026 - 16-06-2026 |
+| **Date Read** | 09-07-2026 - 16-07-2026 |
 | **Rating** | 4 / 5 |
 | **Genre** | Manga, Mystery |
 | **Country** | Japan |
