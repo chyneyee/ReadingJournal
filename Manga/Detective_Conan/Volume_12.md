@@ -158,7 +158,7 @@ I feel the case "Moon, Star, and Sun" is brilliant but unfortunately, I'm not pr
 | **ISBN** | 9781421504421 / 1421504421 |
 | **Pages** | 184 |
 | **Published Year** | 18/07/2006 (Original Published Date: 18/09/1996) |
-| **Date Read** | 08-06-2026 - 09-06-2026 |
+| **Date Read** | 08-07-2026 - 09-07-2026 |
 | **Rating** | 5 / 5 |
 | **Genre** | Manga, Mystery |
 | **Country** | Japan |
