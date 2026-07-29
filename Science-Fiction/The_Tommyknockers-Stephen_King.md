@@ -41,7 +41,7 @@ Gard avoids the pursuit of the residents and goes to the buried spacecraft. With
 - The pace is very slow at the beginning of the story. There was a lot of rambling for the build-up, which made it difficult to see where the story was heading. I wonder whether King's drug influence when writing this book affected the quality of the story.
 - It's very difficult to get intrigued to continue reading the book until the end. It's a struggle to follow the storyline.
 - Once you are able to follow the story, there are some interesting parts, but you have to bear with the ramblings. Somehow, I wonder if the ramblings are depicting Gard, an alcoholic who is struggling with his life while Bobbi's sanity is fading due to the effect of the spaceship.
-- The second part is getting better as the pace is faster and the story switches to new characters, telling the impacts or unusual changes happening to other residents.
+- The second part is better as the pace is faster and the story switches to new characters, telling the impacts or unusual changes happening to other residents.
 - The overall story is interesting, but I find the story difficult to follow.
 - The first part is bad, the second part is good, and the third part is better.
 - Good story, bad writing.
