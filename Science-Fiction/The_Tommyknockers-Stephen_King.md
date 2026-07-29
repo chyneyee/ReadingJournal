@@ -42,7 +42,7 @@ Gard avoids the pursuit of the residents and goes to the buried spacecraft. With
 - It's very difficult to get intrigued to continue reading the book until the end. It's a struggle to follow the storyline.
 - Once you are able to follow the story, there are some interesting parts, but you have to bear with the ramblings. Somehow, I wonder if the ramblings are depicting Gard, an alcoholic who is struggling with his life while Bobbi's sanity is fading due to the effect of the spaceship.
 - The second part is getting better as the pace is faster and the story switches to new characters, telling the impacts or unusual changes happening to other residents.
-- The overall story is interesting, but I find the story difficult to follow and hard to dive into.
+- The overall story is interesting, but I find the story difficult to follow.
 - The first part is bad, the second part is good, and the third part is better.
 - Good story, bad writing.
 
