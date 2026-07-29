@@ -22,8 +22,10 @@
 # S - U
 <details>
   <summary>Author - Title</summary>
-  
+
+  * [Stephen King - The Tommyknockers](https://github.com/chyneyee/ReadingJournal/blob/main/Science-Fiction/The_Tommyknockers-Stephen_King.md)
   * [Stephen King - Under the Dome](https://github.com/chyneyee/ReadingJournal/blob/main/Science-Fiction/Under_the_Dome-Stephen_King.md)
+
   
 </details>
 
