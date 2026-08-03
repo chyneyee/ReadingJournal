@@ -28,7 +28,7 @@
 | **ISBN** | 9781846276859 |
 | **Pages** | 230 |
 | **Series** | Granta Books |
-| **Published Year** | 05-07-2018 (Original Published Date: 127-07-2016) |
+| **Published Year** | 05-07-2018 (Original Published Date: 27-07-2016) |
 | **Date Read** | 06/05/2026 - 08/05/2026 |
 | **Rating** | 2 / 5 |
 | **Genre** | Literary Fiction |
