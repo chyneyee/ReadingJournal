@@ -1,6 +1,12 @@
 # A - C
 
 # D - F
+<details>
+  <summary>Author - Title</summary>
+
+* [David Jester - This Is How You Die](https://github.com/chyneyee/ReadingJournal/blob/main/Horror/This_Is_How_You_Die-David_Jester.md)
+
+</details>
 
 # G - I
 
