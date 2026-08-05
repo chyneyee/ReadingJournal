@@ -15,12 +15,19 @@
   <summary>List</summary>
 
   * Dan Brown
+  * David Jester
   * Deborah Rodriguez
   * Donna Tartt
   * Freida McFadden
 </details>
 
 # G - I
+<details>
+
+  <summary>List</summary>
+
+  * Heather Morris
+</details>
 
 # J - L
 <details>
