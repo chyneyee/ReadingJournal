@@ -40,7 +40,7 @@ During the confrontation at the theatre, Lester uses the knife to kill himself s
 * Somehow, I feel the thoughts expressed in the story are beyond Herman's age and more like the writer's mind. Herman is a serial killer, and although serial killers usually have unusual thinking, after all, he's still a teenager. The story is portraying a mature or an adult psychopath.
 * The narrator keeps mentioning that he has no problem with the issue that he raised, but at the same time, he severely criticises the issue and hates people who don't share the same hatred as him. I don't understand why the narrator needs to keep defending what he believes or hates and keep telling himself that he has no issues with it.
 * The book feels like a place for the writer to vent his rage against the world.
-* I really don't like the derogatory writing style, although I understand the writer's attempt to portray a serial killer who is against the world.
+* I understand the writer's attempt to portray the mindset of a serial killer, but I really don't like the derogatory writing style.
 
 <br>
 
