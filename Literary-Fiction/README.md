@@ -61,6 +61,7 @@
   <summary>Author - Title</summary>
 
   * [Sayaka Murata - Convenience Store Woman](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/Convenience_Store_Woman-Sayaka_Murata.md)
+  * [Sonoko Machida - The Convenience Store by the Sea (The Convenience Store by the Sea #1)](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Convenience_Store_by_the_Sea-Sonoko_Machida.md)
   * [Tash Aw - The Harmony Silk Factory](https://github.com/chyneyee/ReadingJournal/blob/main/Literary-Fiction/The_Harmony_Silk_Factory-Tash_Aw.md)
 
 </details>  
