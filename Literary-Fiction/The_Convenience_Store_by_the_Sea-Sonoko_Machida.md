@@ -27,7 +27,7 @@ The story involves the lives of various local residents who are regular customer
 | **Published Year** | 30/01/2025 (Original Published Date: 07/08/2020) |
 | **Date Read** | 09/08/2026 - 10/08/2026 |
 | **Rating** | 5 / 5 |
-| **Genre** | Literary Fiction |
+| **Genre** | Literary Fiction, Book to TV or Movie |
 | **Country** | Japan |
 | **Notes / Themes** | Bullying, sexism, toxic friendship, grief, infidelity | 
 
