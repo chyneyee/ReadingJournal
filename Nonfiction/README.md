@@ -20,6 +20,7 @@
 <details>
   <summary>Author - Title</summary>
 
+  * [Hal Gold - Japan's Infamous Unit 731: First-hand Accounts of Japan's Wartime Human Experimentation Program](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Japan's_Infamous_Unit_731-Hal_Gold.md)
   * [Haruki Murakami - Underground: The Tokyo Gas Attack and the Japanese Psyche](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Underground_The_Tokyo_Gas_Attack_and_the_Japanese_Psyche-Haruki_Murakami.md)
   * [Helen Gardner - Joe Cinque's Consolation: A True Story of Death, Grief and the Law](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/Joes_Cinques_Consolation-Helen_Garner.md)
   * [Ho Pin - A Death in the Lucky Holiday Hotel: Murder, Money, and an Epic Power Struggle in China](https://github.com/chyneyee/ReadingJournal/blob/main/Nonfiction/A_Death_in_the_Lucky_Holiday_Hotel-Ho_Pin.md)
