@@ -171,7 +171,7 @@ Jack waits at the Marysville Hole, waiting for Ralph and the rest to appear. He 
 
 ## Personal Thoughts
 * The writing style is so different from his old style. I need some time to adapt it because I read more of King's old works than the newer ones. It's more straightforward and less blabbering. Still draggy but less beating around the bush.
-* I hope Ralph Anderson is not a recurring character. I really don't like him. He's overly self-confident and unwilling to accept other people's opinions that contradict what he believes. I think most of the male characters in this story are quite full of themselves.
+* I hope Ralph Anderson is not a recurring character. I really don't like him. He's overly self-confident and unwilling to accept other people's opinions that contradict what he believes. He's quite full of himself.
 * The story mentions Bill Hodges several times, which I assume is referring to the Bill Hodges trilogy, but I haven't read any of the books yet.
 
 <br>
