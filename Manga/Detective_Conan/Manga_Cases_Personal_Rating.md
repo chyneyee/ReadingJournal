@@ -13,6 +13,7 @@
 | [Case 028](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-028---tv-station-murder-case) - TV Station Murder Case (Volume 11) | 8.5/10 |
 | [Case 033](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-033---holmes-freak-case--holmes-enthusiasts-murder-case) - Holmes Freak Case (Volume 12, Volume 13) | 8.5/10 |
 | [Case 032](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-032---game-convention-case) - Game Convention Case (Volume 12) | 8/10 |
+| [Case 039](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-039---ski-lodge-case) - Ski Lodge Case (Volume 14, Volume 15) | 8/10 |
 | [Case 017](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-017---tenkaichi-festival-case) - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | [Case 010](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#bullet-train-bombing-case-010) - Bullet Train Bombing (Volume 4) | 8/10 |
 | [Case 019](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_07.md#case-019---pro-soccer-player-case) - Pro Soccer Player Case (Volume 7) | 7.5/10 |
@@ -23,6 +24,7 @@
 | [Case 036](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-036---gomera-murder-case) - Gomera Murder Case (Volume 13) | 7.5/10 |
 | [Case 015](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-015---antique-collector-case) - Antique Collector Case (Volume 6) | 7.5/10 |
 | [Case 031](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-031---moon-star-and-sun-case) - Moon, Star, and Sun Case (Volume 12) | 7/10 |
+| [Case 038](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-038---suspicious-uncle-case) - Suspicious Uncle Case (Volume 14) | 7/10 |
 | [Case 026](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_10.md#case-026---library-murder-case) - Library Murder Case (Volume 10) | 7/10 |
 | [Case 016](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-016---twin-brothers-case) - Twin Brothers Case (Volume 6) | 7/10 |
 | [Case 023](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-023---kogoros-class-reunion) - Kogoro's Class Reunion (Volume 9) | 7/10 |
@@ -31,6 +33,7 @@
 | [Case 003](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md#bloody-idol-murder-case-case-003) - Bloody Idol Case (Volume 1)  | 7/10 |
 | [Case 002](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md#company-presidents-daughter-case-case-002) - Company President's Daughter Case (Volume 1) | 7/10 |
 | [Case 034](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-034---triplet-murder-case) - Triplet Murder Case (Volume 13) | 7/10 |
+| [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 | [Case 006](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md#haunted-mansion-case-case-006) - Haunted Mansion Case (Volume 2) | 6/10 |
 | [Case 007](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md#hatamoto-family-case-case-007) - Hatamoto Family Case (Volume 3) | 6/10 |
