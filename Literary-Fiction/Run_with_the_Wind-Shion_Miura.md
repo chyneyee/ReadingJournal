@@ -46,6 +46,6 @@ I love every bit of the story. It captures the scenes and every feeling very wel
 | **Published Year** | 21/10/2025 (Original Published Date: 22/09/2006) |
 | **Date Read** | 29-08-2026 - 06-09-2026 |
 | **Rating** | 5 / 5 |
-| **Genre** | Book to Movie, Literature Fiction |
+| **Genre** | Book to Movie, Sports, Literature Fiction |
 | **Country** | Japan |
 | **Notes / Themes** | Sports, bully, racism, self-belief, lost of life direction, ambition  | 
