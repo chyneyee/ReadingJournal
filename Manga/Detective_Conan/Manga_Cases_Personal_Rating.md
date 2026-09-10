@@ -33,11 +33,13 @@
 | [Case 003](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md#bloody-idol-murder-case-case-003) - Bloody Idol Case (Volume 1)  | 7/10 |
 | [Case 002](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md#company-presidents-daughter-case-case-002) - Company President's Daughter Case (Volume 1) | 7/10 |
 | [Case 034](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-034---triplet-murder-case) - Triplet Murder Case (Volume 13) | 7/10 |
+| [Case 041](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_15.md#case-041---loan-company-president-murder-case) - Loan Company President Murder Case (Volume 15) | 7/10 |
 | [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 | [Case 006](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md#haunted-mansion-case-case-006) - Haunted Mansion Case (Volume 2) | 6/10 |
 | [Case 007](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md#hatamoto-family-case-case-007) - Hatamoto Family Case (Volume 3) | 6/10 |
 | [Case 009](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#museum-owner-murder-case-case-009) - Museum Owner Murder Case (Volume 4) | 6/10 |
+| [Case 040](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_15.md#case-040---two-mix-kidnapping-case) - Two-Mix Kidnapping Case (Volume 15) | 6/10 |
 | [Case 012](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_05.md#case-012---bandaged-man-murder-case) - Bandaged Man Case (Volume 5) | 5/10 |
 | [Case 004](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md#mysterious-shadow-case-case-004) - Mysterious Shadow Case (Volume 2) | 5/10 |
 | [Case 011](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#code-sheet-case-case-011) - Code Sheet Case (Volume 4) | 5/10 |
