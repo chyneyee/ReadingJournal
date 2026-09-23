@@ -1,6 +1,8 @@
 # A - C
 <details> 
 <summary>Author - Title</summary>
+
+  * [Aisling Rawle - The Compound](https://github.com/chyneyee/ReadingJournal/blob/main/Science-Fiction/The_Compound-Aisling_Rawle.md)
 </details>  
 
 # D - F
