@@ -23,7 +23,9 @@ As the competition progresses, some contestants are banished via voting, and som
 <hr>
 
 ## Personal Thoughts
-I found it mediocre and wish there were more backstory about the outside world of the compound. This book describes that the story takes place in a dystopian world. I kept searching for the dystopian side of the story, but it was vague as fog. I started to question what is considered enough to be in a "dystopian" state. Probably, my definition for "dystopian" is different than others. I was really disappointed towards the end because of the flat ending. I was hoping for something spectacular because the story was quite thrilling when it reached the last three contestants. In short, the ending is not an ending. 
+I found it mediocre and wish there were more backstory about the outside world of the compound. This book describes that the story takes place in a dystopian world. I kept searching for the dystopian side of the story, but it was vague as fog. I started to question what is considered enough to be in a "dystopian" state. Probably, my definition for "dystopian" is different than others. 
+
+I was really disappointed towards the end because of the flat ending. I was hoping for something spectacular because the story was quite thrilling when it reached the last three contestants. In short, the ending is not an ending. 
 
 <br>
 
