@@ -35,7 +35,7 @@ I found it mediocre and wish there were more backstory about the outside world o
 | **Pages** | 344 |
 | **Published Year** | 02-07-2025 (Original Published Date: 24-06-2025) |
 | **Date Read** | 19-09-2026 - 23-09-2026 |
-| **Rating** | 2 / 5 |
+| **Rating** | 3 / 5 |
 | **Genre** | Science Fiction, Mystery |
 | **Country** | Ireland |
 | **Notes / Themes** | Dystopian, violence, sexist, misogyny, greed | 
