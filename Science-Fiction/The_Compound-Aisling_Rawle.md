@@ -35,7 +35,7 @@ I was really disappointed towards the end because of the flat ending. I was hopi
 | -- | -- |
 | **ISBN** | 9780008710095 |
 | **Pages** | 344 |
-| **Published Year** | 02-07-2025 (Original Published Date: 24-06-2025) |
+| **Published Year** | 03-07-2025 (Original Published Date: 03-07-2025) |
 | **Date Read** | 19-09-2026 - 23-09-2026 |
 | **Rating** | 2.5 / 5 |
 | **Genre** | Science Fiction, Mystery |
