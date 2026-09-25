@@ -33,7 +33,7 @@ As the big day is coming nearer, Kakeru is getting to know more about what kind 
 <br>
 
 ## Perrsonal Thoughts
-I love every bit of the story. It captures the scenes and every feeling very well. The story is well-written and brilliantly translated, which easily brings the reader to dive into the minds of every resident of the Chikusei-so to understand their struggles, emotions, and the strong bond among them.
+I love every bit of the story. It captures the scene and every feeling very well. The story is well-written and brilliantly translated, which easily brings the reader to dive into the minds of every resident of the Chikusei-so to understand their struggles, emotions, and the strong bond among them.
 
 <br>
 <hr>
