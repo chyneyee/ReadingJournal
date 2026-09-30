@@ -163,6 +163,10 @@ Two months later, the Gomera movie is released in the cinemas. The last scene wa
 * The Holmes Freak Case is good, but the killer's motive seems a bit far-fetched despite the case having such a great build-up from the beginning. Anyway, with the absurdity of the world, I guess anyone can kill for any ridiculous reason.
 * The killer's method in The Illustrator Murder Case is brilliant, but at the same time, it's quite complicated to understand. Actually, I'm amazed by the creativity behind the trick. I gain more understanding about the trick after watching the anime.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
