@@ -145,6 +145,10 @@ During the birthday celebration at night, Mr Nagato announces the engagement bet
 ### Personal Thoughts
 * I love to see every time Ran shows her surprising, high-level skill in something that his father and Conan are not good at. It's great to see Heiji Hattori is back.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
