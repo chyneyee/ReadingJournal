@@ -152,6 +152,10 @@ Heiji analyses the first incident and believes the owner has already died when h
 ### Personal Thoughts
 I feel the case "Moon, Star, and Sun" is brilliant but unfortunately, I'm not proficient with hiragana, which hindered my ability to fully appreciate the story.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
