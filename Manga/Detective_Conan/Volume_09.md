@@ -165,6 +165,10 @@ Everyone decides to go to the parlour and wait for the car to arrive. Conan uses
 ### Personal Thoughts
 The quality of the cases in this volume has dropped slightly but is still interesting to read.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
