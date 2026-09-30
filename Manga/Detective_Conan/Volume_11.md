@@ -175,6 +175,10 @@ The next day, Megure and Ran praise Kogoro for his physics knowledge, but Kogoro
 ### Personal Thoughts
 I found this volume interesting because it portrays that Conan is not perfect. Once in a while, Conan made some mistakes in his analysis, or someone shared similar wisdom in solving the case. I felt "The Mist Tengu Case" seemed a bit farfetched, but I still felt fascinated by the creativity of the killing method.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
