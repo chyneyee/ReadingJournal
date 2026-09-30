@@ -142,6 +142,10 @@ During dinnertime, the phone rings and the caretaker of the cabin calls to make 
 ### Personal Thoughts
 * I love it every time the parents appear in the case. Yukiko is cute, and Yusaku looks so cool. It's refreshing every time Conan is so confident until he is defeated by his father again. The family brings a lot of joy to the story.
 
+<br>
+
+***
+
 ##### Record
 | Title | Description |
 | -- | -- |
