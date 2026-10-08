@@ -136,7 +136,7 @@ At dinner, Masuko gets drunk, and Yoshihiko later puts her to bed. The next morn
 <br>
 
 #### Anime Episode(s)
-* [Episode 98-99: The Famous Potter Murder Case](https://www.detectiveconanworld.com/wiki/The_Famous_Potter_Murder_Case).
+* [Episode 98 - 99: The Famous Potter Murder Case](https://www.detectiveconanworld.com/wiki/The_Famous_Potter_Murder_Case).
 
 <br>
 <hr>
