@@ -127,3 +127,35 @@ Conan appears in the newspaper as the hero who protected the "Black Star". When 
 
 ### Case 045 - Famous Potter Murder Case
 #### File 160 - The Machination of the Potter / The Potter's Plot
+Kikuemon, a potter, invites Kogoro, Ran, and Conan because he's a big fan of Kogoro. Kikuemon has two apprentices. The first one is Yoshihiko Arita, and the second one is Ryuichi Seto. Yoshihiko's work is improving rapidly, whereas Ryuichi seems to be experiencing slow productivity. Kikuemon wants Kogoro to choose one of his workpieces as a gift for him.
+
+Kikuemon asks his daughter-in-law, Masuko, to go to the storage room to take his new workpiece, which will be showing at the exhibition. Afterwards, Kikuemon decides to show them the kiln. At the kiln, they are talking about Masuko, whom Kikuemon entrusted to choose his successor. The three apprentices, including Kaoru Ooya, who is working at the kiln, are discussing Masuko's strictness, and their work is usually difficult to pass her standard. While Kikuemon is giving advice to the apprentices, they suddenly hear Masuko's scream. They rush to the storage room, and Masuko tells them that the new vase had dropped to the ground when she was climbing up the ladder. The apprentices are joking that Masuko always breaks Kaoru's work. Next to the ladder, Conan finds a marble.
+
+At dinner, Masuko gets drunk, and Yoshihiko later puts her to bed. The next morning, she is no longer in her bed and doesn't answer her cell phone. Suddenly, everyone in the house hears something break in the storage room. Conan runs to the storage room, followed by the rest. They find Masuko hanged in the room.
+
+<br>
+
+#### Anime Episode(s)
+* [Episode 98-99: The Famous Potter Murder Case](https://www.detectiveconanworld.com/wiki/The_Famous_Potter_Murder_Case).
+
+<br>
+<hr>
+
+### Personal Thoughts
+* Wow. Finally, Kaito Kid appears. Also, in this volume, it's probably the first time I've liked a case that involved the Detective Boys. Maybe fewer mistakes were made.
+
+<br>
+
+***
+
+##### Record
+| Title | Description |
+| -- | -- |
+| **ISBN** | 9781421508818 / 1421508818 |
+| **Pages** | 192 |
+| **Published Year** | 20/03/2007 (Original Published Date: 09/08/1997) |
+| **Date Read** | 05/10/2026 - 07/10/2026 |
+| **Rating** | 5 / 5 |
+| **Genre** | Manga, Mystery |
+| **Country** | Japan |
+| **Notes / Themes** | murder, revenge, detective, investigation  | 
