@@ -29,6 +29,7 @@
 | [Case 024](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-024---wealthy-daughter-murder-case) - Wealthy Daughter Murder Case (Volume 9, Volume 10) | 7.5/10 |
 | [Case 027](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_10.md#case-027---medical-professors-murder-case--snowy-mountain-cabin-case) - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
 | [Case 030](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-030---mist-tengu-case) - Mist Tengu Case (Volume 11) | 7.5/10 |
+| [Case 046](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#file-163---three-puzzled-tricks--three-schemes) - Scuba Diving Case (Volume 17) | 7.5/10 |
 | [Case 036](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-036---gomera-murder-case) - Gomera Murder Case (Volume 13) | 7.5/10 |
 | [Case 015](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-015---antique-collector-case) - Antique Collector Case (Volume 6) | 7.5/10 |
 |   <p align="center"><b>7/10</b></align>   |
@@ -46,12 +47,15 @@
 | [Case 041](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_15.md#case-041---loan-company-president-murder-case) - Loan Company President Murder Case (Volume 15) | 7/10 |
 |   <p align="center"><b>6.5/10</b></align>   |
 | [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
+| [Case 045](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-045---famous-potter-murder-case) - Famous Potter Murder Case (Volume 17) | 6.5/10 |
+| [Case 047](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-047---hospitalised-robber-case) - Hospitalised Robber Case (Volume 17) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 |   <p align="center"><b>6/10</b></align>   |
 | [Case 006](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md#haunted-mansion-case-case-006) - Haunted Mansion Case (Volume 2) | 6/10 |
 | [Case 007](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md#hatamoto-family-case-case-007) - Hatamoto Family Case (Volume 3) | 6/10 |
 | [Case 009](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#museum-owner-murder-case-case-009) - Museum Owner Murder Case (Volume 4) | 6/10 |
 | [Case 040](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_15.md#case-040---two-mix-kidnapping-case) - Two-Mix Kidnapping Case (Volume 15) | 6/10 |
+| [Case 048](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-048---mysterious-clocks-case) - Mysterious Clock Case (Volume 17) | 6/10 |
 |   <p align="center"><b>5/10</b></align>   |
 | [Case 012](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_05.md#case-012---bandaged-man-murder-case) - Bandaged Man Case (Volume 5) | 5/10 |
 | [Case 004](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_02.md#mysterious-shadow-case-case-004) - Mysterious Shadow Case (Volume 2) | 5/10 |
