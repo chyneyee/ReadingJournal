@@ -47,7 +47,7 @@
 | [Case 041](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_15.md#case-041---loan-company-president-murder-case) - Loan Company President Murder Case (Volume 15) | 7/10 |
 |   <p align="center"><b>6.5/10</b></align>   |
 | [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
-| [Case 045](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-045---famous-potter-murder-case) - Famous Potter Murder Case (Volume 17) | 6.5/10 |
+| [Case 045](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-045---famous-potter-murder-case) - Famous Potter Murder Case (Volume 16, Volume 17) | 6.5/10 |
 | [Case 047](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-047---hospitalised-robber-case) - Hospitalised Robber Case (Volume 17) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 |   <p align="center"><b>6/10</b></align>   |
