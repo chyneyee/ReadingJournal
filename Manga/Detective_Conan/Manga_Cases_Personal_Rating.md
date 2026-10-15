@@ -4,9 +4,11 @@
 | --- | :---: |
 |   <p align="center"><b>10/10</b></align>   |
 | [Case 025](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_10.md#case-025---diplomat-murder-case) - Diplomat Murder Case (Volume 10) | 10/10 |
+| [Case 052](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-052---murdered-professor-case) - Murdered Professor Case (Volume 18, Volume 19) | 10/10 |
 | [Case 014](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_05.md#case-014---conan-edogawa-kidnapping-case) - Conan Edogawa Kidnapping Case (Volume 5, Volume 6) | 10/10 |
 | [Case 001](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_01.md#prologue---roller-coaster-murder-case-case-001) - Roller Coaster Murder Case (Volume 1) | 10/10 |
 |   <p align="center"><b>9.5/10</b></align>   |
+| [Case 051](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-051---missing-older-brother-case) - Missing Older Brother Case (Volume 18) | 9.5/10 |
 | [Case 018](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_07.md#case-018---moonlight-sonata-case) - Moonlight Sonata Case (Volume 7) | 9.5/10 |
 |   <p align="center"><b>9/10</b></align>   |
 | [Case 020](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_08.md#case-020---night-baron-murder-case) - Night Baron Murder Case (Volume 8) | 9/10 |
@@ -17,6 +19,8 @@
 |   <p align="center"><b>8.5/10</b></align>   |
 | [Case 028](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-028---tv-station-murder-case) - TV Station Murder Case (Volume 11) | 8.5/10 |
 | [Case 033](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-033---holmes-freak-case--holmes-enthusiasts-murder-case) - Holmes Freak Case (Volume 12, Volume 13) | 8.5/10 |
+| [Case 050](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-050---shinichis-first-love-case) - Shinichi's First Love Case (Volume 18) | 8.5/10 |
+| [Case 049](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-049---actors-apartment-case) - Actor's Apartment Case (Volume 17, Volume 18) | 8.5/10 |
 |   <p align="center"><b>8/10</b></align>   |
 | [Case 032](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-032---game-convention-case) - Game Convention Case (Volume 12) | 8/10 |
 | [Case 039](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-039---ski-lodge-case) - Ski Lodge Case (Volume 14, Volume 15) | 8/10 |
