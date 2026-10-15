@@ -198,6 +198,7 @@ Ai approaches Conan and says that it's impossible to lock the door from outside 
 <hr>
 
 ### Personal Thoughts
+I was highly anticipating Ai Haibara's appearance, as she featured prominently in many Conan movies. On the other hand, I was a bit sceptical of the character because she has an arrogant vibe. To my surprise, I quite like her calm and composed demeanour. Also, she has an interesting background, and she will be a great "working partner" with Conan. This is really a good addition to have a character who shares a few similar attributes or experiences with Conan.
 
 ***
 
