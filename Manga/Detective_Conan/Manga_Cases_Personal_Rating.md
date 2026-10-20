@@ -14,6 +14,7 @@
 | [Case 020](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_08.md#case-020---night-baron-murder-case) - Night Baron Murder Case (Volume 8) | 9/10 |
 | [Case 029](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-029---coffee-shop-case) - Coffee Shop Case (Volume 11) | 9/10 |
 | [Case 044](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_16.md#case-044---kaitou-kid-and-the-black-star) - Kaitou Kid and the Black Star (Volume 16) | 9/10 |
+| [Case 054](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md#case-054---stabbed-wallet-case) - Stabbed Wallet Case (Volume 19) | 9/10 |
 | [Case 013](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_05.md#case-013---lex-vocalist-murder-case) - Lex Vocalist Murder Case (Volume 5) | 9/10 |
 | [Case 008](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_03.md#monthly-present-case-case-008) - Monthly Present Case (Volume 3) | 9/10 |
 |   <p align="center"><b>8.5/10</b></align>   |
@@ -34,6 +35,7 @@
 | [Case 027](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_10.md#case-027---medical-professors-murder-case--snowy-mountain-cabin-case) - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
 | [Case 030](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-030---mist-tengu-case) - Mist Tengu Case (Volume 11) | 7.5/10 |
 | [Case 046](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#file-163---three-puzzled-tricks--three-schemes) - Scuba Diving Case (Volume 17) | 7.5/10 |
+| [Case 053](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md#case-053---mystery-writer-case) - Mystery Writer Case (Volume 19) | 7.5/10 | 
 | [Case 036](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-036---gomera-murder-case) - Gomera Murder Case (Volume 13) | 7.5/10 |
 | [Case 015](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-015---antique-collector-case) - Antique Collector Case (Volume 6) | 7.5/10 |
 |   <p align="center"><b>7/10</b></align>   |
