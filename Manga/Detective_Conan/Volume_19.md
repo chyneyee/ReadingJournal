@@ -213,7 +213,7 @@ That was an interesting story about Heiji, introducing his hometown, Osaka, and 
 ##### Record
 | Title | Description |
 | -- | -- |
-| **ISBN** | 9781421508849 / 1421508842)4 |
+| **ISBN** | 9781421508849 / 1421508842 |
 | **Pages** | 184 |
 | **Published Year** | 18/09/2007 (Original Published Date: 18/04/1998) |
 | **Date Read** | 15/10/2026 - 19/10/2026 |
