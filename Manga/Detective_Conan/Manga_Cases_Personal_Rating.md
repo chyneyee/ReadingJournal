@@ -21,10 +21,12 @@
 | [Case 028](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-028---tv-station-murder-case) - TV Station Murder Case (Volume 11) | 8.5/10 |
 | [Case 033](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-033---holmes-freak-case--holmes-enthusiasts-murder-case) - Holmes Freak Case (Volume 12, Volume 13) | 8.5/10 |
 | [Case 050](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-050---shinichis-first-love-case) - Shinichi's First Love Case (Volume 18) | 8.5/10 |
+| [Case 056](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-056---magic-lovers-case) - Magic Lover's Case (Volume 20) | 8.5/10 |
 | [Case 049](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-049---actors-apartment-case) - Actor's Apartment Case (Volume 17, Volume 18) | 8.5/10 |
 |   <p align="center"><b>8/10</b></align>   |
 | [Case 032](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-032---game-convention-case) - Game Convention Case (Volume 12) | 8/10 |
 | [Case 039](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-039---ski-lodge-case) - Ski Lodge Case (Volume 14, Volume 15) | 8/10 |
+| [Case 057](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-057---sealed-bathroom-case) - Sealed Bathroom Case (Volume 20) | 8/10 |
 | [Case 017](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-017---tenkaichi-festival-case) - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | [Case 010](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#bullet-train-bombing-case-010) - Bullet Train Bombing (Volume 4) | 8/10 |
 |   <p align="center"><b>7.5/10</b></align>   |
@@ -54,6 +56,7 @@
 |   <p align="center"><b>6.5/10</b></align>   |
 | [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
 | [Case 045](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-045---famous-potter-murder-case) - Famous Potter Murder Case (Volume 16, Volume 17) | 6.5/10 |
+| [Case 055](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-055---stadium-threatening-case) - Stadium Threatening Case (Volume 19, Volume 20) | 6.5/10 |
 | [Case 047](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-047---hospitalised-robber-case) - Hospitalised Robber Case (Volume 17) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 |   <p align="center"><b>6/10</b></align>   |
