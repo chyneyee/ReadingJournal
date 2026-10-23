@@ -30,3 +30,6 @@
 | [18 - What Little Girls Are Made Of](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md) | File 171 - 180 | <ul><li>Case 049 - Actor's Apartment Case (F171 - F172)</li><li>Case 050 - Shinichi's First Love Case (F173 - F175)</li><li>Case 051 - Missing Older Brother Case (F176 - F178)</li><li>Case 052 - Murdered Professor Case (F179 - F180)</li></ul> |
 | [19 - And Then There Were Two](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md) | File 181 - 190 | <ul><li>Case 052 - Murdered Professor Case (F181)</li><li>Case 053 - Mystery Writer Case (F182 - F184)</li><li>Case 054 - Stabbed Wallet Case (F185 - F188)</li><li>Case 055 - Stadium Threatening Case (F189 - F190)</li></ul> |
 | [20 - Conan's Sense of Snow](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md) | File 191 - 200 | <ul><li>Case 055 - Stadium Threatening Case (F191)</li><li>Case 056 - Magic Lovers Case (F192 - F196)</li><li>Case 057 - Sealed Bathroom Case (F197 - F199)</li><li>Case 058 - Blue Castle Case (F200)</li></ul> |
+
+<br>
+<hr>
