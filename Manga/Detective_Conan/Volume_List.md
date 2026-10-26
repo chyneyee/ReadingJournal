@@ -33,3 +33,8 @@
 
 <br>
 <hr>
+
+## Volume 21 - 30
+| Volume | File Number | Case Name(s) |
+| :--- | :---:| --- |
+| [21 - Strangers on a Plane](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md) | File 201 - 211 | <ul><li>Case 058 - Blue Castle Case (F201 - F203)</li><li>Case 059 - Shinichi's First Murder Case (F204 - F207)</li><li>Case 060 - Treadmill Murder Case (F208 - F210)</li><li>Case 061 - Wedding Murder Case (F211) </li> |
