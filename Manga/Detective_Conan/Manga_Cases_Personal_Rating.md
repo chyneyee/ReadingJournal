@@ -27,6 +27,8 @@
 | [Case 032](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-032---game-convention-case) - Game Convention Case (Volume 12) | 8/10 |
 | [Case 039](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-039---ski-lodge-case) - Ski Lodge Case (Volume 14, Volume 15) | 8/10 |
 | [Case 057](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-057---sealed-bathroom-case) - Sealed Bathroom Case (Volume 20) | 8/10 |
+| [Case 058](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md#case-058---blue-castle-case) - Blue Castle Case (Volume 20, Volume 21) | 8/10 |
+| [Case 059](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md#case-059---shinichis-first-murder-case) - Shinichi's First Murder Case (Volume 21) | 8/10 |
 | [Case 017](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-017---tenkaichi-festival-case) - Tenkaichi Festival Case (Volume 6, Volume 7) | 8/10 |
 | [Case 010](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_04.md#bullet-train-bombing-case-010) - Bullet Train Bombing (Volume 4) | 8/10 |
 |   <p align="center"><b>7.5/10</b></align>   |
@@ -35,6 +37,7 @@
 | [Case 042](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_16.md#case-042---bond-of-fire-case) - Bond of Fire Case (Volume 15, Volume 16) | 7.5/10 |
 | [Case 024](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-024---wealthy-daughter-murder-case) - Wealthy Daughter Murder Case (Volume 9, Volume 10) | 7.5/10 |
 | [Case 027](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_10.md#case-027---medical-professors-murder-case--snowy-mountain-cabin-case) - Medical Professors Murder Case (Volume 10, Volume 11) | 7.5/10 |
+| [Case 060](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md#case-060---treadmill-murder-case) - Treadmill Murder Case (Volume 21) | 7.5/10 |
 | [Case 030](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_11.md#case-030---mist-tengu-case) - Mist Tengu Case (Volume 11) | 7.5/10 |
 | [Case 046](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#file-163---three-puzzled-tricks--three-schemes) - Scuba Diving Case (Volume 17) | 7.5/10 |
 | [Case 053](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md#case-053---mystery-writer-case) - Mystery Writer Case (Volume 19) | 7.5/10 | 
