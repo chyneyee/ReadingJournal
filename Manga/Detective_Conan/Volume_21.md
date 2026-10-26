@@ -215,7 +215,7 @@ Heiji knocks on the door and finds the room is locked. Soon after, Kogoro and Ka
 <hr>
 
 ### Personal Thoughts
-
+This volume involves the romance development of different couples, including a romantic rivalry in the police department.
 
 ***
 
