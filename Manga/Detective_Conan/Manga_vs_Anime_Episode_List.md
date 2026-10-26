@@ -1,4 +1,3 @@
-
 # Manga vs Anime Episode List
 
 ## Volume 1 - 10
@@ -35,3 +34,8 @@
 
 <br>
 <hr>
+
+## Volume 21 - 30
+| Volume | Case Number - Case Name | Episode Number - Episode Name | Notes
+| :---: | --- | --- | --- |
+| [21](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md) | <ul><li>Case 058 - Blue Castle Case (F201 - F203)</li><li>Case 059 - Shinichi's First Murder Case (F204 - F207)</li><li>Case 060 - Treadmill Murder Case (F208 - F210)</li><li>Case 061 - Wedding Murder Case (F211) </li></ul> | <ul><li>Episode 136 & 137 - The Old Blue Castle Investigation Case</li><li>Episode 162 - The Locked Room in the Sky: Shinichi Kudo's First Case</li><li>Episode 146 & 147 - Metropolitan Police Detective Love Story</li><li>Episode 141 & 142 - The Night Before the Wedding Locked Room Case</li></ul> | <ul><li><b>Case 058</b> -  Ayumi asks Ai whether she likes Conan. Ai assures Ayumi that she has no interest in Conan.</li><li><b>Case 059</b><ul><li>A year ago, Ran went to Los Angeles with Shinichi to visit his parents.</li><li>This is Shinichi's first case, beginning his career as a detective.</li><li>Shinichi couldn't sleep when Ran was sleeping next to him on the plane.</li><li>At the present day, Ran dreams of her trip to Los Angeles with Shinichi, where he encountered his first case, and he asked her an embarrassing question to solve the case. </li></ul></li><li><b>Case 060</b><ul><li>Miwako praises Conan's deduction skill and advises him to become a police officer when he grows up. She promises that Wataru and her will take care of him if he joins their team.</li><li>Introduces Ninzaburo Shiratori, an inspector for the Tokyo Metropolitan Police Department.</li><li>First appearance of Yumi Miyamoto, a patrol officer of the traffic bureau and Wataru and Miwako's mutual friend.</li><li>Wataru has a crush on Miwako; Ninzaburo is introduced as a romantic rival for Miwako's affections.</li><li>Wataru is led to believe that Miwako is interested in Megure.</li><li>Miwako praises Conan's brilliant deduction skill in front of the superintendent for helping them to solve the case.</li></ul><li><b>Case 062</b> - Ran changes her shirt in the car in the broad daylight after Kazuha reveals that she is annoyed that Ran and Heiji are wearing matching shirts like they did when they met in Osaka, as if they had planned it as a couple.</li></li></ul> |
