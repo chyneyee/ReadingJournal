@@ -23,7 +23,9 @@
 | [Case 050](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-050---shinichis-first-love-case) - Shinichi's First Love Case (Volume 18) | 8.5/10 |
 | [Case 056](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-056---magic-lovers-case) - Magic Lover's Case (Volume 20) | 8.5/10 |
 | [Case 049](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_18.md#case-049---actors-apartment-case) - Actor's Apartment Case (Volume 17, Volume 18) | 8.5/10 |
+| [Case 062](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md#case-062---north-star-murder-case) - North Star Murder Case (Volume 22) | 8.5/10 |
 |   <p align="center"><b>8/10</b></align>   |
+| [Case 061](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md#case-061---wedding-murder-case) - Wedding Murder Case (Volume 21, Volume 22) | 8/10 |
 | [Case 032](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-032---game-convention-case) - Game Convention Case (Volume 12) | 8/10 |
 | [Case 039](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-039---ski-lodge-case) - Ski Lodge Case (Volume 14, Volume 15) | 8/10 |
 | [Case 057](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-057---sealed-bathroom-case) - Sealed Bathroom Case (Volume 20) | 8/10 |
@@ -43,6 +45,7 @@
 | [Case 053](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md#case-053---mystery-writer-case) - Mystery Writer Case (Volume 19) | 7.5/10 | 
 | [Case 036](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-036---gomera-murder-case) - Gomera Murder Case (Volume 13) | 7.5/10 |
 | [Case 015](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-015---antique-collector-case) - Antique Collector Case (Volume 6) | 7.5/10 |
+| [Case 063](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md#case-063---sonoko-attempted-murder-case) - Sonoko Attempted Murder Case (Volume 22) | 7.5/10 |
 |   <p align="center"><b>7/10</b></align>   |
 | [Case 043](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_16.md#case-043---school-mystery-case) - School Mystery Case (Volume 16) | 7/10|
 | [Case 031](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-031---moon-star-and-sun-case) - Moon, Star, and Sun Case (Volume 12) | 7/10 |
