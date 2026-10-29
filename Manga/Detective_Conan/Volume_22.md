@@ -62,7 +62,7 @@ At around 4:00 in the morning, the train enters the Seikan Tunnel on its route t
 
 <br>
 
-#### File 215 - Give Yourself Away / Search The Train!?
+#### File 216 - Give Yourself Away / Search The Train!?
 The train is halted, and the police arrive at the lobby car. He hears the witness testimonies, including Kogoro's claim about the culprit escaping through the shattered window.
 
 Meanwhile, Conan tries to dial his father and ask for further details about his unreleased novel. Fumiyo Akechi then approaches the phone booth and places her hand on the glass. Before Conan can get a connection, Ran arrives and returns him to the lobby car.
@@ -79,7 +79,7 @@ With the train now moving, Fumiyo attempts to call someone from her cabin but fa
 
 <br>
 
-#### File 216 - To be Continued...
+#### File 217 - To be Continued...
 Fumiyo reveals herself to be Yukiko and says she boarded the train after seeing the news about the botched robbery. After noticing a striking similarity to Yusaku's lost story, the couple called the jewellery store and found out that Keitaro was planning to take the luxury train in six days time. They tried to talk to the owner to cancel his trip, but he wouldn't listen. So, they bought two train tickets to stop the murder. Yukiko expresses her regret about leaving for the bathroom at the time of the murder, asking Conan if he thinks she is responsible for the man's death. Conan tries not to upset his mother by changing the topic and asks where the father is. Yukiko replies that he went on ahead to Sapporo on another train. Since they didn't know which train the jewellery owner would be riding, both of them decided to take different trains. Conan learns that the murder scheme works better at night and asks about the culprit's trick but is dumbfounded upon hearing that Yusaku himself had forgotten about its details. Yukiko explains that the unfinished manuscripts were stolen when Yusaku's editor was caught in a bank robbery, and Yukiko recalls that the robbery was orchestrated by Yasuji Asama. Ran then finds Conan in Fumiyo's cabin and tells him that Kogoro is about to start his deduction show.
 
 In the lobby car, Kogoro proceeds to outline his explanation for Yasuji's motivations. The detective reasons that Keitaro had made a secret agreement with Yasuji where the thief would break into the store, resulting in Keitaro collecting the vast amounts of insurance money. They then planned for Yasuji to return the jewellery to Keitaro in exchange for a portion of the insurance money. However, when Yasuji broke into the shop, Keitaro set off the store's alarm in an attempt to capture the criminal. In doing so, Keitaro would raise his popularity for the upcoming election. Keitaro would later receive a call from Yasuji about conducting another exchange aboard the express train, which would explain why Keitaro suddenly altered his travel plans from plane to train.
@@ -90,7 +90,7 @@ Hearing the news, Conan has a realisation and rushes to Yasuji's cabin to search
 
 <br>
 
-#### File 217 - The Terminal Station / The Last Station
+#### File 218 - The Terminal Station / The Last Station
 Yukiko assures her son of his safety, stating that the character from the novel met their end because he impulsively confronted the culprit without evidence. Conan reveals that he too lacks evidence. He says that with the investigation focusing on Yasuji as the one and only culprit, it is difficult to justify an additional search of the passenger's belongings. Yukiko then suggests they lure the culprit out.
 
 Returning to her Fumiyo disguise, Yukiko tells Mr Nishimura and the gathered passengers that she saw something "long." She claims to have forgotten what it was, but she will remember in due time, promising to inform the police when she does.
@@ -122,7 +122,7 @@ The next day, Conan accompanies his parents to Shin Chitose Airport, where he pr
 <hr>
 
 ### Case 063 - Sonoko Attempted Murder Case 
-#### File 218 - Go On, Sonoko / Go, Serena
+#### File 219 - Go On, Sonoko / Go, Serena
 Sonoko snaps an embarrassing photograph of Ran in her bathing suit on one of the beaches in Izu. Sonoko teases Ran about showing the photograph to Shinichi. Ran notices that her friend has been mean to her throughout the trip and is worried that she has done something that caused the friend to feel upset about her. Sonoko says that her plan this time was to avoid lodging at her expensive vacation home and to book a stay at a cheap inn to decrease the pressure guys may feel around her. However, her hopes were dashed after all the men attracted to Ran. Suddenly, a handsome young man named Tadahiko Michiwaki approaches the two girls. Sonoko assumes that he is after Ran but is greatly surprised after he invites her to have a meal with him. Ran encourages Sonoko to go with Tadahiko, while she and Conan will stay at the beach. 
 
 Sonoko is unable to do it alone but asks Ran and Conan to accompany her. The group converses over food at a beachside food court. Tadahiko says he is a student at Beika University and that he came to Izu to emotionally recover from being dumped by his ex-girlfriend. The man's flirtations are briefly interrupted by the rude service of the foodcourt waiter, Makoto Kyogoku. Ran seems to recognise the waiter, leading Sonoko to explain that he is the son of the owner of the inn that they are staying at. When asked how she knows, Sonoko replies that Makoto was glancing at them in the lobby, prompting her to ask one of the workers about his identity. Tadahiko realises that the girls are staying at the inn near his hotel and invites them to dinner. He tells Sonoko to bring her camera, mentioning a death that had occurred near the venue one year ago. A brown-haired girl was discovered on the beach with her stomach being stabbed repeatedly, and the culprit still has not been apprehended. There are rumours that the murdered woman liked the restaurant, leaving a gruesome poltergeist to stain any photographs taken within the establishment. As the girls bicker over whether to accept Tadahiko's offer, Makoto rudely slams their food onto the table before telling them to eat quickly. Another man named Shoji Terabayashi is looking at their table while drinking his beer quietly. Suddenly, several customers within the food court begin spreading news of another brown-haired woman having been murdered in the forest by the train tracks.
@@ -133,7 +133,7 @@ Later that day, Sonoko, Ran, and Conan wait for Tadahiko at the inn's entrance. 
 
 <br>
 
-#### File 219 - The Sleeping Beauty / Sleeping Beauty 
+#### File 220 - The Sleeping Beauty / Sleeping Beauty 
 Before the assailant can strike Sonoko with their knife, they hear Ran in the hallway calling for her friend. She opens the door to find Sonoko recovering from her attack, free of harm. She says her attacker fled through the window into the rain, prompting Conan to rush to the edge only to find no signs of the culprit. Sonoko describes seeing a man rummaging through their belongings when she opened the door. When asked how she knows her attacker was a man, she explains that she bit down on a hairy arm during the struggle. 
 
 Tadahiko then enters their room, visibly covered in rainwater and with mud-covered pants. He claims that his car broke down and he ran to the inn. He couldn't find them outside, so he asked one of the staff. Conan asks for him to remove his shirt. The man obliges the request, showing no signs of a bite mark nor any arm hair. Makoto enters the room next, sporting a bandage on his right arm. Ran asks about his injury, but Sonoko says he is likely not the culprit, as his arms are not hairy. Makoto thinks the attack is a case of attempted burglary, blaming Sonoko for wearing an alluring crop top that doesn't look good on her. He collects the girls' belongings and moves them to another room before suggesting that it's safer for them to take their dinner in the inn's restaurant.
@@ -150,7 +150,7 @@ Ran and Conan pursue the neutral vehicle and pound on the window in an attempt t
 
 <br>
 
-#### File 220 - The Prince of Kicks
+#### File 221 - The Prince of Kicks
 Inspector Sango Yokomizo arrives at the cliff's edge and assesses the situation. Someone broke into the car using a lockpick with great skill, and the police find a puddle of water that must have leaked out of the AC. 
 
 Meanwhile, Conan internally begins to narrow his list of suspects. He notes that Makoto could not be the culprit, as he had entered the restaurant just before the car had begun to roll. Additionally, Tadahiko is innocent, as he has remained at the table throughout the duration of the meal. Sango then offers Sonoko a ride to the police station, but having just experienced a harrowing incident involving a vehicle, Sonoko expresses her hesitancy. Tadahiko offers to walk her to the police station, which the girl accepts despite Sango's warnings.
