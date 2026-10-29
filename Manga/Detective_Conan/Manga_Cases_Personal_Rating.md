@@ -45,7 +45,6 @@
 | [Case 053](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_19.md#case-053---mystery-writer-case) - Mystery Writer Case (Volume 19) | 7.5/10 | 
 | [Case 036](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_13.md#case-036---gomera-murder-case) - Gomera Murder Case (Volume 13) | 7.5/10 |
 | [Case 015](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_06.md#case-015---antique-collector-case) - Antique Collector Case (Volume 6) | 7.5/10 |
-| [Case 063](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md#case-063---sonoko-attempted-murder-case) - Sonoko Attempted Murder Case (Volume 22) | 7.5/10 |
 |   <p align="center"><b>7/10</b></align>   |
 | [Case 043](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_16.md#case-043---school-mystery-case) - School Mystery Case (Volume 16) | 7/10|
 | [Case 031](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_12.md#case-031---moon-star-and-sun-case) - Moon, Star, and Sun Case (Volume 12) | 7/10 |
@@ -63,6 +62,7 @@
 | [Case 037](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_14.md#case-037---magicians-suicide-case) - Magician's Suicide Case (Volume 14) | 6.5/10 |
 | [Case 045](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-045---famous-potter-murder-case) - Famous Potter Murder Case (Volume 16, Volume 17) | 6.5/10 |
 | [Case 055](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_20.md#case-055---stadium-threatening-case) - Stadium Threatening Case (Volume 19, Volume 20) | 6.5/10 |
+| [Case 063](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md#case-063---sonoko-attempted-murder-case) - Sonoko Attempted Murder Case (Volume 22) | 6.5/10 |
 | [Case 047](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_17.md#case-047---hospitalised-robber-case) - Hospitalised Robber Case (Volume 17) | 6.5/10 |
 | [Case 022](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_09.md#case-022---kidnapped-ayumi-case--trapped-ayumi-case) - Kidnapped Ayumi Case (Volume 9) | 6.5/10 |
 |   <p align="center"><b>6/10</b></align>   |
