@@ -38,3 +38,4 @@
 | Volume | File Number | Case Name(s) |
 | :--- | :---:| --- |
 | [21 - Strangers on a Plane](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_21.md) | File 201 - 211 | <ul><li>Case 058 - Blue Castle Case (F201 - F203)</li><li>Case 059 - Shinichi's First Murder Case (F204 - F207)</li><li>Case 060 - Treadmill Murder Case (F208 - F210)</li><li>Case 061 - Wedding Murder Case (F211) </li></ul> |
+| [22 - Murder on the Hokutosei Express](https://github.com/chyneyee/ReadingJournal/blob/main/Manga/Detective_Conan/Volume_22.md) | File 212 - 221 | <ul><li>Case 061 - Wedding Murder Case (F212 - F214)</li><li>Case 062 - North Star Murder Case (F215 - F218)</li><li>Case 063 - Sonoko Attempted Murder Case (F219 - F221)</li></ul> |
